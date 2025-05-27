@@ -1,0 +1,622 @@
+[
+    {
+        "word": "Canadian",
+        "label": "B"
+    },
+    {
+        "word": "Modern",
+        "label": "I"
+    },
+    {
+        "word": "Lounge",
+        "label": "I"
+    },
+    {
+        "word": "Chairs",
+        "label": "I"
+    },
+    {
+        "word": "-",
+        "label": "I"
+    },
+    {
+        "word": "1519",
+        "label": "I"
+    },
+    {
+        "word": "5,250.00",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "piece",
+        "label": "O"
+    },
+    {
+        "word": "ships",
+        "label": "O"
+    },
+    {
+        "word": "free",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "continental",
+        "label": "O"
+    },
+    {
+        "word": "United",
+        "label": "O"
+    },
+    {
+        "word": "States",
+        "label": "O"
+    },
+    {
+        "word": "Price",
+        "label": "O"
+    },
+    {
+        "word": "includes",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "white",
+        "label": "O"
+    },
+    {
+        "word": "glove",
+        "label": "O"
+    },
+    {
+        "word": "shipping.",
+        "label": "O"
+    },
+    {
+        "word": "There",
+        "label": "O"
+    },
+    {
+        "word": "may",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "an",
+        "label": "O"
+    },
+    {
+        "word": "additional",
+        "label": "O"
+    },
+    {
+        "word": "charge",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "pieces",
+        "label": "O"
+    },
+    {
+        "word": "shipped",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "West",
+        "label": "O"
+    },
+    {
+        "word": "Coast",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    },
+    {
+        "word": "us",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "designertrade",
+        "label": "O"
+    },
+    {
+        "word": "pricing.",
+        "label": "O"
+    },
+    {
+        "word": "Canadian",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Lounge",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "1519",
+        "label": "O"
+    },
+    {
+        "word": "These",
+        "label": "O"
+    },
+    {
+        "word": "Canadian",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "lounge",
+        "label": "O"
+    },
+    {
+        "word": "chairs",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "Craft",
+        "label": "O"
+    },
+    {
+        "word": "Associates",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "expertly",
+        "label": "O"
+    },
+    {
+        "word": "crafted",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "upholstered.",
+        "label": "O"
+    },
+    {
+        "word": "Each",
+        "label": "O"
+    },
+    {
+        "word": "chair",
+        "label": "O"
+    },
+    {
+        "word": "boasts...",
+        "label": "O"
+    },
+    {
+        "word": "Price",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "chairs",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "dining",
+        "label": "O"
+    },
+    {
+        "word": "chairs",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "bar",
+        "label": "O"
+    },
+    {
+        "word": "stools",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "sofas",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "storage",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "tables,",
+        "label": "O"
+    },
+    {
+        "word": "credenzas,",
+        "label": "O"
+    },
+    {
+        "word": "benches",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "art",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "pottery",
+        "label": "O"
+    },
+    {
+        "word": "finished",
+        "label": "O"
+    },
+    {
+        "word": "custom",
+        "label": "O"
+    },
+    {
+        "word": "products",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "sofas,",
+        "label": "O"
+    },
+    {
+        "word": "chairs,",
+        "label": "O"
+    },
+    {
+        "word": "benches",
+        "label": "O"
+    },
+    {
+        "word": "finished",
+        "label": "O"
+    },
+    {
+        "word": "wing",
+        "label": "O"
+    },
+    {
+        "word": "chairs",
+        "label": "O"
+    },
+    {
+        "word": "Demo",
+        "label": "O"
+    },
+    {
+        "word": "SubMenu",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Demo",
+        "label": "O"
+    },
+    {
+        "word": "Submenu",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Designers",
+        "label": "O"
+    },
+    {
+        "word": "Lawrence",
+        "label": "O"
+    },
+    {
+        "word": "Peabody",
+        "label": "O"
+    },
+    {
+        "word": "Laura",
+        "label": "O"
+    },
+    {
+        "word": "Trenchard",
+        "label": "O"
+    },
+    {
+        "word": "Percival",
+        "label": "O"
+    },
+    {
+        "word": "Lafer",
+        "label": "O"
+    },
+    {
+        "word": "John",
+        "label": "O"
+    },
+    {
+        "word": "Risley",
+        "label": "O"
+    },
+    {
+        "word": "Milo",
+        "label": "O"
+    },
+    {
+        "word": "Baughman",
+        "label": "O"
+    },
+    {
+        "word": "Fabrics",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "Spec",
+        "label": "O"
+    },
+    {
+        "word": "Sheets",
+        "label": "O"
+    },
+    {
+        "word": "vintage",
+        "label": "O"
+    },
+    {
+        "word": "catalogues",
+        "label": "O"
+    },
+    {
+        "word": "Lawrence",
+        "label": "O"
+    },
+    {
+        "word": "Peabody",
+        "label": "O"
+    },
+    {
+        "word": "Chairs,",
+        "label": "O"
+    },
+    {
+        "word": "Sofas,",
+        "label": "O"
+    },
+    {
+        "word": "Selig",
+        "label": "O"
+    },
+    {
+        "word": "collection,",
+        "label": "O"
+    },
+    {
+        "word": "Nemchoff",
+        "label": "O"
+    },
+    {
+        "word": "collection",
+        "label": "O"
+    },
+    {
+        "word": "Adrian",
+        "label": "O"
+    },
+    {
+        "word": "Pearsall",
+        "label": "O"
+    },
+    {
+        "word": "Vintage",
+        "label": "O"
+    },
+    {
+        "word": "Catalogue",
+        "label": "O"
+    },
+    {
+        "word": "Milo",
+        "label": "O"
+    },
+    {
+        "word": "Baughman",
+        "label": "O"
+    },
+    {
+        "word": "Vintage",
+        "label": "O"
+    },
+    {
+        "word": "Catalogue",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "Directional",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "chairs,",
+        "label": "O"
+    },
+    {
+        "word": "credenzas,",
+        "label": "O"
+    },
+    {
+        "word": "chests",
+        "label": "O"
+    },
+    {
+        "word": "About",
+        "label": "O"
+    },
+    {
+        "word": "Us",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    }
+]

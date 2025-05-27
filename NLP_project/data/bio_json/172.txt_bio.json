@@ -1,0 +1,30 @@
+[
+    {
+        "word": "Not",
+        "label": "O"
+    },
+    {
+        "word": "specified",
+        "label": "O"
+    },
+    {
+        "word": "Potato",
+        "label": "B"
+    },
+    {
+        "word": "Sack",
+        "label": "I"
+    },
+    {
+        "word": "Natural",
+        "label": "I"
+    },
+    {
+        "word": "29.95",
+        "label": "O"
+    },
+    {
+        "word": "AUD",
+        "label": "O"
+    }
+]

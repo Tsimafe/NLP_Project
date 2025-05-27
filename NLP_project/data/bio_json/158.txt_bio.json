@@ -1,0 +1,5258 @@
+[
+    {
+        "word": "Skip",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "information",
+        "label": "O"
+    },
+    {
+        "word": "Open",
+        "label": "O"
+    },
+    {
+        "word": "media",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "modal",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Terbesar",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "Wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Terbesar",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "Rp",
+        "label": "O"
+    },
+    {
+        "word": "10,000.00",
+        "label": "O"
+    },
+    {
+        "word": "IDR",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "Rp",
+        "label": "O"
+    },
+    {
+        "word": "10,000.00",
+        "label": "O"
+    },
+    {
+        "word": "IDR",
+        "label": "O"
+    },
+    {
+        "word": "Unit",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "per",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Sold",
+        "label": "O"
+    },
+    {
+        "word": "out",
+        "label": "O"
+    },
+    {
+        "word": "Product",
+        "label": "O"
+    },
+    {
+        "word": "variants",
+        "label": "O"
+    },
+    {
+        "word": "Default",
+        "label": "O"
+    },
+    {
+        "word": "Title",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Rp",
+        "label": "O"
+    },
+    {
+        "word": "0,00",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Sold",
+        "label": "O"
+    },
+    {
+        "word": "out",
+        "label": "O"
+    },
+    {
+        "word": "Quantity",
+        "label": "O"
+    },
+    {
+        "word": "0",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Decrease",
+        "label": "O"
+    },
+    {
+        "word": "quantity",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "Wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Terbesar",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "Increase",
+        "label": "O"
+    },
+    {
+        "word": "quantity",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "Wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Terbesar",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "Sold",
+        "label": "O"
+    },
+    {
+        "word": "out",
+        "label": "O"
+    },
+    {
+        "word": "Wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Terbesar",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "terbesar",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "sebagai",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "memasangkan",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "hadir",
+        "label": "O"
+    },
+    {
+        "word": "hanya",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "wargatogel.",
+        "label": "O"
+    },
+    {
+        "word": "Merupakan",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "memasangkan",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "pengalaman",
+        "label": "O"
+    },
+    {
+        "word": "memasangkan",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "sistem",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "update.",
+        "label": "O"
+    },
+    {
+        "word": "Setiap",
+        "label": "O"
+    },
+    {
+        "word": "harinya",
+        "label": "O"
+    },
+    {
+        "word": "jika",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "ingin",
+        "label": "O"
+    },
+    {
+        "word": "mendapatkan",
+        "label": "O"
+    },
+    {
+        "word": "pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "pasti",
+        "label": "O"
+    },
+    {
+        "word": "jebol",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "4d",
+        "label": "O"
+    },
+    {
+        "word": "hanya",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "melalui",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "bet",
+        "label": "O"
+    },
+    {
+        "word": "100",
+        "label": "O"
+    },
+    {
+        "word": "rupiah.",
+        "label": "O"
+    },
+    {
+        "word": "Sebagai",
+        "label": "O"
+    },
+    {
+        "word": "link",
+        "label": "O"
+    },
+    {
+        "word": "alternatif",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "deposit",
+        "label": "O"
+    },
+    {
+        "word": "5000",
+        "label": "O"
+    },
+    {
+        "word": "rupiah",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "bukan",
+        "label": "O"
+    },
+    {
+        "word": "hanya",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya.",
+        "label": "O"
+    },
+    {
+        "word": "Namun",
+        "label": "O"
+    },
+    {
+        "word": "setiap",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "juga",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "sediakan",
+        "label": "O"
+    },
+    {
+        "word": "khusus",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "para",
+        "label": "O"
+    },
+    {
+        "word": "bettor.",
+        "label": "O"
+    },
+    {
+        "word": "Mencari",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "slot,",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "sbobet",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "juga",
+        "label": "O"
+    },
+    {
+        "word": "live",
+        "label": "O"
+    },
+    {
+        "word": "casino",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "melalui",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "online.",
+        "label": "O"
+    },
+    {
+        "word": "Wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "hadir",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "ternama,",
+        "label": "O"
+    },
+    {
+        "word": "sehingga",
+        "label": "O"
+    },
+    {
+        "word": "mencari",
+        "label": "O"
+    },
+    {
+        "word": "bandar",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "wajib",
+        "label": "O"
+    },
+    {
+        "word": "menggunakan",
+        "label": "O"
+    },
+    {
+        "word": "link",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "alternatif",
+        "label": "O"
+    },
+    {
+        "word": "deposit",
+        "label": "O"
+    },
+    {
+        "word": "5000",
+        "label": "O"
+    },
+    {
+        "word": "rupiah.",
+        "label": "O"
+    },
+    {
+        "word": "Pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "bet",
+        "label": "O"
+    },
+    {
+        "word": "kecil",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "juga",
+        "label": "O"
+    },
+    {
+        "word": "merupakan",
+        "label": "O"
+    },
+    {
+        "word": "sistem",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "dinanti",
+        "label": "O"
+    },
+    {
+        "word": "nantikan",
+        "label": "O"
+    },
+    {
+        "word": "oleh",
+        "label": "O"
+    },
+    {
+        "word": "para",
+        "label": "O"
+    },
+    {
+        "word": "bettor.",
+        "label": "O"
+    },
+    {
+        "word": "Sehingga",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "mudah",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "melakukan",
+        "label": "O"
+    },
+    {
+        "word": "daftar",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "resmi",
+        "label": "O"
+    },
+    {
+        "word": "hanya",
+        "label": "O"
+    },
+    {
+        "word": "melalui",
+        "label": "O"
+    },
+    {
+        "word": "website",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "melakukan",
+        "label": "O"
+    },
+    {
+        "word": "pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "terbesar",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "Asia.",
+        "label": "O"
+    },
+    {
+        "word": "kali",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "sebagai",
+        "label": "O"
+    },
+    {
+        "word": "bo",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "resmi",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "selalu",
+        "label": "O"
+    },
+    {
+        "word": "memberikan",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "pemasangant",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "terbesar.",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Tebesar",
+        "label": "O"
+    },
+    {
+        "word": "Sedia",
+        "label": "O"
+    },
+    {
+        "word": "Permainan",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Hari",
+        "label": "O"
+    },
+    {
+        "word": "Ini",
+        "label": "O"
+    },
+    {
+        "word": "Paling",
+        "label": "O"
+    },
+    {
+        "word": "Populer",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "terbesar",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "Asia",
+        "label": "O"
+    },
+    {
+        "word": "selalu",
+        "label": "O"
+    },
+    {
+        "word": "memberikan",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "melakukan",
+        "label": "O"
+    },
+    {
+        "word": "pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "lengkap",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "lisensi",
+        "label": "O"
+    },
+    {
+        "word": "Internasional.",
+        "label": "O"
+    },
+    {
+        "word": "Permainan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "sebenarnya",
+        "label": "O"
+    },
+    {
+        "word": "merupakan",
+        "label": "O"
+    },
+    {
+        "word": "salah",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "jenish",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "mudah",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "dicoba.",
+        "label": "O"
+    },
+    {
+        "word": "Hanya",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "menebak",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "atau",
+        "label": "O"
+    },
+    {
+        "word": "sering",
+        "label": "O"
+    },
+    {
+        "word": "dikenal",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "istilah",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "4d",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "adalah",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "game",
+        "label": "O"
+    },
+    {
+        "word": "sangatlah",
+        "label": "O"
+    },
+    {
+        "word": "cocok",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "dimainkan.",
+        "label": "O"
+    },
+    {
+        "word": "Karena",
+        "label": "O"
+    },
+    {
+        "word": "selain",
+        "label": "O"
+    },
+    {
+        "word": "sangat",
+        "label": "O"
+    },
+    {
+        "word": "mudah",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "dimainkan,",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "jackpot",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "prize",
+        "label": "O"
+    },
+    {
+        "word": "sangatlah",
+        "label": "O"
+    },
+    {
+        "word": "tinggi.",
+        "label": "O"
+    },
+    {
+        "word": "Sehingga",
+        "label": "O"
+    },
+    {
+        "word": "cocok",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sedang",
+        "label": "O"
+    },
+    {
+        "word": "mencari",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "mendapatkan",
+        "label": "O"
+    },
+    {
+        "word": "hadiah",
+        "label": "O"
+    },
+    {
+        "word": "pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "tinggi.",
+        "label": "O"
+    },
+    {
+        "word": "Untuk",
+        "label": "O"
+    },
+    {
+        "word": "itu",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "sebagai",
+        "label": "O"
+    },
+    {
+        "word": "bandar",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "kepada",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "bebearapa",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "populer",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "hongkong",
+        "label": "O"
+    },
+    {
+        "word": "Sebagai",
+        "label": "O"
+    },
+    {
+        "word": "salah",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "dicari,",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "hongkong",
+        "label": "O"
+    },
+    {
+        "word": "atau",
+        "label": "O"
+    },
+    {
+        "word": "dikenal",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "istilah",
+        "label": "O"
+    },
+    {
+        "word": "lainnya",
+        "label": "O"
+    },
+    {
+        "word": "yaitu",
+        "label": "O"
+    },
+    {
+        "word": "hongkong",
+        "label": "O"
+    },
+    {
+        "word": "pools.",
+        "label": "O"
+    },
+    {
+        "word": "Berasal",
+        "label": "O"
+    },
+    {
+        "word": "langsung",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "negara",
+        "label": "O"
+    },
+    {
+        "word": "hongkong,",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "selalu",
+        "label": "O"
+    },
+    {
+        "word": "hadir",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "sistem",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "menarik",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "tentunya",
+        "label": "O"
+    },
+    {
+        "word": "merupakan",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "aman",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "bettor",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "Indonesia.",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Macau",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "macau",
+        "label": "O"
+    },
+    {
+        "word": "atau",
+        "label": "O"
+    },
+    {
+        "word": "sering",
+        "label": "O"
+    },
+    {
+        "word": "kita",
+        "label": "O"
+    },
+    {
+        "word": "sebut",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "macau",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "adalah",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "nomor",
+        "label": "O"
+    },
+    {
+        "word": "pengeluaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "hingga",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "6x",
+        "label": "O"
+    },
+    {
+        "word": "setiap",
+        "label": "O"
+    },
+    {
+        "word": "harinya.",
+        "label": "O"
+    },
+    {
+        "word": "Walaupun",
+        "label": "O"
+    },
+    {
+        "word": "belum",
+        "label": "O"
+    },
+    {
+        "word": "sepopuler",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "lainnya,",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "macau",
+        "label": "O"
+    },
+    {
+        "word": "sendiri",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "penggemar",
+        "label": "O"
+    },
+    {
+        "word": "karena",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "jackpot",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "hingga",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "berkali",
+        "label": "O"
+    },
+    {
+        "word": "kali",
+        "label": "O"
+    },
+    {
+        "word": "setiap",
+        "label": "O"
+    },
+    {
+        "word": "harinya.",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Singapore",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "singapore",
+        "label": "O"
+    },
+    {
+        "word": "atau",
+        "label": "O"
+    },
+    {
+        "word": "terkenal",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "namanya",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "sgp",
+        "label": "O"
+    },
+    {
+        "word": "adalah",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "kelola",
+        "label": "O"
+    },
+    {
+        "word": "oleh",
+        "label": "O"
+    },
+    {
+        "word": "pemerintahan",
+        "label": "O"
+    },
+    {
+        "word": "singapore",
+        "label": "O"
+    },
+    {
+        "word": "secara",
+        "label": "O"
+    },
+    {
+        "word": "langsung.",
+        "label": "O"
+    },
+    {
+        "word": "Dengan",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "lisensi",
+        "label": "O"
+    },
+    {
+        "word": "internasional",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "berbagai",
+        "label": "O"
+    },
+    {
+        "word": "lembaga",
+        "label": "O"
+    },
+    {
+        "word": "membuat",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "sangatlah",
+        "label": "O"
+    },
+    {
+        "word": "dipercaya.",
+        "label": "O"
+    },
+    {
+        "word": "Walaupun",
+        "label": "O"
+    },
+    {
+        "word": "saat",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "tidak",
+        "label": "O"
+    },
+    {
+        "word": "setiap",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "mengeluarkan",
+        "label": "O"
+    },
+    {
+        "word": "siaran",
+        "label": "O"
+    },
+    {
+        "word": "langsung",
+        "label": "O"
+    },
+    {
+        "word": "penyediaan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini.",
+        "label": "O"
+    },
+    {
+        "word": "Tetap",
+        "label": "O"
+    },
+    {
+        "word": "membuat",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "singapore",
+        "label": "O"
+    },
+    {
+        "word": "sangatlah",
+        "label": "O"
+    },
+    {
+        "word": "ditunggu",
+        "label": "O"
+    },
+    {
+        "word": "tunggu.",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Sidney",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "sidney",
+        "label": "O"
+    },
+    {
+        "word": "atau",
+        "label": "O"
+    },
+    {
+        "word": "sidney",
+        "label": "O"
+    },
+    {
+        "word": "pools",
+        "label": "O"
+    },
+    {
+        "word": "adalah",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "dimana",
+        "label": "O"
+    },
+    {
+        "word": "setiap",
+        "label": "O"
+    },
+    {
+        "word": "harinya",
+        "label": "O"
+    },
+    {
+        "word": "akan",
+        "label": "O"
+    },
+    {
+        "word": "mengeluarkan",
+        "label": "O"
+    },
+    {
+        "word": "siaran",
+        "label": "O"
+    },
+    {
+        "word": "langsung.",
+        "label": "O"
+    },
+    {
+        "word": "Sebagai",
+        "label": "O"
+    },
+    {
+        "word": "pemain",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "mencari",
+        "label": "O"
+    },
+    {
+        "word": "namanya",
+        "label": "O"
+    },
+    {
+        "word": "jackpot",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "tentunya",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "wajib",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "mengetahui",
+        "label": "O"
+    },
+    {
+        "word": "link",
+        "label": "O"
+    },
+    {
+        "word": "alternatif",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "bet",
+        "label": "O"
+    },
+    {
+        "word": "100",
+        "label": "O"
+    },
+    {
+        "word": "rupiah",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "mendapatkan",
+        "label": "O"
+    },
+    {
+        "word": "sensasi",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "terbaik.",
+        "label": "O"
+    },
+    {
+        "word": "Saat",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "sdy",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "mulai",
+        "label": "O"
+    },
+    {
+        "word": "menjadi",
+        "label": "O"
+    },
+    {
+        "word": "sangatlah",
+        "label": "O"
+    },
+    {
+        "word": "dicari",
+        "label": "O"
+    },
+    {
+        "word": "cari",
+        "label": "O"
+    },
+    {
+        "word": "karena",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "banyak",
+        "label": "O"
+    },
+    {
+        "word": "kesamaan",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "terkenal",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "Asia.",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "Hari",
+        "label": "O"
+    },
+    {
+        "word": "Ini",
+        "label": "O"
+    },
+    {
+        "word": "Memberikan",
+        "label": "O"
+    },
+    {
+        "word": "Layanan",
+        "label": "O"
+    },
+    {
+        "word": "Terbaik",
+        "label": "O"
+    },
+    {
+        "word": "Bagi",
+        "label": "O"
+    },
+    {
+        "word": "Para",
+        "label": "O"
+    },
+    {
+        "word": "Bettor",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "hadir",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "para",
+        "label": "O"
+    },
+    {
+        "word": "bettor",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "sedang",
+        "label": "O"
+    },
+    {
+        "word": "mencari",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "melakukan",
+        "label": "O"
+    },
+    {
+        "word": "pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "4d",
+        "label": "O"
+    },
+    {
+        "word": "ini.",
+        "label": "O"
+    },
+    {
+        "word": "Menggunakan",
+        "label": "O"
+    },
+    {
+        "word": "saja",
+        "label": "O"
+    },
+    {
+        "word": "bandar",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "seperti",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "meningkatkan",
+        "label": "O"
+    },
+    {
+        "word": "potensi",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "tidak",
+        "label": "O"
+    },
+    {
+        "word": "termakan",
+        "label": "O"
+    },
+    {
+        "word": "upaya",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "abal",
+        "label": "O"
+    },
+    {
+        "word": "abal.",
+        "label": "O"
+    },
+    {
+        "word": "Permainan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "selalu",
+        "label": "O"
+    },
+    {
+        "word": "menjadi",
+        "label": "O"
+    },
+    {
+        "word": "salah",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "pencarian",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "tinggi,",
+        "label": "O"
+    },
+    {
+        "word": "karena",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "beberapa",
+        "label": "O"
+    },
+    {
+        "word": "layanan",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "menjadi",
+        "label": "O"
+    },
+    {
+        "word": "salah",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "hal",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "penting",
+        "label": "O"
+    },
+    {
+        "word": "saat",
+        "label": "O"
+    },
+    {
+        "word": "ini.",
+        "label": "O"
+    },
+    {
+        "word": "Seperti",
+        "label": "O"
+    },
+    {
+        "word": "layanan",
+        "label": "O"
+    },
+    {
+        "word": "customer",
+        "label": "O"
+    },
+    {
+        "word": "service",
+        "label": "O"
+    },
+    {
+        "word": "24",
+        "label": "O"
+    },
+    {
+        "word": "jam",
+        "label": "O"
+    },
+    {
+        "word": "hingga",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "lengkap",
+        "label": "O"
+    },
+    {
+        "word": "adalah",
+        "label": "O"
+    },
+    {
+        "word": "salah",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "kriteria",
+        "label": "O"
+    },
+    {
+        "word": "terbaik.",
+        "label": "O"
+    },
+    {
+        "word": "Sebagai",
+        "label": "O"
+    },
+    {
+        "word": "penyedia",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "Indonesia,",
+        "label": "O"
+    },
+    {
+        "word": "pemain",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "wajib",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "slealu",
+        "label": "O"
+    },
+    {
+        "word": "memilih",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "mendapatkan",
+        "label": "O"
+    },
+    {
+        "word": "hasil",
+        "label": "O"
+    },
+    {
+        "word": "terbaik",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "komitmen",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "memberikan",
+        "label": "O"
+    },
+    {
+        "word": "layanan",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya.",
+        "label": "O"
+    },
+    {
+        "word": "Wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "sebagai",
+        "label": "O"
+    },
+    {
+        "word": "link",
+        "label": "O"
+    },
+    {
+        "word": "alternatif",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "bet",
+        "label": "O"
+    },
+    {
+        "word": "kecil",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "datang",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "beragam",
+        "label": "O"
+    },
+    {
+        "word": "fasilitas",
+        "label": "O"
+    },
+    {
+        "word": "terbaik",
+        "label": "O"
+    },
+    {
+        "word": "cocok",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "jadikan",
+        "label": "O"
+    },
+    {
+        "word": "sebagai",
+        "label": "O"
+    },
+    {
+        "word": "acuan",
+        "label": "O"
+    },
+    {
+        "word": "bo",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "terbaik.",
+        "label": "O"
+    },
+    {
+        "word": "Kami",
+        "label": "O"
+    },
+    {
+        "word": "sangat",
+        "label": "O"
+    },
+    {
+        "word": "menyarankan",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "menggunakan",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "lisensi",
+        "label": "O"
+    },
+    {
+        "word": "resmi",
+        "label": "O"
+    },
+    {
+        "word": "setiap",
+        "label": "O"
+    },
+    {
+        "word": "harinya.",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "Menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "Beragam",
+        "label": "O"
+    },
+    {
+        "word": "Jenis",
+        "label": "O"
+    },
+    {
+        "word": "Permainan",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "Resmi",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "kini",
+        "label": "O"
+    },
+    {
+        "word": "hadir",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "memberikan",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "pengalaman",
+        "label": "O"
+    },
+    {
+        "word": "bermain",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya.",
+        "label": "O"
+    },
+    {
+        "word": "Setiap",
+        "label": "O"
+    },
+    {
+        "word": "harinya",
+        "label": "O"
+    },
+    {
+        "word": "jika",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "memainkan",
+        "label": "O"
+    },
+    {
+        "word": "langsung",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "terbaik",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online.",
+        "label": "O"
+    },
+    {
+        "word": "Pastinya",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "mengecek",
+        "label": "O"
+    },
+    {
+        "word": "bahwa",
+        "label": "O"
+    },
+    {
+        "word": "tidak",
+        "label": "O"
+    },
+    {
+        "word": "hanya",
+        "label": "O"
+    },
+    {
+        "word": "pasaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sangatlah",
+        "label": "O"
+    },
+    {
+        "word": "banyak,",
+        "label": "O"
+    },
+    {
+        "word": "namun",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "tersedia",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "bandar",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "4d",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "juga",
+        "label": "O"
+    },
+    {
+        "word": "sangatlah",
+        "label": "O"
+    },
+    {
+        "word": "beragam.",
+        "label": "O"
+    },
+    {
+        "word": "Sehingga",
+        "label": "O"
+    },
+    {
+        "word": "para",
+        "label": "O"
+    },
+    {
+        "word": "bettor",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "mudah",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "mendapatkan",
+        "label": "O"
+    },
+    {
+        "word": "keuntungan",
+        "label": "O"
+    },
+    {
+        "word": "jika",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "mempelajari",
+        "label": "O"
+    },
+    {
+        "word": "sistem",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "disediakan",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "website",
+        "label": "O"
+    },
+    {
+        "word": "wargatogel.",
+        "label": "O"
+    },
+    {
+        "word": "Dibawah",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "adalah",
+        "label": "O"
+    },
+    {
+        "word": "beberapa",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "4d",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "banyak",
+        "label": "O"
+    },
+    {
+        "word": "sekali",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "terbaik",
+        "label": "O"
+    },
+    {
+        "word": "cocok",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "coba",
+        "label": "O"
+    },
+    {
+        "word": "mainkan",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "4D,3D,",
+        "label": "O"
+    },
+    {
+        "word": "2D",
+        "label": "O"
+    },
+    {
+        "word": "merupakan",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "mudah",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "mainkan.",
+        "label": "O"
+    },
+    {
+        "word": "Anda",
+        "label": "O"
+    },
+    {
+        "word": "cukup",
+        "label": "O"
+    },
+    {
+        "word": "menebak",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "hingga",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "tersedia",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "melihat",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "hasil",
+        "label": "O"
+    },
+    {
+        "word": "keluaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini.",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "tereprcaya",
+        "label": "O"
+    },
+    {
+        "word": "memberikan",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "coba",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "tingkat",
+        "label": "O"
+    },
+    {
+        "word": "perkalian",
+        "label": "O"
+    },
+    {
+        "word": "kemenangan",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "mencapai",
+        "label": "O"
+    },
+    {
+        "word": "3000",
+        "label": "O"
+    },
+    {
+        "word": "kali",
+        "label": "O"
+    },
+    {
+        "word": "jumlah",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "jika",
+        "label": "O"
+    },
+    {
+        "word": "berhasil",
+        "label": "O"
+    },
+    {
+        "word": "menebak",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "benar.",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Colok",
+        "label": "O"
+    },
+    {
+        "word": "Bebas,",
+        "label": "O"
+    },
+    {
+        "word": "Colok",
+        "label": "O"
+    },
+    {
+        "word": "Macau,",
+        "label": "O"
+    },
+    {
+        "word": "Colok",
+        "label": "O"
+    },
+    {
+        "word": "Naga",
+        "label": "O"
+    },
+    {
+        "word": "Permainan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "colok",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "tentunya",
+        "label": "O"
+    },
+    {
+        "word": "berbeda",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "4d",
+        "label": "O"
+    },
+    {
+        "word": "pada",
+        "label": "O"
+    },
+    {
+        "word": "umumnya.",
+        "label": "O"
+    },
+    {
+        "word": "Dimana",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "colok",
+        "label": "O"
+    },
+    {
+        "word": "bebas",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "hanya",
+        "label": "O"
+    },
+    {
+        "word": "perlu",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "memasangkan",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "anggap",
+        "label": "O"
+    },
+    {
+        "word": "akan",
+        "label": "O"
+    },
+    {
+        "word": "keluar",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "total",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "angka.",
+        "label": "O"
+    },
+    {
+        "word": "Jika",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "menebak",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "keluar",
+        "label": "O"
+    },
+    {
+        "word": "tentunya",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "memenangkan",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "ini.",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Shio,",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "50",
+        "label": "O"
+    },
+    {
+        "word": "50",
+        "label": "O"
+    },
+    {
+        "word": "Jenis",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "merupakan",
+        "label": "O"
+    },
+    {
+        "word": "salah",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "game",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sangat",
+        "label": "O"
+    },
+    {
+        "word": "mudah",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "coba.",
+        "label": "O"
+    },
+    {
+        "word": "Dimana",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "menebak",
+        "label": "O"
+    },
+    {
+        "word": "shio",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "cukup",
+        "label": "O"
+    },
+    {
+        "word": "memiliki",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "binatang",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "akan",
+        "label": "O"
+    },
+    {
+        "word": "diundi",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "angka",
+        "label": "O"
+    },
+    {
+        "word": "belakang",
+        "label": "O"
+    },
+    {
+        "word": "keluaran",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "hari",
+        "label": "O"
+    },
+    {
+        "word": "ini.",
+        "label": "O"
+    },
+    {
+        "word": "Untuk",
+        "label": "O"
+    },
+    {
+        "word": "tabelnya",
+        "label": "O"
+    },
+    {
+        "word": "sendiri",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "lihat",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "tabel",
+        "label": "O"
+    },
+    {
+        "word": "disediakan",
+        "label": "O"
+    },
+    {
+        "word": "oleh",
+        "label": "O"
+    },
+    {
+        "word": "keami",
+        "label": "O"
+    },
+    {
+        "word": "bandar",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "resmi.",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Toto",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "Memberikan",
+        "label": "O"
+    },
+    {
+        "word": "Sensasi",
+        "label": "O"
+    },
+    {
+        "word": "Permainan",
+        "label": "O"
+    },
+    {
+        "word": "Judi",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "Resmi",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "adalah",
+        "label": "O"
+    },
+    {
+        "word": "salah",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "terbaik",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "memainkan",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "resmi.",
+        "label": "O"
+    },
+    {
+        "word": "Karena",
+        "label": "O"
+    },
+    {
+        "word": "saat",
+        "label": "O"
+    },
+    {
+        "word": "ini",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "resmi",
+        "label": "O"
+    },
+    {
+        "word": "selalu",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "melakukan",
+        "label": "O"
+    },
+    {
+        "word": "pemasangan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "lainnya.",
+        "label": "O"
+    },
+    {
+        "word": "Mungkin",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "pernah",
+        "label": "O"
+    },
+    {
+        "word": "mendengar",
+        "label": "O"
+    },
+    {
+        "word": "kata",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "slot",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "sudah",
+        "label": "O"
+    },
+    {
+        "word": "sangatlah",
+        "label": "O"
+    },
+    {
+        "word": "dikenal",
+        "label": "O"
+    },
+    {
+        "word": "sebagai",
+        "label": "O"
+    },
+    {
+        "word": "salah",
+        "label": "O"
+    },
+    {
+        "word": "satu",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "terbaik.",
+        "label": "O"
+    },
+    {
+        "word": "Dimana",
+        "label": "O"
+    },
+    {
+        "word": "jika",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "ingin",
+        "label": "O"
+    },
+    {
+        "word": "mencoba",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "slot",
+        "label": "O"
+    },
+    {
+        "word": "tentunya",
+        "label": "O"
+    },
+    {
+        "word": "selalu",
+        "label": "O"
+    },
+    {
+        "word": "mencari",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "hal",
+        "label": "O"
+    },
+    {
+        "word": "tersebut.",
+        "label": "O"
+    },
+    {
+        "word": "Melalui",
+        "label": "O"
+    },
+    {
+        "word": "wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "memainkan",
+        "label": "O"
+    },
+    {
+        "word": "setiap",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "terlengkap",
+        "label": "O"
+    },
+    {
+        "word": "karena",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "sebagai",
+        "label": "O"
+    },
+    {
+        "word": "bandar",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "resmi",
+        "label": "O"
+    },
+    {
+        "word": "selalu",
+        "label": "O"
+    },
+    {
+        "word": "memberikan",
+        "label": "O"
+    },
+    {
+        "word": "tempat",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "memasangkatn",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "terlengkap.",
+        "label": "O"
+    },
+    {
+        "word": "Ditambah",
+        "label": "O"
+    },
+    {
+        "word": "lagi",
+        "label": "O"
+    },
+    {
+        "word": "website",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "juga",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "beragam",
+        "label": "O"
+    },
+    {
+        "word": "jenis",
+        "label": "O"
+    },
+    {
+        "word": "layanan",
+        "label": "O"
+    },
+    {
+        "word": "game",
+        "label": "O"
+    },
+    {
+        "word": "terbaik",
+        "label": "O"
+    },
+    {
+        "word": "seperti",
+        "label": "O"
+    },
+    {
+        "word": "sbobet",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "bola",
+        "label": "O"
+    },
+    {
+        "word": "hingga",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "kasino",
+        "label": "O"
+    },
+    {
+        "word": "online.",
+        "label": "O"
+    },
+    {
+        "word": "Melalui",
+        "label": "O"
+    },
+    {
+        "word": "pencarian",
+        "label": "O"
+    },
+    {
+        "word": "google",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "langsung",
+        "label": "O"
+    },
+    {
+        "word": "mencoba",
+        "label": "O"
+    },
+    {
+        "word": "mencari",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "kemudian",
+        "label": "O"
+    },
+    {
+        "word": "nantinya",
+        "label": "O"
+    },
+    {
+        "word": "bisa",
+        "label": "O"
+    },
+    {
+        "word": "mendapatkan",
+        "label": "O"
+    },
+    {
+        "word": "akun",
+        "label": "O"
+    },
+    {
+        "word": "memainkan",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "terlengkap.",
+        "label": "O"
+    },
+    {
+        "word": "Selain",
+        "label": "O"
+    },
+    {
+        "word": "dari",
+        "label": "O"
+    },
+    {
+        "word": "itu",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "juga",
+        "label": "O"
+    },
+    {
+        "word": "hadir",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "paling",
+        "label": "O"
+    },
+    {
+        "word": "resmi",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "anda",
+        "label": "O"
+    },
+    {
+        "word": "coba.",
+        "label": "O"
+    },
+    {
+        "word": "Sebagai",
+        "label": "O"
+    },
+    {
+        "word": "bandar",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "tentunya",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "selalu",
+        "label": "O"
+    },
+    {
+        "word": "menyediakan",
+        "label": "O"
+    },
+    {
+        "word": "kenyamanan",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "para",
+        "label": "O"
+    },
+    {
+        "word": "bettor",
+        "label": "O"
+    },
+    {
+        "word": "sehingga",
+        "label": "O"
+    },
+    {
+        "word": "mereka",
+        "label": "O"
+    },
+    {
+        "word": "lebih",
+        "label": "O"
+    },
+    {
+        "word": "mudah",
+        "label": "O"
+    },
+    {
+        "word": "dalam",
+        "label": "O"
+    },
+    {
+        "word": "nantinya",
+        "label": "O"
+    },
+    {
+        "word": "memainkan",
+        "label": "O"
+    },
+    {
+        "word": "setiap",
+        "label": "O"
+    },
+    {
+        "word": "game",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "sediakan.",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "toto",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "hanya",
+        "label": "O"
+    },
+    {
+        "word": "menggunakan",
+        "label": "O"
+    },
+    {
+        "word": "website",
+        "label": "O"
+    },
+    {
+        "word": "wargatogel",
+        "label": "O"
+    },
+    {
+        "word": "untuk",
+        "label": "O"
+    },
+    {
+        "word": "merasakan",
+        "label": "O"
+    },
+    {
+        "word": "sensasi",
+        "label": "O"
+    },
+    {
+        "word": "permainan",
+        "label": "O"
+    },
+    {
+        "word": "judi",
+        "label": "O"
+    },
+    {
+        "word": "terbaik",
+        "label": "O"
+    },
+    {
+        "word": "hingga",
+        "label": "O"
+    },
+    {
+        "word": "dengan",
+        "label": "O"
+    },
+    {
+        "word": "namanya",
+        "label": "O"
+    },
+    {
+        "word": "hadiah",
+        "label": "O"
+    },
+    {
+        "word": "taruhan",
+        "label": "O"
+    },
+    {
+        "word": "togel",
+        "label": "O"
+    },
+    {
+        "word": "4d",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "terbesar.",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "Link",
+        "label": "O"
+    },
+    {
+        "word": "Close",
+        "label": "O"
+    },
+    {
+        "word": "share",
+        "label": "O"
+    },
+    {
+        "word": "Copy",
+        "label": "O"
+    },
+    {
+        "word": "link",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "full",
+        "label": "O"
+    },
+    {
+        "word": "details",
+        "label": "O"
+    }
+]

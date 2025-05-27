@@ -1,0 +1,818 @@
+[
+    {
+        "word": "Skip",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "information",
+        "label": "O"
+    },
+    {
+        "word": "Open",
+        "label": "O"
+    },
+    {
+        "word": "media",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "modal",
+        "label": "O"
+    },
+    {
+        "word": "Open",
+        "label": "O"
+    },
+    {
+        "word": "media",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "modal",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Coco",
+        "label": "O"
+    },
+    {
+        "word": "Ruffle",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "Coco",
+        "label": "O"
+    },
+    {
+        "word": "Ruffle",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Palecek",
+        "label": "O"
+    },
+    {
+        "word": "In",
+        "label": "O"
+    },
+    {
+        "word": "stock",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "2,119.00",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "2,119.00",
+        "label": "O"
+    },
+    {
+        "word": "Unit",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "per",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Sold",
+        "label": "O"
+    },
+    {
+        "word": "out",
+        "label": "O"
+    },
+    {
+        "word": "Materials",
+        "label": "O"
+    },
+    {
+        "word": "Coco",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Beads",
+        "label": "O"
+    },
+    {
+        "word": "Beveled",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "37",
+        "label": "O"
+    },
+    {
+        "word": "Diameter",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "7",
+        "label": "O"
+    },
+    {
+        "word": "Deep",
+        "label": "O"
+    },
+    {
+        "word": "Product",
+        "label": "O"
+    },
+    {
+        "word": "variants",
+        "label": "O"
+    },
+    {
+        "word": "Coco",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Beads",
+        "label": "O"
+    },
+    {
+        "word": "Beveled",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "37",
+        "label": "O"
+    },
+    {
+        "word": "Diameter",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "7",
+        "label": "O"
+    },
+    {
+        "word": "Deep",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "2,119.00",
+        "label": "O"
+    },
+    {
+        "word": "Quantity",
+        "label": "O"
+    },
+    {
+        "word": "Decrease",
+        "label": "O"
+    },
+    {
+        "word": "quantity",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "Coco",
+        "label": "O"
+    },
+    {
+        "word": "Ruffle",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "Increase",
+        "label": "O"
+    },
+    {
+        "word": "quantity",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "Coco",
+        "label": "O"
+    },
+    {
+        "word": "Ruffle",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Materials",
+        "label": "O"
+    },
+    {
+        "word": "Coco",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Beads",
+        "label": "O"
+    },
+    {
+        "word": "Beveled",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "37",
+        "label": "O"
+    },
+    {
+        "word": "Diameter",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "7",
+        "label": "O"
+    },
+    {
+        "word": "Deep",
+        "label": "O"
+    },
+    {
+        "word": "Details",
+        "label": "O"
+    },
+    {
+        "word": "Palecek",
+        "label": "O"
+    },
+    {
+        "word": "presents",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Coco",
+        "label": "O"
+    },
+    {
+        "word": "Ruffle",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "b",
+        "label": "O"
+    },
+    {
+        "word": "eveled",
+        "label": "O"
+    },
+    {
+        "word": "mirror",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "ruffle",
+        "label": "O"
+    },
+    {
+        "word": "shaped",
+        "label": "O"
+    },
+    {
+        "word": "metal",
+        "label": "O"
+    },
+    {
+        "word": "frame",
+        "label": "O"
+    },
+    {
+        "word": "embellished",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "coco",
+        "label": "O"
+    },
+    {
+        "word": "wood",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "beads",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "finished",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "natural",
+        "label": "O"
+    },
+    {
+        "word": "finish.",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "note",
+        "label": "O"
+    },
+    {
+        "word": "that",
+        "label": "O"
+    },
+    {
+        "word": "many",
+        "label": "O"
+    },
+    {
+        "word": "Palecek",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "order",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "require",
+        "label": "O"
+    },
+    {
+        "word": "additional",
+        "label": "O"
+    },
+    {
+        "word": "construction",
+        "label": "O"
+    },
+    {
+        "word": "time.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "specific",
+        "label": "O"
+    },
+    {
+        "word": "production",
+        "label": "O"
+    },
+    {
+        "word": "time",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "confirmed",
+        "label": "O"
+    },
+    {
+        "word": "after",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "place",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "order.",
+        "label": "O"
+    },
+    {
+        "word": "Inquire",
+        "label": "O"
+    },
+    {
+        "word": "below",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "current",
+        "label": "O"
+    },
+    {
+        "word": "availability.",
+        "label": "O"
+    },
+    {
+        "word": "Download",
+        "label": "O"
+    },
+    {
+        "word": "Tear",
+        "label": "O"
+    },
+    {
+        "word": "Sheet",
+        "label": "O"
+    },
+    {
+        "word": "Have",
+        "label": "O"
+    },
+    {
+        "word": "questions",
+        "label": "O"
+    },
+    {
+        "word": "Need",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "check",
+        "label": "O"
+    },
+    {
+        "word": "stock",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "need",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "swatch",
+        "label": "O"
+    },
+    {
+        "word": "Shipping",
+        "label": "O"
+    },
+    {
+        "word": "Returns",
+        "label": "O"
+    },
+    {
+        "word": "In",
+        "label": "O"
+    },
+    {
+        "word": "stock",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "ready",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "ship.",
+        "label": "O"
+    },
+    {
+        "word": "Order",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "enjoy",
+        "label": "O"
+    },
+    {
+        "word": "Free",
+        "label": "O"
+    },
+    {
+        "word": "shipping.",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    },
+    {
+        "word": "us",
+        "label": "O"
+    },
+    {
+        "word": "here.",
+        "label": "O"
+    },
+    {
+        "word": "Returns",
+        "label": "O"
+    },
+    {
+        "word": "must",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "within",
+        "label": "O"
+    },
+    {
+        "word": "14",
+        "label": "O"
+    },
+    {
+        "word": "days.",
+        "label": "O"
+    },
+    {
+        "word": "See",
+        "label": "O"
+    },
+    {
+        "word": "details",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "full",
+        "label": "O"
+    },
+    {
+        "word": "details",
+        "label": "O"
+    }
+]

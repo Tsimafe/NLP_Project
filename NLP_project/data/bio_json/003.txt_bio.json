@@ -1,0 +1,26 @@
+[
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "SOFA",
+        "label": "O"
+    },
+    {
+        "word": "CHAIR",
+        "label": "B"
+    },
+    {
+        "word": "BED",
+        "label": "I"
+    },
+    {
+        "word": "TABLE",
+        "label": "I"
+    },
+    {
+        "word": "CABINET",
+        "label": "I"
+    }
+]

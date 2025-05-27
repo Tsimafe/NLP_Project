@@ -1,0 +1,3974 @@
+[
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "Filters",
+        "label": "O"
+    },
+    {
+        "word": "Showing",
+        "label": "O"
+    },
+    {
+        "word": "3348",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "988",
+        "label": "O"
+    },
+    {
+        "word": "results",
+        "label": "O"
+    },
+    {
+        "word": "Sorted",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "latest",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "popularity",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "latest",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "low",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "high",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "high",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "low",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "Alphabetically,",
+        "label": "O"
+    },
+    {
+        "word": "A-Z",
+        "label": "O"
+    },
+    {
+        "word": "Grid",
+        "label": "O"
+    },
+    {
+        "word": "List",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Heaven",
+        "label": "B"
+    },
+    {
+        "word": "Cabana",
+        "label": "I"
+    },
+    {
+        "word": "12,799.00",
+        "label": "O"
+    },
+    {
+        "word": "Original",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "12,799.00.",
+        "label": "O"
+    },
+    {
+        "word": "9,599.00",
+        "label": "O"
+    },
+    {
+        "word": "Current",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "9,599.00.",
+        "label": "O"
+    },
+    {
+        "word": "Our",
+        "label": "O"
+    },
+    {
+        "word": "Heaven",
+        "label": "O"
+    },
+    {
+        "word": "Cabana",
+        "label": "O"
+    },
+    {
+        "word": "combines",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "innovation",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "classic",
+        "label": "O"
+    },
+    {
+        "word": "design,",
+        "label": "O"
+    },
+    {
+        "word": "creating",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "perfect",
+        "label": "O"
+    },
+    {
+        "word": "ambiance",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "relaxation",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "entertainment.",
+        "label": "O"
+    },
+    {
+        "word": "Built",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "contract-grade",
+        "label": "O"
+    },
+    {
+        "word": "welded",
+        "label": "O"
+    },
+    {
+        "word": "aluminum",
+        "label": "O"
+    },
+    {
+        "word": "frame",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "finished",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "premium",
+        "label": "O"
+    },
+    {
+        "word": "Tiger",
+        "label": "O"
+    },
+    {
+        "word": "brand",
+        "label": "O"
+    },
+    {
+        "word": "powder",
+        "label": "O"
+    },
+    {
+        "word": "coating,",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Heaven",
+        "label": "O"
+    },
+    {
+        "word": "Cabana",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "designed",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "long-lasting",
+        "label": "O"
+    },
+    {
+        "word": "outdoor",
+        "label": "O"
+    },
+    {
+        "word": "durability.",
+        "label": "O"
+    },
+    {
+        "word": "It",
+        "label": "O"
+    },
+    {
+        "word": "features",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "UV-treated,",
+        "label": "O"
+    },
+    {
+        "word": "waterproof",
+        "label": "O"
+    },
+    {
+        "word": "outdoor",
+        "label": "O"
+    },
+    {
+        "word": "acrylic",
+        "label": "O"
+    },
+    {
+        "word": "fabric",
+        "label": "O"
+    },
+    {
+        "word": "offering",
+        "label": "O"
+    },
+    {
+        "word": "superior",
+        "label": "O"
+    },
+    {
+        "word": "protection",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Continue",
+        "label": "O"
+    },
+    {
+        "word": "Loading",
+        "label": "O"
+    },
+    {
+        "word": "Done",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Monterey",
+        "label": "B"
+    },
+    {
+        "word": "6.5",
+        "label": "I"
+    },
+    {
+        "word": "Square",
+        "label": "I"
+    },
+    {
+        "word": "Auto",
+        "label": "I"
+    },
+    {
+        "word": "Tilt",
+        "label": "I"
+    },
+    {
+        "word": "Crank",
+        "label": "I"
+    },
+    {
+        "word": "Lift",
+        "label": "I"
+    },
+    {
+        "word": "Fiberglass",
+        "label": "I"
+    },
+    {
+        "word": "Umbrella",
+        "label": "I"
+    },
+    {
+        "word": "Brushed",
+        "label": "I"
+    },
+    {
+        "word": "Silver",
+        "label": "I"
+    },
+    {
+        "word": "Frame",
+        "label": "I"
+    },
+    {
+        "word": "1,215.00",
+        "label": "O"
+    },
+    {
+        "word": "From",
+        "label": "O"
+    },
+    {
+        "word": "999.00",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "solid",
+        "label": "O"
+    },
+    {
+        "word": "fiberglass",
+        "label": "O"
+    },
+    {
+        "word": "market",
+        "label": "O"
+    },
+    {
+        "word": "umbrella",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "manufactured",
+        "label": "O"
+    },
+    {
+        "word": "using",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "most",
+        "label": "O"
+    },
+    {
+        "word": "resilient",
+        "label": "O"
+    },
+    {
+        "word": "materials",
+        "label": "O"
+    },
+    {
+        "word": "available.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "half-inch",
+        "label": "O"
+    },
+    {
+        "word": "thick",
+        "label": "O"
+    },
+    {
+        "word": "fiberglass",
+        "label": "O"
+    },
+    {
+        "word": "ribs",
+        "label": "O"
+    },
+    {
+        "word": "allow",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "frame",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "bend",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "flex",
+        "label": "O"
+    },
+    {
+        "word": "easily",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "windy",
+        "label": "O"
+    },
+    {
+        "word": "conditions,",
+        "label": "O"
+    },
+    {
+        "word": "while",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "durable",
+        "label": "O"
+    },
+    {
+        "word": "aluminum",
+        "label": "O"
+    },
+    {
+        "word": "center",
+        "label": "O"
+    },
+    {
+        "word": "pole,",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "maintenance-free",
+        "label": "O"
+    },
+    {
+        "word": "resin",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "stainless-steel",
+        "label": "O"
+    },
+    {
+        "word": "parts",
+        "label": "O"
+    },
+    {
+        "word": "ensure",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "umbrella",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "provide",
+        "label": "O"
+    },
+    {
+        "word": "years",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "worry-free",
+        "label": "O"
+    },
+    {
+        "word": "shade.",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "crank",
+        "label": "O"
+    },
+    {
+        "word": "Select",
+        "label": "O"
+    },
+    {
+        "word": "options",
+        "label": "O"
+    },
+    {
+        "word": "Continue",
+        "label": "O"
+    },
+    {
+        "word": "Loading",
+        "label": "O"
+    },
+    {
+        "word": "Done",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "multiple",
+        "label": "O"
+    },
+    {
+        "word": "variants.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "options",
+        "label": "O"
+    },
+    {
+        "word": "may",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "chosen",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "page",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Monterey",
+        "label": "B"
+    },
+    {
+        "word": "6.5",
+        "label": "I"
+    },
+    {
+        "word": "Square",
+        "label": "I"
+    },
+    {
+        "word": "Auto",
+        "label": "I"
+    },
+    {
+        "word": "Tilt",
+        "label": "I"
+    },
+    {
+        "word": "Crank",
+        "label": "I"
+    },
+    {
+        "word": "Lift",
+        "label": "I"
+    },
+    {
+        "word": "Fiberglass",
+        "label": "I"
+    },
+    {
+        "word": "Umbrella",
+        "label": "I"
+    },
+    {
+        "word": "Carbon",
+        "label": "I"
+    },
+    {
+        "word": "Frame",
+        "label": "I"
+    },
+    {
+        "word": "1,215.00",
+        "label": "O"
+    },
+    {
+        "word": "From",
+        "label": "O"
+    },
+    {
+        "word": "999.00",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "solid",
+        "label": "O"
+    },
+    {
+        "word": "fiberglass",
+        "label": "O"
+    },
+    {
+        "word": "market",
+        "label": "O"
+    },
+    {
+        "word": "umbrella",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "manufactured",
+        "label": "O"
+    },
+    {
+        "word": "using",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "most",
+        "label": "O"
+    },
+    {
+        "word": "resilient",
+        "label": "O"
+    },
+    {
+        "word": "materials",
+        "label": "O"
+    },
+    {
+        "word": "available.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "half-inch",
+        "label": "O"
+    },
+    {
+        "word": "thick",
+        "label": "O"
+    },
+    {
+        "word": "fiberglass",
+        "label": "O"
+    },
+    {
+        "word": "ribs",
+        "label": "O"
+    },
+    {
+        "word": "allow",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "frame",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "bend",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "flex",
+        "label": "O"
+    },
+    {
+        "word": "easily",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "windy",
+        "label": "O"
+    },
+    {
+        "word": "conditions,",
+        "label": "O"
+    },
+    {
+        "word": "while",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "durable",
+        "label": "O"
+    },
+    {
+        "word": "aluminum",
+        "label": "O"
+    },
+    {
+        "word": "center",
+        "label": "O"
+    },
+    {
+        "word": "pole,",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "maintenance-free",
+        "label": "O"
+    },
+    {
+        "word": "resin",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "stainless-steel",
+        "label": "O"
+    },
+    {
+        "word": "parts",
+        "label": "O"
+    },
+    {
+        "word": "ensure",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "umbrella",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "provide",
+        "label": "O"
+    },
+    {
+        "word": "years",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "worry-free",
+        "label": "O"
+    },
+    {
+        "word": "shade.",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "crank",
+        "label": "O"
+    },
+    {
+        "word": "Select",
+        "label": "O"
+    },
+    {
+        "word": "options",
+        "label": "O"
+    },
+    {
+        "word": "Continue",
+        "label": "O"
+    },
+    {
+        "word": "Loading",
+        "label": "O"
+    },
+    {
+        "word": "Done",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "multiple",
+        "label": "O"
+    },
+    {
+        "word": "variants.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "options",
+        "label": "O"
+    },
+    {
+        "word": "may",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "chosen",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "page",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "75S",
+        "label": "B"
+    },
+    {
+        "word": "Steel",
+        "label": "I"
+    },
+    {
+        "word": "Plate",
+        "label": "I"
+    },
+    {
+        "word": "Umbrella",
+        "label": "I"
+    },
+    {
+        "word": "Base",
+        "label": "I"
+    },
+    {
+        "word": "with",
+        "label": "I"
+    },
+    {
+        "word": "Wheels",
+        "label": "I"
+    },
+    {
+        "word": "Carbon",
+        "label": "I"
+    },
+    {
+        "word": "799.00",
+        "label": "O"
+    },
+    {
+        "word": "Original",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "799.00.",
+        "label": "O"
+    },
+    {
+        "word": "599.00",
+        "label": "O"
+    },
+    {
+        "word": "Current",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "599.00.",
+        "label": "O"
+    },
+    {
+        "word": "weight",
+        "label": "O"
+    },
+    {
+        "word": "75lbs",
+        "label": "O"
+    },
+    {
+        "word": "base",
+        "label": "O"
+    },
+    {
+        "word": "diameter",
+        "label": "O"
+    },
+    {
+        "word": "24",
+        "label": "O"
+    },
+    {
+        "word": "base",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "0.5",
+        "label": "O"
+    },
+    {
+        "word": "stem",
+        "label": "O"
+    },
+    {
+        "word": "diameter",
+        "label": "O"
+    },
+    {
+        "word": "1.5",
+        "label": "O"
+    },
+    {
+        "word": "stem",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "total",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "16.5",
+        "label": "O"
+    },
+    {
+        "word": "Pair",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Frankfords",
+        "label": "O"
+    },
+    {
+        "word": "Monterey",
+        "label": "O"
+    },
+    {
+        "word": "6.56.5",
+        "label": "O"
+    },
+    {
+        "word": "Square",
+        "label": "O"
+    },
+    {
+        "word": "9",
+        "label": "O"
+    },
+    {
+        "word": "Octagan,",
+        "label": "O"
+    },
+    {
+        "word": "810",
+        "label": "O"
+    },
+    {
+        "word": "Rectangle",
+        "label": "O"
+    },
+    {
+        "word": "Market",
+        "label": "O"
+    },
+    {
+        "word": "Umbrellas",
+        "label": "O"
+    },
+    {
+        "word": "Manufacturer",
+        "label": "O"
+    },
+    {
+        "word": "Frankford",
+        "label": "O"
+    },
+    {
+        "word": "Get",
+        "label": "O"
+    },
+    {
+        "word": "Inspired.",
+        "label": "O"
+    },
+    {
+        "word": "Click",
+        "label": "O"
+    },
+    {
+        "word": "here",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "view",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Frankford",
+        "label": "O"
+    },
+    {
+        "word": "Catalog.",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Continue",
+        "label": "O"
+    },
+    {
+        "word": "Loading",
+        "label": "O"
+    },
+    {
+        "word": "Done",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "75S",
+        "label": "B"
+    },
+    {
+        "word": "Steel",
+        "label": "I"
+    },
+    {
+        "word": "Plate",
+        "label": "I"
+    },
+    {
+        "word": "Umbrella",
+        "label": "I"
+    },
+    {
+        "word": "Base",
+        "label": "I"
+    },
+    {
+        "word": "with",
+        "label": "I"
+    },
+    {
+        "word": "Wheels",
+        "label": "I"
+    },
+    {
+        "word": "Silver",
+        "label": "I"
+    },
+    {
+        "word": "Mist",
+        "label": "I"
+    },
+    {
+        "word": "799.00",
+        "label": "O"
+    },
+    {
+        "word": "Original",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "799.00.",
+        "label": "O"
+    },
+    {
+        "word": "599.00",
+        "label": "O"
+    },
+    {
+        "word": "Current",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "599.00.",
+        "label": "O"
+    },
+    {
+        "word": "weight",
+        "label": "O"
+    },
+    {
+        "word": "75lbs",
+        "label": "O"
+    },
+    {
+        "word": "base",
+        "label": "O"
+    },
+    {
+        "word": "diameter",
+        "label": "O"
+    },
+    {
+        "word": "24",
+        "label": "O"
+    },
+    {
+        "word": "base",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "0.5",
+        "label": "O"
+    },
+    {
+        "word": "stem",
+        "label": "O"
+    },
+    {
+        "word": "diameter",
+        "label": "O"
+    },
+    {
+        "word": "1.5",
+        "label": "O"
+    },
+    {
+        "word": "stem",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "total",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "16.5",
+        "label": "O"
+    },
+    {
+        "word": "Pair",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Frankfords",
+        "label": "O"
+    },
+    {
+        "word": "Monterey",
+        "label": "O"
+    },
+    {
+        "word": "6.56.5",
+        "label": "O"
+    },
+    {
+        "word": "Square",
+        "label": "O"
+    },
+    {
+        "word": "9",
+        "label": "O"
+    },
+    {
+        "word": "Octagan,",
+        "label": "O"
+    },
+    {
+        "word": "810",
+        "label": "O"
+    },
+    {
+        "word": "Rectangle",
+        "label": "O"
+    },
+    {
+        "word": "Market",
+        "label": "O"
+    },
+    {
+        "word": "Umbrellas",
+        "label": "O"
+    },
+    {
+        "word": "Manufacturer",
+        "label": "O"
+    },
+    {
+        "word": "Frankford",
+        "label": "O"
+    },
+    {
+        "word": "Get",
+        "label": "O"
+    },
+    {
+        "word": "Inspired.",
+        "label": "O"
+    },
+    {
+        "word": "Click",
+        "label": "O"
+    },
+    {
+        "word": "here",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "view",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Frankford",
+        "label": "O"
+    },
+    {
+        "word": "Catalog.",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Continue",
+        "label": "O"
+    },
+    {
+        "word": "Loading",
+        "label": "O"
+    },
+    {
+        "word": "Done",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Monterey",
+        "label": "O"
+    },
+    {
+        "word": "810",
+        "label": "O"
+    },
+    {
+        "word": "Auto",
+        "label": "O"
+    },
+    {
+        "word": "Tilt",
+        "label": "O"
+    },
+    {
+        "word": "Crank",
+        "label": "O"
+    },
+    {
+        "word": "Lift",
+        "label": "O"
+    },
+    {
+        "word": "Fiberglass",
+        "label": "O"
+    },
+    {
+        "word": "Umbrella",
+        "label": "O"
+    },
+    {
+        "word": "Brushed",
+        "label": "O"
+    },
+    {
+        "word": "Silver",
+        "label": "O"
+    },
+    {
+        "word": "Frame",
+        "label": "O"
+    },
+    {
+        "word": "2,027.00",
+        "label": "O"
+    },
+    {
+        "word": "From",
+        "label": "O"
+    },
+    {
+        "word": "1,670.00",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "solid",
+        "label": "O"
+    },
+    {
+        "word": "fiberglass",
+        "label": "O"
+    },
+    {
+        "word": "market",
+        "label": "O"
+    },
+    {
+        "word": "umbrella",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "manufactured",
+        "label": "O"
+    },
+    {
+        "word": "using",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "most",
+        "label": "O"
+    },
+    {
+        "word": "resilient",
+        "label": "O"
+    },
+    {
+        "word": "materials",
+        "label": "O"
+    },
+    {
+        "word": "available.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "half-inch",
+        "label": "O"
+    },
+    {
+        "word": "thick",
+        "label": "O"
+    },
+    {
+        "word": "fiberglass",
+        "label": "O"
+    },
+    {
+        "word": "ribs",
+        "label": "O"
+    },
+    {
+        "word": "allow",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "frame",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "bend",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "flex",
+        "label": "O"
+    },
+    {
+        "word": "easily",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "windy",
+        "label": "O"
+    },
+    {
+        "word": "conditions,",
+        "label": "O"
+    },
+    {
+        "word": "while",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "durable",
+        "label": "O"
+    },
+    {
+        "word": "aluminum",
+        "label": "O"
+    },
+    {
+        "word": "center",
+        "label": "O"
+    },
+    {
+        "word": "pole,",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "maintenance-free",
+        "label": "O"
+    },
+    {
+        "word": "resin",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "stainless-steel",
+        "label": "O"
+    },
+    {
+        "word": "parts",
+        "label": "O"
+    },
+    {
+        "word": "ensure",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "umbrella",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "provide",
+        "label": "O"
+    },
+    {
+        "word": "years",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "worry-free",
+        "label": "O"
+    },
+    {
+        "word": "shade.",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "crank",
+        "label": "O"
+    },
+    {
+        "word": "Select",
+        "label": "O"
+    },
+    {
+        "word": "options",
+        "label": "O"
+    },
+    {
+        "word": "Continue",
+        "label": "O"
+    },
+    {
+        "word": "Loading",
+        "label": "O"
+    },
+    {
+        "word": "Done",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "multiple",
+        "label": "O"
+    },
+    {
+        "word": "variants.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "options",
+        "label": "O"
+    },
+    {
+        "word": "may",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "chosen",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "page",
+        "label": "O"
+    },
+    {
+        "word": "Rainbow",
+        "label": "O"
+    },
+    {
+        "word": "Colours",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Rain",
+        "label": "O"
+    },
+    {
+        "word": "Canvas",
+        "label": "O"
+    },
+    {
+        "word": "Candy",
+        "label": "O"
+    },
+    {
+        "word": "Rainbow",
+        "label": "O"
+    },
+    {
+        "word": "Colours",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Rain",
+        "label": "O"
+    },
+    {
+        "word": "painting",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "439",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "279",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W40",
+        "label": "O"
+    },
+    {
+        "word": "H55",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "Heart",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Heart",
+        "label": "O"
+    },
+    {
+        "word": "4055",
+        "label": "O"
+    },
+    {
+        "word": "Leftbank",
+        "label": "O"
+    },
+    {
+        "word": "Art",
+        "label": "O"
+    },
+    {
+        "word": "Heart",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Heart",
+        "label": "O"
+    },
+    {
+        "word": "painting",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "glass",
+        "label": "O"
+    },
+    {
+        "word": "epoxy",
+        "label": "O"
+    },
+    {
+        "word": "coat",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "1,899",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "999",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W40",
+        "label": "O"
+    },
+    {
+        "word": "H55",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "Dream",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Colours",
+        "label": "O"
+    },
+    {
+        "word": "5036",
+        "label": "O"
+    },
+    {
+        "word": "Leftbank",
+        "label": "O"
+    },
+    {
+        "word": "Art",
+        "label": "O"
+    },
+    {
+        "word": "Dream",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Colours",
+        "label": "O"
+    },
+    {
+        "word": "painting",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "glass",
+        "label": "O"
+    },
+    {
+        "word": "epoxy",
+        "label": "O"
+    },
+    {
+        "word": "coat",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "1,499",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "999",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W36",
+        "label": "O"
+    },
+    {
+        "word": "H50",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "Zip",
+        "label": "B"
+    },
+    {
+        "word": "Modular",
+        "label": "I"
+    },
+    {
+        "word": "Armless",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "Beige",
+        "label": "I"
+    },
+    {
+        "word": "Calia",
+        "label": "O"
+    },
+    {
+        "word": "Italia",
+        "label": "O"
+    },
+    {
+        "word": "Zip",
+        "label": "O"
+    },
+    {
+        "word": "Modular",
+        "label": "O"
+    },
+    {
+        "word": "Armless",
+        "label": "O"
+    },
+    {
+        "word": "Chair",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "1,885",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "1,299",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W32",
+        "label": "O"
+    },
+    {
+        "word": "D38",
+        "label": "O"
+    },
+    {
+        "word": "H35",
+        "label": "O"
+    },
+    {
+        "word": "SH16.5",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "Harley",
+        "label": "B"
+    },
+    {
+        "word": "Leather",
+        "label": "I"
+    },
+    {
+        "word": "Swivel",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "Gamma",
+        "label": "O"
+    },
+    {
+        "word": "Harley",
+        "label": "O"
+    },
+    {
+        "word": "Swivel",
+        "label": "O"
+    },
+    {
+        "word": "Chair",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "8,869",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "3,499",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W31",
+        "label": "O"
+    },
+    {
+        "word": "D31",
+        "label": "O"
+    },
+    {
+        "word": "H33",
+        "label": "O"
+    },
+    {
+        "word": "SH16",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "RB50",
+        "label": "O"
+    },
+    {
+        "word": "Leather",
+        "label": "O"
+    },
+    {
+        "word": "Sofa",
+        "label": "O"
+    },
+    {
+        "word": "Rolf",
+        "label": "O"
+    },
+    {
+        "word": "Benz",
+        "label": "O"
+    },
+    {
+        "word": "RB50",
+        "label": "O"
+    },
+    {
+        "word": "Sofa",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "manual",
+        "label": "O"
+    },
+    {
+        "word": "backrest",
+        "label": "O"
+    },
+    {
+        "word": "adjustment",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "24,329",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "9,999",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W91.7",
+        "label": "O"
+    },
+    {
+        "word": "D36.6-43.7",
+        "label": "O"
+    },
+    {
+        "word": "H33",
+        "label": "O"
+    },
+    {
+        "word": "SH16",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "384",
+        "label": "O"
+    },
+    {
+        "word": "Armchair",
+        "label": "O"
+    },
+    {
+        "word": "Rolf",
+        "label": "O"
+    },
+    {
+        "word": "Benz",
+        "label": "O"
+    },
+    {
+        "word": "384",
+        "label": "O"
+    },
+    {
+        "word": "Armchair",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "3,798",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "1.299",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W29.5",
+        "label": "O"
+    },
+    {
+        "word": "D32",
+        "label": "O"
+    },
+    {
+        "word": "H29",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "Tilt",
+        "label": "O"
+    },
+    {
+        "word": "Ladder",
+        "label": "O"
+    },
+    {
+        "word": "Discipline",
+        "label": "O"
+    },
+    {
+        "word": "Tilt",
+        "label": "O"
+    },
+    {
+        "word": "Ladder",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "2,070",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "899",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W18.5",
+        "label": "O"
+    },
+    {
+        "word": "H75.6",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "SET",
+        "label": "O"
+    },
+    {
+        "word": "OF",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "Nata",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Bontempi",
+        "label": "O"
+    },
+    {
+        "word": "Nata",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "2,676",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "1,599",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W19.3",
+        "label": "O"
+    },
+    {
+        "word": "D22.4",
+        "label": "O"
+    },
+    {
+        "word": "H32.7",
+        "label": "O"
+    },
+    {
+        "word": "SH18.9",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "Mag",
+        "label": "O"
+    },
+    {
+        "word": "Buffet",
+        "label": "O"
+    },
+    {
+        "word": "Calligaris",
+        "label": "O"
+    },
+    {
+        "word": "Mag",
+        "label": "O"
+    },
+    {
+        "word": "Buffet",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "Reg",
+        "label": "O"
+    },
+    {
+        "word": "5,509",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "2,799",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "W73",
+        "label": "O"
+    },
+    {
+        "word": "D19",
+        "label": "O"
+    },
+    {
+        "word": "H32",
+        "label": "O"
+    },
+    {
+        "word": "Floor",
+        "label": "O"
+    },
+    {
+        "word": "model",
+        "label": "O"
+    },
+    {
+        "word": "item.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "come,",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "serve",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "final",
+        "label": "O"
+    },
+    {
+        "word": "sale.",
+        "label": "O"
+    },
+    {
+        "word": "No",
+        "label": "O"
+    },
+    {
+        "word": "holds.",
+        "label": "O"
+    },
+    {
+        "word": "SOLD",
+        "label": "O"
+    },
+    {
+        "word": "AS",
+        "label": "O"
+    },
+    {
+        "word": "IS",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "showroom",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "purchase",
+        "label": "O"
+    },
+    {
+        "word": "items.",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "5",
+        "label": "O"
+    },
+    {
+        "word": "6",
+        "label": "O"
+    },
+    {
+        "word": "60",
+        "label": "O"
+    },
+    {
+        "word": "61",
+        "label": "O"
+    },
+    {
+        "word": "62",
+        "label": "O"
+    }
+]

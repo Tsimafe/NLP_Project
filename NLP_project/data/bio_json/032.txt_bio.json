@@ -1,0 +1,182 @@
+[
+    {
+        "word": "ASMUND",
+        "label": "B"
+    },
+    {
+        "word": "Outdoor",
+        "label": "I"
+    },
+    {
+        "word": "Console",
+        "label": "I"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "with",
+        "label": "I"
+    },
+    {
+        "word": "2",
+        "label": "I"
+    },
+    {
+        "word": "Sink",
+        "label": "I"
+    },
+    {
+        "word": "Set",
+        "label": "I"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "4,199.00",
+        "label": "O"
+    },
+    {
+        "word": "1,399.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Default",
+        "label": "O"
+    },
+    {
+        "word": "Title",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Asmund",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Console",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Sink",
+        "label": "O"
+    },
+    {
+        "word": "Set",
+        "label": "O"
+    },
+    {
+        "word": "1TF168INX",
+        "label": "O"
+    },
+    {
+        "word": "CONSOLE",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "SINK",
+        "label": "O"
+    },
+    {
+        "word": "Set",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Facebook",
+        "label": "O"
+    },
+    {
+        "word": "Tweet",
+        "label": "O"
+    },
+    {
+        "word": "Tweet",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Twitter",
+        "label": "O"
+    },
+    {
+        "word": "Pin",
+        "label": "O"
+    },
+    {
+        "word": "it",
+        "label": "O"
+    },
+    {
+        "word": "Pin",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Pinterest",
+        "label": "O"
+    }
+]

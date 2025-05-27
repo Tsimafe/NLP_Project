@@ -1,0 +1,442 @@
+[
+    {
+        "word": "French",
+        "label": "B"
+    },
+    {
+        "word": "Riviera",
+        "label": "I"
+    },
+    {
+        "word": "Paris",
+        "label": "I"
+    },
+    {
+        "word": "3",
+        "label": "I"
+    },
+    {
+        "word": "Drawer",
+        "label": "I"
+    },
+    {
+        "word": "Executive",
+        "label": "I"
+    },
+    {
+        "word": "Writing",
+        "label": "I"
+    },
+    {
+        "word": "Desk",
+        "label": "I"
+    },
+    {
+        "word": "RMY238",
+        "label": "I"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "999.00",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "2,999.00",
+        "label": "O"
+    },
+    {
+        "word": "Default",
+        "label": "O"
+    },
+    {
+        "word": "Title",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "999.00",
+        "label": "O"
+    },
+    {
+        "word": "SGD",
+        "label": "O"
+    },
+    {
+        "word": "Quantity",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "French",
+        "label": "O"
+    },
+    {
+        "word": "Riviera",
+        "label": "O"
+    },
+    {
+        "word": "Paris",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Drawer",
+        "label": "O"
+    },
+    {
+        "word": "Executive",
+        "label": "O"
+    },
+    {
+        "word": "Writing",
+        "label": "O"
+    },
+    {
+        "word": "Desk",
+        "label": "O"
+    },
+    {
+        "word": "RMY238",
+        "label": "O"
+    },
+    {
+        "word": "Minimalist",
+        "label": "O"
+    },
+    {
+        "word": "Scandinavia",
+        "label": "O"
+    },
+    {
+        "word": "Style",
+        "label": "O"
+    },
+    {
+        "word": "Description",
+        "label": "O"
+    },
+    {
+        "word": "light",
+        "label": "O"
+    },
+    {
+        "word": "pecan",
+        "label": "O"
+    },
+    {
+        "word": "color",
+        "label": "O"
+    },
+    {
+        "word": "Hand-crafted",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "highly",
+        "label": "O"
+    },
+    {
+        "word": "skilled",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "seasoned",
+        "label": "O"
+    },
+    {
+        "word": "craftsmen",
+        "label": "O"
+    },
+    {
+        "word": "Kiln-dried",
+        "label": "O"
+    },
+    {
+        "word": "solid",
+        "label": "O"
+    },
+    {
+        "word": "wood",
+        "label": "O"
+    },
+    {
+        "word": "timber",
+        "label": "O"
+    },
+    {
+        "word": "Contemporary",
+        "label": "O"
+    },
+    {
+        "word": "Design",
+        "label": "O"
+    },
+    {
+        "word": "Solid",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Timber",
+        "label": "O"
+    },
+    {
+        "word": "writing",
+        "label": "O"
+    },
+    {
+        "word": "desk",
+        "label": "O"
+    },
+    {
+        "word": "featuring",
+        "label": "O"
+    },
+    {
+        "word": "metal",
+        "label": "O"
+    },
+    {
+        "word": "runners",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "brass",
+        "label": "O"
+    },
+    {
+        "word": "handles",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Drawer",
+        "label": "O"
+    },
+    {
+        "word": "exterior",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "14cm",
+        "label": "O"
+    },
+    {
+        "word": "Middle",
+        "label": "O"
+    },
+    {
+        "word": "Drawer",
+        "label": "O"
+    },
+    {
+        "word": "exterior",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "14.5cm",
+        "label": "O"
+    },
+    {
+        "word": "Bottom",
+        "label": "O"
+    },
+    {
+        "word": "Drawer",
+        "label": "O"
+    },
+    {
+        "word": "exterior",
+        "label": "O"
+    },
+    {
+        "word": "height",
+        "label": "O"
+    },
+    {
+        "word": "14.5cm",
+        "label": "O"
+    },
+    {
+        "word": "Drawer",
+        "label": "O"
+    },
+    {
+        "word": "exterior",
+        "label": "O"
+    },
+    {
+        "word": "width",
+        "label": "O"
+    },
+    {
+        "word": "46cm",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "Overall",
+        "label": "O"
+    },
+    {
+        "word": "80cm",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "150cm",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "50cm",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "Item",
+        "label": "O"
+    },
+    {
+        "word": "Weight",
+        "label": "O"
+    },
+    {
+        "word": "40",
+        "label": "O"
+    },
+    {
+        "word": "Kilogram",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Facebook",
+        "label": "O"
+    },
+    {
+        "word": "Tweet",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Twitter",
+        "label": "O"
+    },
+    {
+        "word": "Pin",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Pinterest",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Writing",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    }
+]

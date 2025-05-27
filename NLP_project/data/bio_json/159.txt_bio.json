@@ -1,0 +1,418 @@
+[
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Outlet",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Wilmington",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Gallery",
+        "label": "O"
+    },
+    {
+        "word": "Unofficial",
+        "label": "O"
+    },
+    {
+        "word": "Website",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Outlet",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Wilmington,",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "company",
+        "label": "O"
+    },
+    {
+        "word": "that",
+        "label": "O"
+    },
+    {
+        "word": "provides",
+        "label": "O"
+    },
+    {
+        "word": "high-quality",
+        "label": "O"
+    },
+    {
+        "word": "furniture.Everyone",
+        "label": "O"
+    },
+    {
+        "word": "needs",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "good",
+        "label": "O"
+    },
+    {
+        "word": "place",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "sleep.",
+        "label": "O"
+    },
+    {
+        "word": "Thats",
+        "label": "O"
+    },
+    {
+        "word": "why",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Outlet",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Wilmington",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "so",
+        "label": "O"
+    },
+    {
+        "word": "helpful.",
+        "label": "O"
+    },
+    {
+        "word": "It",
+        "label": "O"
+    },
+    {
+        "word": "carries",
+        "label": "O"
+    },
+    {
+        "word": "just",
+        "label": "O"
+    },
+    {
+        "word": "about",
+        "label": "O"
+    },
+    {
+        "word": "anything",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "need",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "furnish",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "home",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "office.",
+        "label": "O"
+    },
+    {
+        "word": "That",
+        "label": "O"
+    },
+    {
+        "word": "includes",
+        "label": "O"
+    },
+    {
+        "word": "mattresses,",
+        "label": "O"
+    },
+    {
+        "word": "couches,",
+        "label": "O"
+    },
+    {
+        "word": "recliners",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "appliances.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "shop",
+        "label": "O"
+    },
+    {
+        "word": "specializes",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "quality",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "unbeatable",
+        "label": "O"
+    },
+    {
+        "word": "prices.",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Outlet",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Wilmington",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "located",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "3722",
+        "label": "O"
+    },
+    {
+        "word": "Market",
+        "label": "O"
+    },
+    {
+        "word": "St,",
+        "label": "O"
+    },
+    {
+        "word": "Wilmington,",
+        "label": "O"
+    },
+    {
+        "word": "NC",
+        "label": "O"
+    },
+    {
+        "word": "28403.",
+        "label": "O"
+    },
+    {
+        "word": "Hours",
+        "label": "O"
+    },
+    {
+        "word": "Mon-Wed",
+        "label": "O"
+    },
+    {
+        "word": "1000",
+        "label": "O"
+    },
+    {
+        "word": "am",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "800",
+        "label": "O"
+    },
+    {
+        "word": "pm",
+        "label": "O"
+    },
+    {
+        "word": "Thu-Sat",
+        "label": "O"
+    },
+    {
+        "word": "1000",
+        "label": "O"
+    },
+    {
+        "word": "am",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "900",
+        "label": "O"
+    },
+    {
+        "word": "pm",
+        "label": "O"
+    },
+    {
+        "word": "Sun",
+        "label": "O"
+    },
+    {
+        "word": "1200",
+        "label": "O"
+    },
+    {
+        "word": "pm",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "600",
+        "label": "O"
+    },
+    {
+        "word": "pm",
+        "label": "O"
+    },
+    {
+        "word": "3722",
+        "label": "O"
+    },
+    {
+        "word": "Market",
+        "label": "O"
+    },
+    {
+        "word": "St.",
+        "label": "O"
+    },
+    {
+        "word": "Wilmington,",
+        "label": "O"
+    },
+    {
+        "word": "NC",
+        "label": "O"
+    },
+    {
+        "word": "28403",
+        "label": "O"
+    },
+    {
+        "word": "910-763-1009",
+        "label": "O"
+    },
+    {
+        "word": "Email",
+        "label": "O"
+    },
+    {
+        "word": "RSS",
+        "label": "O"
+    }
+]

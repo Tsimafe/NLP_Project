@@ -1,0 +1,1938 @@
+[
+    {
+        "word": "Gift",
+        "label": "B"
+    },
+    {
+        "word": "Card",
+        "label": "I"
+    },
+    {
+        "word": "Amount",
+        "label": "O"
+    },
+    {
+        "word": "10.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "25.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "50.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "100.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "200.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "300.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "400.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "500.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "750.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "1000.00",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "Price",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "00",
+        "label": "O"
+    },
+    {
+        "word": "10.00",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "00",
+        "label": "O"
+    },
+    {
+        "word": "10.00",
+        "label": "O"
+    },
+    {
+        "word": "Save",
+        "label": "O"
+    },
+    {
+        "word": "-10",
+        "label": "O"
+    },
+    {
+        "word": "Delivery",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "select",
+        "label": "O"
+    },
+    {
+        "word": "states",
+        "label": "O"
+    },
+    {
+        "word": "Pickup",
+        "label": "O"
+    },
+    {
+        "word": "Available",
+        "label": "O"
+    },
+    {
+        "word": "Secure",
+        "label": "O"
+    },
+    {
+        "word": "payments",
+        "label": "O"
+    },
+    {
+        "word": "In",
+        "label": "O"
+    },
+    {
+        "word": "stock,",
+        "label": "O"
+    },
+    {
+        "word": "ready",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "ship",
+        "label": "O"
+    },
+    {
+        "word": "Backordered,",
+        "label": "O"
+    },
+    {
+        "word": "shipping",
+        "label": "O"
+    },
+    {
+        "word": "soon",
+        "label": "O"
+    },
+    {
+        "word": "Shipping",
+        "label": "O"
+    },
+    {
+        "word": "calculated",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "checkout.",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "item",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "recurring",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "deferred",
+        "label": "O"
+    },
+    {
+        "word": "purchase.",
+        "label": "O"
+    },
+    {
+        "word": "By",
+        "label": "O"
+    },
+    {
+        "word": "continuing,",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "agree",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "cancellation",
+        "label": "O"
+    },
+    {
+        "word": "policy",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "authorize",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "charge",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "payment",
+        "label": "O"
+    },
+    {
+        "word": "method",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "prices,",
+        "label": "O"
+    },
+    {
+        "word": "frequency",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "dates",
+        "label": "O"
+    },
+    {
+        "word": "listed",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "page",
+        "label": "O"
+    },
+    {
+        "word": "until",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "order",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "fulfilled",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "cancel,",
+        "label": "O"
+    },
+    {
+        "word": "if",
+        "label": "O"
+    },
+    {
+        "word": "permitted.",
+        "label": "O"
+    },
+    {
+        "word": "Pairs",
+        "label": "O"
+    },
+    {
+        "word": "well",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Quick",
+        "label": "O"
+    },
+    {
+        "word": "shop",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "00",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "10.00",
+        "label": "O"
+    },
+    {
+        "word": "Shopping",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "someone",
+        "label": "O"
+    },
+    {
+        "word": "else",
+        "label": "O"
+    },
+    {
+        "word": "but",
+        "label": "O"
+    },
+    {
+        "word": "not",
+        "label": "O"
+    },
+    {
+        "word": "sure",
+        "label": "O"
+    },
+    {
+        "word": "what",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "give",
+        "label": "O"
+    },
+    {
+        "word": "them",
+        "label": "O"
+    },
+    {
+        "word": "Give",
+        "label": "O"
+    },
+    {
+        "word": "them",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "gift",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "choice",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "Copper",
+        "label": "O"
+    },
+    {
+        "word": "Barn",
+        "label": "O"
+    },
+    {
+        "word": "gift",
+        "label": "O"
+    },
+    {
+        "word": "card.",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "cards",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "delivered",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "email",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "contain",
+        "label": "O"
+    },
+    {
+        "word": "instructions",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "redeem",
+        "label": "O"
+    },
+    {
+        "word": "them",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "checkout.",
+        "label": "O"
+    },
+    {
+        "word": "Our",
+        "label": "O"
+    },
+    {
+        "word": "gift",
+        "label": "O"
+    },
+    {
+        "word": "cards",
+        "label": "O"
+    },
+    {
+        "word": "have",
+        "label": "O"
+    },
+    {
+        "word": "no",
+        "label": "O"
+    },
+    {
+        "word": "additional",
+        "label": "O"
+    },
+    {
+        "word": "processing",
+        "label": "O"
+    },
+    {
+        "word": "fees.",
+        "label": "O"
+    },
+    {
+        "word": "Delivery",
+        "label": "O"
+    },
+    {
+        "word": "Information",
+        "label": "O"
+    },
+    {
+        "word": "You",
+        "label": "O"
+    },
+    {
+        "word": "have",
+        "label": "O"
+    },
+    {
+        "word": "found",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "perfect",
+        "label": "O"
+    },
+    {
+        "word": "piece",
+        "label": "O"
+    },
+    {
+        "word": "but",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "what",
+        "label": "O"
+    },
+    {
+        "word": "Find",
+        "label": "O"
+    },
+    {
+        "word": "out",
+        "label": "O"
+    },
+    {
+        "word": "more",
+        "label": "O"
+    },
+    {
+        "word": "below",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Delivery",
+        "label": "O"
+    },
+    {
+        "word": "In",
+        "label": "O"
+    },
+    {
+        "word": "Store",
+        "label": "O"
+    },
+    {
+        "word": "Pickup",
+        "label": "O"
+    },
+    {
+        "word": "Returns",
+        "label": "O"
+    },
+    {
+        "word": "Damages",
+        "label": "O"
+    },
+    {
+        "word": "In",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "event",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "need",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "file",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "damage",
+        "label": "O"
+    },
+    {
+        "word": "claim,",
+        "label": "O"
+    },
+    {
+        "word": "return",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "cancel",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "order",
+        "label": "O"
+    },
+    {
+        "word": "please",
+        "label": "O"
+    },
+    {
+        "word": "refer",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "links",
+        "label": "O"
+    },
+    {
+        "word": "below",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "more",
+        "label": "O"
+    },
+    {
+        "word": "information",
+        "label": "O"
+    },
+    {
+        "word": "RETURN",
+        "label": "O"
+    },
+    {
+        "word": "CANCELLATION",
+        "label": "O"
+    },
+    {
+        "word": "DAMAGE",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Care",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "wood",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "line",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "lives",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "breathes",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "seasons,",
+        "label": "O"
+    },
+    {
+        "word": "often",
+        "label": "O"
+    },
+    {
+        "word": "displaying",
+        "label": "O"
+    },
+    {
+        "word": "slight",
+        "label": "O"
+    },
+    {
+        "word": "movement",
+        "label": "O"
+    },
+    {
+        "word": "due",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "changes",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "temperature",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "humidity.",
+        "label": "O"
+    },
+    {
+        "word": "For",
+        "label": "O"
+    },
+    {
+        "word": "full",
+        "label": "O"
+    },
+    {
+        "word": "information",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "tips",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "visit",
+        "label": "O"
+    },
+    {
+        "word": "HERE",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "Stained",
+        "label": "O"
+    },
+    {
+        "word": "wood",
+        "label": "O"
+    },
+    {
+        "word": "can",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "easily",
+        "label": "O"
+    },
+    {
+        "word": "maintained",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Wax,",
+        "label": "O"
+    },
+    {
+        "word": "which",
+        "label": "O"
+    },
+    {
+        "word": "enhances",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "natural",
+        "label": "O"
+    },
+    {
+        "word": "beauty",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "wood",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "nourishes",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "protects",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "piece.",
+        "label": "O"
+    },
+    {
+        "word": "Dust",
+        "label": "O"
+    },
+    {
+        "word": "wood",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "soft,",
+        "label": "O"
+    },
+    {
+        "word": "dry",
+        "label": "O"
+    },
+    {
+        "word": "cloth.",
+        "label": "O"
+    },
+    {
+        "word": "Do",
+        "label": "O"
+    },
+    {
+        "word": "not",
+        "label": "O"
+    },
+    {
+        "word": "use",
+        "label": "O"
+    },
+    {
+        "word": "harsh",
+        "label": "O"
+    },
+    {
+        "word": "care",
+        "label": "O"
+    },
+    {
+        "word": "products",
+        "label": "O"
+    },
+    {
+        "word": "that",
+        "label": "O"
+    },
+    {
+        "word": "contain",
+        "label": "O"
+    },
+    {
+        "word": "ammonia",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "silicone",
+        "label": "O"
+    },
+    {
+        "word": "as",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "cut",
+        "label": "O"
+    },
+    {
+        "word": "through",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "finish",
+        "label": "O"
+    },
+    {
+        "word": "over",
+        "label": "O"
+    },
+    {
+        "word": "time",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "damage",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "piece.",
+        "label": "O"
+    },
+    {
+        "word": "Use",
+        "label": "O"
+    },
+    {
+        "word": "coasters,",
+        "label": "O"
+    },
+    {
+        "word": "trivets",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "felt",
+        "label": "O"
+    },
+    {
+        "word": "pads",
+        "label": "O"
+    },
+    {
+        "word": "under",
+        "label": "O"
+    },
+    {
+        "word": "objects",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "protect",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "finish",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "piece.",
+        "label": "O"
+    },
+    {
+        "word": "Never",
+        "label": "O"
+    },
+    {
+        "word": "place",
+        "label": "O"
+    },
+    {
+        "word": "hot",
+        "label": "O"
+    },
+    {
+        "word": "dishes",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "surfaces",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "use",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "felt-backed",
+        "label": "O"
+    },
+    {
+        "word": "table",
+        "label": "O"
+    },
+    {
+        "word": "mats",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "recommended.",
+        "label": "O"
+    },
+    {
+        "word": "Spills",
+        "label": "O"
+    },
+    {
+        "word": "should",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "removed",
+        "label": "O"
+    },
+    {
+        "word": "immediately",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "cloth.",
+        "label": "O"
+    },
+    {
+        "word": "Always",
+        "label": "O"
+    },
+    {
+        "word": "avoid",
+        "label": "O"
+    },
+    {
+        "word": "exposure",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "direct",
+        "label": "O"
+    },
+    {
+        "word": "sunlight",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "heat",
+        "label": "O"
+    },
+    {
+        "word": "as",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "can",
+        "label": "O"
+    },
+    {
+        "word": "cause",
+        "label": "O"
+    },
+    {
+        "word": "cracking",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "potential",
+        "label": "O"
+    },
+    {
+        "word": "fading",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "minimum",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "12",
+        "label": "O"
+    },
+    {
+        "word": "inches",
+        "label": "O"
+    },
+    {
+        "word": "clearance",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "heat",
+        "label": "O"
+    },
+    {
+        "word": "sources",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "advised.",
+        "label": "O"
+    },
+    {
+        "word": "Do",
+        "label": "O"
+    },
+    {
+        "word": "not",
+        "label": "O"
+    },
+    {
+        "word": "drag",
+        "label": "O"
+    },
+    {
+        "word": "piece",
+        "label": "O"
+    },
+    {
+        "word": "across",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "floor",
+        "label": "O"
+    },
+    {
+        "word": "as",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "cause",
+        "label": "O"
+    },
+    {
+        "word": "damage",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "weaken",
+        "label": "O"
+    },
+    {
+        "word": "joints.",
+        "label": "O"
+    },
+    {
+        "word": "Dropping",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "onto",
+        "label": "O"
+    },
+    {
+        "word": "corners",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "feet",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "cause",
+        "label": "O"
+    },
+    {
+        "word": "damage.",
+        "label": "O"
+    },
+    {
+        "word": "Toys,",
+        "label": "O"
+    },
+    {
+        "word": "buckles",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "heels",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "scratch",
+        "label": "O"
+    },
+    {
+        "word": "furnishingsprevent",
+        "label": "O"
+    },
+    {
+        "word": "these",
+        "label": "O"
+    },
+    {
+        "word": "items",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "touching",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "piece",
+        "label": "O"
+    },
+    {
+        "word": "when",
+        "label": "O"
+    },
+    {
+        "word": "possible.",
+        "label": "O"
+    },
+    {
+        "word": "Ask",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "question",
+        "label": "O"
+    },
+    {
+        "word": "Name",
+        "label": "O"
+    },
+    {
+        "word": "Email",
+        "label": "O"
+    },
+    {
+        "word": "Message",
+        "label": "O"
+    },
+    {
+        "word": "Send",
+        "label": "O"
+    },
+    {
+        "word": "Send",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "site",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "protected",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "hCaptcha",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "hCaptcha",
+        "label": "O"
+    },
+    {
+        "word": "Privacy",
+        "label": "O"
+    },
+    {
+        "word": "Policy",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Terms",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Service",
+        "label": "O"
+    },
+    {
+        "word": "apply.",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "Facebook",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "X",
+        "label": "O"
+    },
+    {
+        "word": "Pin",
+        "label": "O"
+    },
+    {
+        "word": "it",
+        "label": "O"
+    },
+    {
+        "word": "Pinterest",
+        "label": "O"
+    },
+    {
+        "word": "You",
+        "label": "O"
+    },
+    {
+        "word": "may",
+        "label": "O"
+    },
+    {
+        "word": "also",
+        "label": "O"
+    },
+    {
+        "word": "like",
+        "label": "O"
+    },
+    {
+        "word": "Quick",
+        "label": "O"
+    },
+    {
+        "word": "shop",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "00",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "10.00",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "Copper",
+        "label": "O"
+    },
+    {
+        "word": "Barn",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Quick",
+        "label": "O"
+    },
+    {
+        "word": "shop",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "00",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "10.00",
+        "label": "O"
+    },
+    {
+        "word": "Recently",
+        "label": "O"
+    },
+    {
+        "word": "viewed",
+        "label": "O"
+    }
+]

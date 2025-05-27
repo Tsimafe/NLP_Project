@@ -1,0 +1,874 @@
+[
+    {
+        "word": "Alf",
+        "label": "B"
+    },
+    {
+        "word": "Bud",
+        "label": "I"
+    },
+    {
+        "word": "Side",
+        "label": "I"
+    },
+    {
+        "word": "Tables",
+        "label": "I"
+    },
+    {
+        "word": "495",
+        "label": "O"
+    },
+    {
+        "word": "Alf",
+        "label": "O"
+    },
+    {
+        "word": "tall",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Bud",
+        "label": "O"
+    },
+    {
+        "word": "short",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "friendly",
+        "label": "O"
+    },
+    {
+        "word": "pair",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "side",
+        "label": "O"
+    },
+    {
+        "word": "tables,",
+        "label": "O"
+    },
+    {
+        "word": "different",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "size",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "shape",
+        "label": "O"
+    },
+    {
+        "word": "but",
+        "label": "O"
+    },
+    {
+        "word": "sharing",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "characteristic",
+        "label": "O"
+    },
+    {
+        "word": "material",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "form.",
+        "label": "O"
+    },
+    {
+        "word": "Silhouette",
+        "label": "O"
+    },
+    {
+        "word": "hand",
+        "label": "O"
+    },
+    {
+        "word": "turned",
+        "label": "O"
+    },
+    {
+        "word": "pedestals",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "solid",
+        "label": "O"
+    },
+    {
+        "word": "ebonised",
+        "label": "O"
+    },
+    {
+        "word": "oak",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "natural",
+        "label": "O"
+    },
+    {
+        "word": "oak",
+        "label": "O"
+    },
+    {
+        "word": "finished",
+        "label": "O"
+    },
+    {
+        "word": "tops.",
+        "label": "O"
+    },
+    {
+        "word": "Ready",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "ship",
+        "label": "O"
+    },
+    {
+        "word": "5-10",
+        "label": "O"
+    },
+    {
+        "word": "working",
+        "label": "O"
+    },
+    {
+        "word": "days",
+        "label": "O"
+    },
+    {
+        "word": "Shipping",
+        "label": "O"
+    },
+    {
+        "word": "guide",
+        "label": "O"
+    },
+    {
+        "word": "UK",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "32",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "Alf",
+        "label": "O"
+    },
+    {
+        "word": "ø400",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "570h",
+        "label": "O"
+    },
+    {
+        "word": "mm",
+        "label": "O"
+    },
+    {
+        "word": "Bud",
+        "label": "O"
+    },
+    {
+        "word": "ø500",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "420h",
+        "label": "O"
+    },
+    {
+        "word": "mm",
+        "label": "O"
+    },
+    {
+        "word": "Customise",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "piece",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "order",
+        "label": "O"
+    },
+    {
+        "word": "which",
+        "label": "O"
+    },
+    {
+        "word": "allows",
+        "label": "O"
+    },
+    {
+        "word": "us",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "give",
+        "label": "O"
+    },
+    {
+        "word": "some",
+        "label": "O"
+    },
+    {
+        "word": "ﬂexibilty",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "if",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "need",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "specify",
+        "label": "O"
+    },
+    {
+        "word": "alternative",
+        "label": "O"
+    },
+    {
+        "word": "dimensions",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "different",
+        "label": "O"
+    },
+    {
+        "word": "timber",
+        "label": "O"
+    },
+    {
+        "word": "finish.",
+        "label": "O"
+    },
+    {
+        "word": "We",
+        "label": "O"
+    },
+    {
+        "word": "work",
+        "label": "O"
+    },
+    {
+        "word": "closely",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "trade",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "develop",
+        "label": "O"
+    },
+    {
+        "word": "bespoke",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "exclusive",
+        "label": "O"
+    },
+    {
+        "word": "commissions",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "larger",
+        "label": "O"
+    },
+    {
+        "word": "schemes.",
+        "label": "O"
+    },
+    {
+        "word": "Options",
+        "label": "O"
+    },
+    {
+        "word": "Alf",
+        "label": "O"
+    },
+    {
+        "word": "Bud",
+        "label": "O"
+    },
+    {
+        "word": "Alf",
+        "label": "O"
+    },
+    {
+        "word": "Bud",
+        "label": "O"
+    },
+    {
+        "word": "Quantity",
+        "label": "O"
+    },
+    {
+        "word": "Enquire",
+        "label": "O"
+    },
+    {
+        "word": "about",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "item",
+        "label": "O"
+    },
+    {
+        "word": "Ready-to-Ship",
+        "label": "O"
+    },
+    {
+        "word": "Perfectly",
+        "label": "O"
+    },
+    {
+        "word": "Imperfect",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "235",
+        "label": "O"
+    },
+    {
+        "word": "Cutlers",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "180",
+        "label": "O"
+    },
+    {
+        "word": "Completely",
+        "label": "O"
+    },
+    {
+        "word": "Imperfect",
+        "label": "O"
+    },
+    {
+        "word": "Side",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "380",
+        "label": "O"
+    },
+    {
+        "word": "Bobbin",
+        "label": "O"
+    },
+    {
+        "word": "Side",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "375",
+        "label": "O"
+    },
+    {
+        "word": "Polygon",
+        "label": "O"
+    },
+    {
+        "word": "Pedestal",
+        "label": "O"
+    },
+    {
+        "word": "Lamp",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "1,130",
+        "label": "O"
+    },
+    {
+        "word": "Polygon",
+        "label": "O"
+    },
+    {
+        "word": "Pedestal",
+        "label": "O"
+    },
+    {
+        "word": "Side",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "750",
+        "label": "O"
+    },
+    {
+        "word": "Fluted",
+        "label": "O"
+    },
+    {
+        "word": "Sideboard",
+        "label": "O"
+    },
+    {
+        "word": "4,900",
+        "label": "O"
+    },
+    {
+        "word": "Bridle",
+        "label": "O"
+    },
+    {
+        "word": "Mirror",
+        "label": "O"
+    },
+    {
+        "word": "Round",
+        "label": "O"
+    },
+    {
+        "word": "635",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Care",
+        "label": "O"
+    },
+    {
+        "word": "Kit",
+        "label": "O"
+    },
+    {
+        "word": "33",
+        "label": "O"
+    },
+    {
+        "word": "New",
+        "label": "O"
+    },
+    {
+        "word": "Octagon",
+        "label": "O"
+    },
+    {
+        "word": "Side",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "375",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "JOURNAL",
+        "label": "O"
+    },
+    {
+        "word": "Read",
+        "label": "O"
+    },
+    {
+        "word": "about",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "latest",
+        "label": "O"
+    },
+    {
+        "word": "projects,",
+        "label": "O"
+    },
+    {
+        "word": "stories",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "inspirations",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "studio",
+        "label": "O"
+    },
+    {
+        "word": "NEW",
+        "label": "O"
+    },
+    {
+        "word": "NARRATIVES",
+        "label": "O"
+    },
+    {
+        "word": "BOBBIN",
+        "label": "O"
+    },
+    {
+        "word": "CONSOLE",
+        "label": "O"
+    },
+    {
+        "word": "Traditional",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "detail,",
+        "label": "O"
+    },
+    {
+        "word": "sculptural",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "silhouette,",
+        "label": "O"
+    },
+    {
+        "word": "elegant",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "proportions",
+        "label": "O"
+    },
+    {
+        "word": "take",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "closer",
+        "label": "O"
+    },
+    {
+        "word": "look",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Bobbin",
+        "label": "O"
+    },
+    {
+        "word": "Console,",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "latest",
+        "label": "O"
+    },
+    {
+        "word": "addition",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "collection.",
+        "label": "O"
+    },
+    {
+        "word": "Bedside",
+        "label": "O"
+    },
+    {
+        "word": "Cabinets",
+        "label": "O"
+    },
+    {
+        "word": "Take",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "look",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "latest",
+        "label": "O"
+    },
+    {
+        "word": "additions",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "sideboards,",
+        "label": "O"
+    },
+    {
+        "word": "media",
+        "label": "O"
+    },
+    {
+        "word": "units,",
+        "label": "O"
+    },
+    {
+        "word": "wardrobes",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "bedside",
+        "label": "O"
+    },
+    {
+        "word": "cabinets",
+        "label": "O"
+    }
+]

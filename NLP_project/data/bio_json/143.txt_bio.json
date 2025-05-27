@@ -1,0 +1,1598 @@
+[
+    {
+        "word": "Find",
+        "label": "O"
+    },
+    {
+        "word": "it,",
+        "label": "O"
+    },
+    {
+        "word": "Style",
+        "label": "O"
+    },
+    {
+        "word": "it,",
+        "label": "O"
+    },
+    {
+        "word": "Love",
+        "label": "O"
+    },
+    {
+        "word": "it",
+        "label": "O"
+    },
+    {
+        "word": "Design",
+        "label": "O"
+    },
+    {
+        "word": "Dreams",
+        "label": "O"
+    },
+    {
+        "word": "delivered",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "door.",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "collections",
+        "label": "O"
+    },
+    {
+        "word": "OUR",
+        "label": "O"
+    },
+    {
+        "word": "FAVES",
+        "label": "O"
+    },
+    {
+        "word": "Lulu",
+        "label": "B"
+    },
+    {
+        "word": "Bed",
+        "label": "I"
+    },
+    {
+        "word": "-",
+        "label": "I"
+    },
+    {
+        "word": "Petal",
+        "label": "I"
+    },
+    {
+        "word": "Pink",
+        "label": "I"
+    },
+    {
+        "word": "Queen",
+        "label": "I"
+    },
+    {
+        "word": "Lulu",
+        "label": "O"
+    },
+    {
+        "word": "Bed",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Petal",
+        "label": "O"
+    },
+    {
+        "word": "Pink",
+        "label": "O"
+    },
+    {
+        "word": "Queen",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,890.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,690.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Palma",
+        "label": "B"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "Palma",
+        "label": "O"
+    },
+    {
+        "word": "Chair",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "899.95",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "899.95",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Desa",
+        "label": "B"
+    },
+    {
+        "word": "Hallway",
+        "label": "I"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "Desa",
+        "label": "O"
+    },
+    {
+        "word": "Hallway",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,399.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,399.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Bondi",
+        "label": "B"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "Leather",
+        "label": "I"
+    },
+    {
+        "word": "Dining",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "Bondi",
+        "label": "O"
+    },
+    {
+        "word": "White",
+        "label": "O"
+    },
+    {
+        "word": "Leather",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Chair",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "579.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "439.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Jepara",
+        "label": "B"
+    },
+    {
+        "word": "Solid",
+        "label": "I"
+    },
+    {
+        "word": "Mahogany",
+        "label": "I"
+    },
+    {
+        "word": "4",
+        "label": "I"
+    },
+    {
+        "word": "Poster",
+        "label": "I"
+    },
+    {
+        "word": "Bed",
+        "label": "I"
+    },
+    {
+        "word": "-",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "Queen",
+        "label": "I"
+    },
+    {
+        "word": "Jepara",
+        "label": "O"
+    },
+    {
+        "word": "Solid",
+        "label": "O"
+    },
+    {
+        "word": "Mahogany",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "Poster",
+        "label": "O"
+    },
+    {
+        "word": "Bed",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "White",
+        "label": "O"
+    },
+    {
+        "word": "Queen",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "2,699.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "2,350.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Tiffany",
+        "label": "B"
+    },
+    {
+        "word": "Buffet",
+        "label": "I"
+    },
+    {
+        "word": "-",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "Tiffany",
+        "label": "O"
+    },
+    {
+        "word": "Buffet",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "White",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "Sold",
+        "label": "O"
+    },
+    {
+        "word": "out",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,500.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Chandra",
+        "label": "B"
+    },
+    {
+        "word": "Round",
+        "label": "I"
+    },
+    {
+        "word": "Coffee",
+        "label": "I"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "-",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "Chandra",
+        "label": "O"
+    },
+    {
+        "word": "Round",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "White",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,645.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,345.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "B"
+    },
+    {
+        "word": "Cove",
+        "label": "I"
+    },
+    {
+        "word": "Rattan",
+        "label": "I"
+    },
+    {
+        "word": "Console",
+        "label": "I"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "Cove",
+        "label": "O"
+    },
+    {
+        "word": "Rattan",
+        "label": "O"
+    },
+    {
+        "word": "Console",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,399.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,199.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Lulu",
+        "label": "B"
+    },
+    {
+        "word": "Bed",
+        "label": "I"
+    },
+    {
+        "word": "-",
+        "label": "I"
+    },
+    {
+        "word": "Queen",
+        "label": "I"
+    },
+    {
+        "word": "in",
+        "label": "I"
+    },
+    {
+        "word": "Charcoal",
+        "label": "I"
+    },
+    {
+        "word": "Lulu",
+        "label": "O"
+    },
+    {
+        "word": "Bed",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Queen",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Charcoal",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,690.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,690.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Avalon",
+        "label": "B"
+    },
+    {
+        "word": "Rattan",
+        "label": "I"
+    },
+    {
+        "word": "Console",
+        "label": "I"
+    },
+    {
+        "word": "Avalon",
+        "label": "O"
+    },
+    {
+        "word": "Rattan",
+        "label": "O"
+    },
+    {
+        "word": "Console",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,690.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,390.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Acorn",
+        "label": "B"
+    },
+    {
+        "word": "Rattan",
+        "label": "I"
+    },
+    {
+        "word": "Bedside",
+        "label": "I"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "-",
+        "label": "I"
+    },
+    {
+        "word": "RHS",
+        "label": "I"
+    },
+    {
+        "word": "Acorn",
+        "label": "O"
+    },
+    {
+        "word": "Rattan",
+        "label": "O"
+    },
+    {
+        "word": "Bedside",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "RHS",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "499.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "499.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Bronte",
+        "label": "B"
+    },
+    {
+        "word": "Day",
+        "label": "I"
+    },
+    {
+        "word": "Bed",
+        "label": "I"
+    },
+    {
+        "word": "Bronte",
+        "label": "O"
+    },
+    {
+        "word": "Day",
+        "label": "O"
+    },
+    {
+        "word": "Bed",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "5,390.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "3,999.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "all",
+        "label": "O"
+    },
+    {
+        "word": "We",
+        "label": "O"
+    },
+    {
+        "word": "provide",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "Friendly",
+        "label": "O"
+    },
+    {
+        "word": "Personal",
+        "label": "O"
+    },
+    {
+        "word": "Service",
+        "label": "O"
+    },
+    {
+        "word": "Proudly",
+        "label": "O"
+    },
+    {
+        "word": "Australian",
+        "label": "O"
+    },
+    {
+        "word": "Family",
+        "label": "O"
+    },
+    {
+        "word": "Owned",
+        "label": "O"
+    },
+    {
+        "word": "Business",
+        "label": "O"
+    },
+    {
+        "word": "Delivery",
+        "label": "O"
+    },
+    {
+        "word": "available",
+        "label": "O"
+    },
+    {
+        "word": "throughout",
+        "label": "O"
+    },
+    {
+        "word": "Australia",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "most",
+        "label": "O"
+    },
+    {
+        "word": "products.",
+        "label": "O"
+    },
+    {
+        "word": "UP",
+        "label": "O"
+    },
+    {
+        "word": "TO",
+        "label": "O"
+    },
+    {
+        "word": "12",
+        "label": "O"
+    },
+    {
+        "word": "MONTHS",
+        "label": "O"
+    },
+    {
+        "word": "INTEREST",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "WITH",
+        "label": "O"
+    },
+    {
+        "word": "HUMM",
+        "label": "O"
+    },
+    {
+        "word": "LIMIT",
+        "label": "O"
+    },
+    {
+        "word": "7500",
+        "label": "O"
+    },
+    {
+        "word": "AFTERPAY",
+        "label": "O"
+    },
+    {
+        "word": "UP",
+        "label": "O"
+    },
+    {
+        "word": "TO",
+        "label": "O"
+    },
+    {
+        "word": "2000",
+        "label": "O"
+    },
+    {
+        "word": "PAY",
+        "label": "O"
+    },
+    {
+        "word": "SAFELY",
+        "label": "O"
+    },
+    {
+        "word": "WITH",
+        "label": "O"
+    },
+    {
+        "word": "PAYPAL,",
+        "label": "O"
+    },
+    {
+        "word": "APPLE",
+        "label": "O"
+    },
+    {
+        "word": "PAY,",
+        "label": "O"
+    },
+    {
+        "word": "STRIPE",
+        "label": "O"
+    },
+    {
+        "word": "AND",
+        "label": "O"
+    },
+    {
+        "word": "CREDIT",
+        "label": "O"
+    },
+    {
+        "word": "CARDS",
+        "label": "O"
+    },
+    {
+        "word": "ALSO",
+        "label": "O"
+    },
+    {
+        "word": "ACCEPTED.",
+        "label": "O"
+    },
+    {
+        "word": "Pause",
+        "label": "O"
+    },
+    {
+        "word": "slideshow",
+        "label": "O"
+    },
+    {
+        "word": "Play",
+        "label": "O"
+    },
+    {
+        "word": "slideshow",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "Loving",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "Loving",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "Loving",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Instagram",
+        "label": "O"
+    },
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "Our",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "OUR",
+        "label": "O"
+    },
+    {
+        "word": "CUSTOMERS",
+        "label": "O"
+    },
+    {
+        "word": "FEEDBACK",
+        "label": "O"
+    },
+    {
+        "word": "Im",
+        "label": "O"
+    },
+    {
+        "word": "absolutely",
+        "label": "O"
+    },
+    {
+        "word": "thrilled",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "Seville",
+        "label": "O"
+    },
+    {
+        "word": "Buffet",
+        "label": "O"
+    },
+    {
+        "word": "And",
+        "label": "O"
+    },
+    {
+        "word": "it",
+        "label": "O"
+    },
+    {
+        "word": "looks",
+        "label": "O"
+    },
+    {
+        "word": "amazing",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "hall",
+        "label": "O"
+    },
+    {
+        "word": "entrance",
+        "label": "O"
+    },
+    {
+        "word": "Thank",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "again",
+        "label": "O"
+    },
+    {
+        "word": "Gayle",
+        "label": "O"
+    },
+    {
+        "word": "G",
+        "label": "O"
+    },
+    {
+        "word": "NSW",
+        "label": "O"
+    },
+    {
+        "word": "We",
+        "label": "O"
+    },
+    {
+        "word": "received",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "buffet",
+        "label": "O"
+    },
+    {
+        "word": "today",
+        "label": "O"
+    },
+    {
+        "word": "ahead",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "schedule",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "just",
+        "label": "O"
+    },
+    {
+        "word": "love",
+        "label": "O"
+    },
+    {
+        "word": "it",
+        "label": "O"
+    },
+    {
+        "word": "Thank",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "so",
+        "label": "O"
+    },
+    {
+        "word": "much",
+        "label": "O"
+    },
+    {
+        "word": "Have",
+        "label": "O"
+    },
+    {
+        "word": "tagged",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Instagram",
+        "label": "O"
+    },
+    {
+        "word": "Laura",
+        "label": "O"
+    },
+    {
+        "word": "M",
+        "label": "O"
+    },
+    {
+        "word": "Thanks",
+        "label": "O"
+    },
+    {
+        "word": "Sophie",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "cannot",
+        "label": "O"
+    },
+    {
+        "word": "wait",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "receive",
+        "label": "O"
+    },
+    {
+        "word": "it.",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "appreciate",
+        "label": "O"
+    },
+    {
+        "word": "how",
+        "label": "O"
+    },
+    {
+        "word": "prompt",
+        "label": "O"
+    },
+    {
+        "word": "youve",
+        "label": "O"
+    },
+    {
+        "word": "been",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "delivering",
+        "label": "O"
+    },
+    {
+        "word": "everything",
+        "label": "O"
+    },
+    {
+        "word": "thus",
+        "label": "O"
+    },
+    {
+        "word": "far.",
+        "label": "O"
+    },
+    {
+        "word": "Our",
+        "label": "O"
+    },
+    {
+        "word": "little",
+        "label": "O"
+    },
+    {
+        "word": "space",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "feeling",
+        "label": "O"
+    },
+    {
+        "word": "very",
+        "label": "O"
+    },
+    {
+        "word": "cosy",
+        "label": "O"
+    },
+    {
+        "word": "all",
+        "label": "O"
+    },
+    {
+        "word": "thanks",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "gorgeous",
+        "label": "O"
+    },
+    {
+        "word": "collection",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "products",
+        "label": "O"
+    },
+    {
+        "word": "Ive",
+        "label": "O"
+    },
+    {
+        "word": "already",
+        "label": "O"
+    },
+    {
+        "word": "sent",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "shop",
+        "label": "O"
+    },
+    {
+        "word": "details",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "family",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "friends.",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "def",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "reaching",
+        "label": "O"
+    },
+    {
+        "word": "back",
+        "label": "O"
+    },
+    {
+        "word": "out",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "once",
+        "label": "O"
+    },
+    {
+        "word": "we",
+        "label": "O"
+    },
+    {
+        "word": "find",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "place",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "ready",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "furnish",
+        "label": "O"
+    },
+    {
+        "word": "all",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "rooms",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "Julie",
+        "label": "O"
+    },
+    {
+        "word": "N",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Balmain",
+        "label": "O"
+    }
+]

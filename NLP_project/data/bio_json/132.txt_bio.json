@@ -1,0 +1,1250 @@
+[
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Colourful",
+        "label": "B"
+    },
+    {
+        "word": "Markers,",
+        "label": "I"
+    },
+    {
+        "word": "Embroidered",
+        "label": "I"
+    },
+    {
+        "word": "Cushion",
+        "label": "I"
+    },
+    {
+        "word": "Cover",
+        "label": "I"
+    },
+    {
+        "word": "16",
+        "label": "I"
+    },
+    {
+        "word": "x",
+        "label": "I"
+    },
+    {
+        "word": "16",
+        "label": "I"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "Elephant",
+        "label": "O"
+    },
+    {
+        "word": "Head",
+        "label": "O"
+    },
+    {
+        "word": "Colourful",
+        "label": "O"
+    },
+    {
+        "word": "Markers,",
+        "label": "O"
+    },
+    {
+        "word": "Embroidered",
+        "label": "O"
+    },
+    {
+        "word": "Cushion",
+        "label": "O"
+    },
+    {
+        "word": "Cover",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "25.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "0.00",
+        "label": "O"
+    },
+    {
+        "word": "Tax",
+        "label": "O"
+    },
+    {
+        "word": "included.",
+        "label": "O"
+    },
+    {
+        "word": "Default",
+        "label": "O"
+    },
+    {
+        "word": "Title",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "25.00",
+        "label": "O"
+    },
+    {
+        "word": "GBP",
+        "label": "O"
+    },
+    {
+        "word": "Quantity",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "item",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "recurring",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "deferred",
+        "label": "O"
+    },
+    {
+        "word": "purchase.",
+        "label": "O"
+    },
+    {
+        "word": "By",
+        "label": "O"
+    },
+    {
+        "word": "continuing,",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "agree",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "cancellation",
+        "label": "O"
+    },
+    {
+        "word": "policy",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "authorize",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "charge",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "payment",
+        "label": "O"
+    },
+    {
+        "word": "method",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "prices,",
+        "label": "O"
+    },
+    {
+        "word": "frequency",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "dates",
+        "label": "O"
+    },
+    {
+        "word": "listed",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "page",
+        "label": "O"
+    },
+    {
+        "word": "until",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "order",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "fulfilled",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "cancel,",
+        "label": "O"
+    },
+    {
+        "word": "if",
+        "label": "O"
+    },
+    {
+        "word": "permitted.",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "colourful",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "fun",
+        "label": "O"
+    },
+    {
+        "word": "Markers",
+        "label": "O"
+    },
+    {
+        "word": "cushion",
+        "label": "O"
+    },
+    {
+        "word": "cover",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "been",
+        "label": "O"
+    },
+    {
+        "word": "hand",
+        "label": "O"
+    },
+    {
+        "word": "embroidered",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "artisans",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "charity",
+        "label": "O"
+    },
+    {
+        "word": "Aham",
+        "label": "O"
+    },
+    {
+        "word": "Bhumika",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Bhopal",
+        "label": "O"
+    },
+    {
+        "word": "India.",
+        "label": "O"
+    },
+    {
+        "word": "white",
+        "label": "O"
+    },
+    {
+        "word": "cotton",
+        "label": "O"
+    },
+    {
+        "word": "fabric,",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "plain",
+        "label": "O"
+    },
+    {
+        "word": "white",
+        "label": "O"
+    },
+    {
+        "word": "backing",
+        "label": "O"
+    },
+    {
+        "word": "tie",
+        "label": "O"
+    },
+    {
+        "word": "back",
+        "label": "O"
+    },
+    {
+        "word": "fastening",
+        "label": "O"
+    },
+    {
+        "word": "pre-shrunk",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "pre-washed",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "Care",
+        "label": "O"
+    },
+    {
+        "word": "instructions",
+        "label": "O"
+    },
+    {
+        "word": "Handwashcold",
+        "label": "O"
+    },
+    {
+        "word": "wash.",
+        "label": "O"
+    },
+    {
+        "word": "Do",
+        "label": "O"
+    },
+    {
+        "word": "not",
+        "label": "O"
+    },
+    {
+        "word": "bleach.",
+        "label": "O"
+    },
+    {
+        "word": "Air",
+        "label": "O"
+    },
+    {
+        "word": "drytumble",
+        "label": "O"
+    },
+    {
+        "word": "dry",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "low",
+        "label": "O"
+    },
+    {
+        "word": "heat.",
+        "label": "O"
+    },
+    {
+        "word": "Iron",
+        "label": "O"
+    },
+    {
+        "word": "medium",
+        "label": "O"
+    },
+    {
+        "word": "heat.",
+        "label": "O"
+    },
+    {
+        "word": "Giving",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "profits",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "sale",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "cushion",
+        "label": "O"
+    },
+    {
+        "word": "cover",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "donated",
+        "label": "O"
+    },
+    {
+        "word": "back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "charity",
+        "label": "O"
+    },
+    {
+        "word": "partners",
+        "label": "O"
+    },
+    {
+        "word": "Aham",
+        "label": "O"
+    },
+    {
+        "word": "Bhumika",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "Through",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "small",
+        "label": "O"
+    },
+    {
+        "word": "contribution",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "continuing",
+        "label": "O"
+    },
+    {
+        "word": "support,",
+        "label": "O"
+    },
+    {
+        "word": "we",
+        "label": "O"
+    },
+    {
+        "word": "hope",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "able",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "provide",
+        "label": "O"
+    },
+    {
+        "word": "more",
+        "label": "O"
+    },
+    {
+        "word": "employment",
+        "label": "O"
+    },
+    {
+        "word": "opportunities",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "women",
+        "label": "O"
+    },
+    {
+        "word": "working",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Aham",
+        "label": "O"
+    },
+    {
+        "word": "Bhumika,",
+        "label": "O"
+    },
+    {
+        "word": "t",
+        "label": "O"
+    },
+    {
+        "word": "o",
+        "label": "O"
+    },
+    {
+        "word": "enable",
+        "label": "O"
+    },
+    {
+        "word": "them",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "earn",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "livelihood",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "self-sufficient",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "Aham",
+        "label": "O"
+    },
+    {
+        "word": "Bhumika",
+        "label": "O"
+    },
+    {
+        "word": "Aham",
+        "label": "O"
+    },
+    {
+        "word": "Bhumika",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "an",
+        "label": "O"
+    },
+    {
+        "word": "NGO",
+        "label": "O"
+    },
+    {
+        "word": "Non-Government",
+        "label": "O"
+    },
+    {
+        "word": "Organisation",
+        "label": "O"
+    },
+    {
+        "word": "based",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Bhopal,",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "city",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "state",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Madhya",
+        "label": "O"
+    },
+    {
+        "word": "Pradesh",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "India.",
+        "label": "O"
+    },
+    {
+        "word": "It",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "been",
+        "label": "O"
+    },
+    {
+        "word": "set",
+        "label": "O"
+    },
+    {
+        "word": "up",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "diverse",
+        "label": "O"
+    },
+    {
+        "word": "group",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "artists,",
+        "label": "O"
+    },
+    {
+        "word": "housewives,",
+        "label": "O"
+    },
+    {
+        "word": "engineers,",
+        "label": "O"
+    },
+    {
+        "word": "tourist",
+        "label": "O"
+    },
+    {
+        "word": "guides,",
+        "label": "O"
+    },
+    {
+        "word": "teachers",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "government",
+        "label": "O"
+    },
+    {
+        "word": "employees,",
+        "label": "O"
+    },
+    {
+        "word": "who",
+        "label": "O"
+    },
+    {
+        "word": "work",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "betterment",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "underprivileged",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "rural",
+        "label": "O"
+    },
+    {
+        "word": "areas",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "India.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "charity",
+        "label": "O"
+    },
+    {
+        "word": "mainly",
+        "label": "O"
+    },
+    {
+        "word": "works",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "two",
+        "label": "O"
+    },
+    {
+        "word": "villages",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "outskirts",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Bhopal,",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "an",
+        "label": "O"
+    },
+    {
+        "word": "aim",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "enable",
+        "label": "O"
+    },
+    {
+        "word": "rural",
+        "label": "O"
+    },
+    {
+        "word": "women",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "earn",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "livelihood",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "self-sufficient.",
+        "label": "O"
+    },
+    {
+        "word": "As",
+        "label": "O"
+    },
+    {
+        "word": "part",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Aham",
+        "label": "O"
+    },
+    {
+        "word": "Bhumikas",
+        "label": "O"
+    },
+    {
+        "word": "embroidery",
+        "label": "O"
+    },
+    {
+        "word": "project,",
+        "label": "O"
+    },
+    {
+        "word": "more",
+        "label": "O"
+    },
+    {
+        "word": "than",
+        "label": "O"
+    },
+    {
+        "word": "30",
+        "label": "O"
+    },
+    {
+        "word": "skilled",
+        "label": "O"
+    },
+    {
+        "word": "rural",
+        "label": "O"
+    },
+    {
+        "word": "women",
+        "label": "O"
+    },
+    {
+        "word": "artisans,",
+        "label": "O"
+    },
+    {
+        "word": "have",
+        "label": "O"
+    },
+    {
+        "word": "thus",
+        "label": "O"
+    },
+    {
+        "word": "far",
+        "label": "O"
+    },
+    {
+        "word": "been",
+        "label": "O"
+    },
+    {
+        "word": "trained",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "employed",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "create",
+        "label": "O"
+    },
+    {
+        "word": "some",
+        "label": "O"
+    },
+    {
+        "word": "truly",
+        "label": "O"
+    },
+    {
+        "word": "unique",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "beautiful",
+        "label": "O"
+    },
+    {
+        "word": "products",
+        "label": "O"
+    },
+    {
+        "word": "including",
+        "label": "O"
+    },
+    {
+        "word": "sarees,",
+        "label": "O"
+    },
+    {
+        "word": "tote",
+        "label": "O"
+    },
+    {
+        "word": "bags",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "cushion",
+        "label": "O"
+    },
+    {
+        "word": "covers.",
+        "label": "O"
+    }
+]

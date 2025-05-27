@@ -1,0 +1,330 @@
+[
+    {
+        "word": "Previous",
+        "label": "O"
+    },
+    {
+        "word": "slide",
+        "label": "O"
+    },
+    {
+        "word": "Next",
+        "label": "O"
+    },
+    {
+        "word": "slide",
+        "label": "O"
+    },
+    {
+        "word": "Amsterdam",
+        "label": "B"
+    },
+    {
+        "word": "Bench",
+        "label": "I"
+    },
+    {
+        "word": "150",
+        "label": "I"
+    },
+    {
+        "word": "x",
+        "label": "I"
+    },
+    {
+        "word": "35",
+        "label": "I"
+    },
+    {
+        "word": "cm",
+        "label": "I"
+    },
+    {
+        "word": "BE-150-35-TA",
+        "label": "I"
+    },
+    {
+        "word": "Chocolate",
+        "label": "I"
+    },
+    {
+        "word": "Colour",
+        "label": "I"
+    },
+    {
+        "word": "Regular",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "1,399.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "449.00",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Default",
+        "label": "O"
+    },
+    {
+        "word": "Title",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Product",
+        "label": "O"
+    },
+    {
+        "word": "Code",
+        "label": "O"
+    },
+    {
+        "word": "BE-150-35-TA",
+        "label": "O"
+    },
+    {
+        "word": "Name",
+        "label": "O"
+    },
+    {
+        "word": "Amsterdam",
+        "label": "O"
+    },
+    {
+        "word": "Bench",
+        "label": "O"
+    },
+    {
+        "word": "150",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "35",
+        "label": "O"
+    },
+    {
+        "word": "Size",
+        "label": "O"
+    },
+    {
+        "word": "150",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "35D",
+        "label": "O"
+    },
+    {
+        "word": "45H",
+        "label": "O"
+    },
+    {
+        "word": "Description",
+        "label": "O"
+    },
+    {
+        "word": "Handcrafted",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "highly",
+        "label": "O"
+    },
+    {
+        "word": "skilled",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "seasoned",
+        "label": "O"
+    },
+    {
+        "word": "craftsmen,",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "timber",
+        "label": "O"
+    },
+    {
+        "word": "products",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "SVLK",
+        "label": "O"
+    },
+    {
+        "word": "certified,",
+        "label": "O"
+    },
+    {
+        "word": "ensuring",
+        "label": "O"
+    },
+    {
+        "word": "that",
+        "label": "O"
+    },
+    {
+        "word": "it",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "sourced",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "environmentally",
+        "label": "O"
+    },
+    {
+        "word": "sustainable",
+        "label": "O"
+    },
+    {
+        "word": "plantations",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "processed",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "compliance",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "government",
+        "label": "O"
+    },
+    {
+        "word": "regulations.",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Facebook",
+        "label": "O"
+    },
+    {
+        "word": "Tweet",
+        "label": "O"
+    },
+    {
+        "word": "Tweet",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Twitter",
+        "label": "O"
+    },
+    {
+        "word": "Pin",
+        "label": "O"
+    },
+    {
+        "word": "it",
+        "label": "O"
+    },
+    {
+        "word": "Pin",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Pinterest",
+        "label": "O"
+    }
+]

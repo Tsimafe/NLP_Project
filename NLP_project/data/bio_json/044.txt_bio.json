@@ -1,0 +1,558 @@
+[
+    {
+        "word": "Menu",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Catalog",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Pub",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Amish",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Sizing",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    },
+    {
+        "word": "Order",
+        "label": "O"
+    },
+    {
+        "word": "Form",
+        "label": "O"
+    },
+    {
+        "word": "Continue",
+        "label": "O"
+    },
+    {
+        "word": "Shopping",
+        "label": "O"
+    },
+    {
+        "word": "Your",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "Empty",
+        "label": "O"
+    },
+    {
+        "word": "SUBMIT",
+        "label": "O"
+    },
+    {
+        "word": "ORDERS",
+        "label": "O"
+    },
+    {
+        "word": "AND",
+        "label": "O"
+    },
+    {
+        "word": "PRODUCT",
+        "label": "O"
+    },
+    {
+        "word": "ISSUES",
+        "label": "O"
+    },
+    {
+        "word": "WITH",
+        "label": "O"
+    },
+    {
+        "word": "PICTURE",
+        "label": "O"
+    },
+    {
+        "word": "VIA",
+        "label": "O"
+    },
+    {
+        "word": "EMAIL",
+        "label": "O"
+    },
+    {
+        "word": "supportallwoodfurn.com",
+        "label": "O"
+    },
+    {
+        "word": "Allwood",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Catalog",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Pub",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Amish",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Sizing",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    },
+    {
+        "word": "Order",
+        "label": "O"
+    },
+    {
+        "word": "Form",
+        "label": "O"
+    },
+    {
+        "word": "Allwood",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "Group",
+        "label": "O"
+    },
+    {
+        "word": "119",
+        "label": "O"
+    },
+    {
+        "word": "Group",
+        "label": "O"
+    },
+    {
+        "word": "119",
+        "label": "O"
+    },
+    {
+        "word": "56005601",
+        "label": "O"
+    },
+    {
+        "word": "Rustic",
+        "label": "B"
+    },
+    {
+        "word": "Two",
+        "label": "I"
+    },
+    {
+        "word": "Tone",
+        "label": "I"
+    },
+    {
+        "word": "Gathering",
+        "label": "I"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "and",
+        "label": "I"
+    },
+    {
+        "word": "Barstools",
+        "label": "I"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "5600",
+        "label": "O"
+    },
+    {
+        "word": "42W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "6078D",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "36H",
+        "label": "O"
+    },
+    {
+        "word": "Rustic",
+        "label": "O"
+    },
+    {
+        "word": "Two-Tone",
+        "label": "O"
+    },
+    {
+        "word": "Rectangular",
+        "label": "O"
+    },
+    {
+        "word": "Gathering",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "wSelf-Storing",
+        "label": "O"
+    },
+    {
+        "word": "Butterfly",
+        "label": "O"
+    },
+    {
+        "word": "Leaf",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "5601",
+        "label": "O"
+    },
+    {
+        "word": "24W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "24D",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "42H",
+        "label": "O"
+    },
+    {
+        "word": "Rustic",
+        "label": "O"
+    },
+    {
+        "word": "Two-Tone",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "Request",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "quote",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "News",
+        "label": "O"
+    },
+    {
+        "word": "Updates",
+        "label": "O"
+    },
+    {
+        "word": "Sign",
+        "label": "O"
+    },
+    {
+        "word": "up",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "get",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "latest",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "sales,",
+        "label": "O"
+    },
+    {
+        "word": "new",
+        "label": "O"
+    },
+    {
+        "word": "releases",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "more",
+        "label": "O"
+    },
+    {
+        "word": "Whats",
+        "label": "O"
+    },
+    {
+        "word": "New",
+        "label": "O"
+    },
+    {
+        "word": "Welcome",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Allwood",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Co.",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "call",
+        "label": "O"
+    },
+    {
+        "word": "us",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "800-320-1744",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "651-917-9390",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "any",
+        "label": "O"
+    },
+    {
+        "word": "questions.",
+        "label": "O"
+    },
+    {
+        "word": "To",
+        "label": "O"
+    },
+    {
+        "word": "order",
+        "label": "O"
+    },
+    {
+        "word": "use",
+        "label": "O"
+    },
+    {
+        "word": "supportallwoodfurn.com",
+        "label": "O"
+    },
+    {
+        "word": "2025",
+        "label": "O"
+    },
+    {
+        "word": "Allwood",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "Ecommerce",
+        "label": "O"
+    },
+    {
+        "word": "Software",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Shopify",
+        "label": "O"
+    }
+]

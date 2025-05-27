@@ -1,0 +1,342 @@
+[
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "individually",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "small",
+        "label": "O"
+    },
+    {
+        "word": "scale",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "some",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "Britains",
+        "label": "O"
+    },
+    {
+        "word": "most",
+        "label": "O"
+    },
+    {
+        "word": "skilled",
+        "label": "O"
+    },
+    {
+        "word": "makers",
+        "label": "O"
+    },
+    {
+        "word": "where",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "focus",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "quality",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "craftsmanship.",
+        "label": "O"
+    },
+    {
+        "word": "From",
+        "label": "O"
+    },
+    {
+        "word": "classic",
+        "label": "O"
+    },
+    {
+        "word": "sofas",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "innovative",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cleverly",
+        "label": "O"
+    },
+    {
+        "word": "upcycled",
+        "label": "O"
+    },
+    {
+        "word": "pieces,",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "designs",
+        "label": "O"
+    },
+    {
+        "word": "we",
+        "label": "O"
+    },
+    {
+        "word": "have",
+        "label": "O"
+    },
+    {
+        "word": "selected",
+        "label": "O"
+    },
+    {
+        "word": "suit",
+        "label": "O"
+    },
+    {
+        "word": "many",
+        "label": "O"
+    },
+    {
+        "word": "styles.",
+        "label": "O"
+    },
+    {
+        "word": "For",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "finishing",
+        "label": "O"
+    },
+    {
+        "word": "touches,",
+        "label": "O"
+    },
+    {
+        "word": "choose",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "range",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "printed",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "woven",
+        "label": "O"
+    },
+    {
+        "word": "textiles",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "stunning",
+        "label": "O"
+    },
+    {
+        "word": "collection",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "homewares,",
+        "label": "O"
+    },
+    {
+        "word": "that",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "help",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "transform",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "house",
+        "label": "O"
+    },
+    {
+        "word": "into",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "home.",
+        "label": "O"
+    },
+    {
+        "word": "Sofas",
+        "label": "O"
+    },
+    {
+        "word": "Armchairs",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Cushions",
+        "label": "O"
+    },
+    {
+        "word": "Ceramics",
+        "label": "O"
+    },
+    {
+        "word": "Glass",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Homewares",
+        "label": "O"
+    },
+    {
+        "word": "Textiles",
+        "label": "O"
+    },
+    {
+        "word": "Upcycled",
+        "label": "O"
+    },
+    {
+        "word": "Art",
+        "label": "O"
+    },
+    {
+        "word": "Artisans",
+        "label": "O"
+    }
+]

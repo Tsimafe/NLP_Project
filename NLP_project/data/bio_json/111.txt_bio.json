@@ -1,0 +1,3158 @@
+[
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "Deals",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Week",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "Financing",
+        "label": "O"
+    },
+    {
+        "word": "CLEARANCE",
+        "label": "O"
+    },
+    {
+        "word": "SALE",
+        "label": "O"
+    },
+    {
+        "word": "0",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "0.00",
+        "label": "O"
+    },
+    {
+        "word": "It",
+        "label": "O"
+    },
+    {
+        "word": "appears",
+        "label": "O"
+    },
+    {
+        "word": "that",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "currently",
+        "label": "O"
+    },
+    {
+        "word": "empty",
+        "label": "O"
+    },
+    {
+        "word": "Total",
+        "label": "O"
+    },
+    {
+        "word": "0.00",
+        "label": "O"
+    },
+    {
+        "word": "Checkout",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "Menu",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Leather",
+        "label": "O"
+    },
+    {
+        "word": "Upholstery",
+        "label": "O"
+    },
+    {
+        "word": "Fabric",
+        "label": "O"
+    },
+    {
+        "word": "Upholstery",
+        "label": "O"
+    },
+    {
+        "word": "Theater",
+        "label": "O"
+    },
+    {
+        "word": "Seating",
+        "label": "O"
+    },
+    {
+        "word": "Massage",
+        "label": "O"
+    },
+    {
+        "word": "Chair",
+        "label": "O"
+    },
+    {
+        "word": "Occasional",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Media",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Fireplace",
+        "label": "O"
+    },
+    {
+        "word": "Sofas",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Storage",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "Bed",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Bedroom",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "Mattresses",
+        "label": "O"
+    },
+    {
+        "word": "Mattress",
+        "label": "O"
+    },
+    {
+        "word": "Foundation",
+        "label": "O"
+    },
+    {
+        "word": "Pillows",
+        "label": "O"
+    },
+    {
+        "word": "Bedding",
+        "label": "O"
+    },
+    {
+        "word": "Accents",
+        "label": "O"
+    },
+    {
+        "word": "Accent",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Chaises",
+        "label": "O"
+    },
+    {
+        "word": "Benches",
+        "label": "O"
+    },
+    {
+        "word": "Ottomans",
+        "label": "O"
+    },
+    {
+        "word": "Mirrors",
+        "label": "O"
+    },
+    {
+        "word": "Wall",
+        "label": "O"
+    },
+    {
+        "word": "Arts",
+        "label": "O"
+    },
+    {
+        "word": "Accent",
+        "label": "O"
+    },
+    {
+        "word": "Pillows",
+        "label": "O"
+    },
+    {
+        "word": "Rugs",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Dividers",
+        "label": "O"
+    },
+    {
+        "word": "Cabinets",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Youth",
+        "label": "O"
+    },
+    {
+        "word": "Youth",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Bunk",
+        "label": "O"
+    },
+    {
+        "word": "Beds",
+        "label": "O"
+    },
+    {
+        "word": "Cribs",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Desks",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Bookcases",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Storage",
+        "label": "O"
+    },
+    {
+        "word": "Trending",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "Classic",
+        "label": "O"
+    },
+    {
+        "word": "Contemporary",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Traditional",
+        "label": "O"
+    },
+    {
+        "word": "RusticMid",
+        "label": "O"
+    },
+    {
+        "word": "Century",
+        "label": "O"
+    },
+    {
+        "word": "Transitional",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Seating",
+        "label": "O"
+    },
+    {
+        "word": "Lounge",
+        "label": "O"
+    },
+    {
+        "word": "Swings",
+        "label": "O"
+    },
+    {
+        "word": "Occasional",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Accents",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "décor",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Clearance",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Interior",
+        "label": "O"
+    },
+    {
+        "word": "Consultation",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "Synchrony",
+        "label": "O"
+    },
+    {
+        "word": "Finance",
+        "label": "O"
+    },
+    {
+        "word": "Snap",
+        "label": "O"
+    },
+    {
+        "word": "Finance",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Leather",
+        "label": "O"
+    },
+    {
+        "word": "Upholstery",
+        "label": "O"
+    },
+    {
+        "word": "Fabric",
+        "label": "O"
+    },
+    {
+        "word": "Upholstery",
+        "label": "O"
+    },
+    {
+        "word": "Theater",
+        "label": "O"
+    },
+    {
+        "word": "Seating",
+        "label": "O"
+    },
+    {
+        "word": "Massage",
+        "label": "O"
+    },
+    {
+        "word": "Chair",
+        "label": "O"
+    },
+    {
+        "word": "Occasional",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Media",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Fireplace",
+        "label": "O"
+    },
+    {
+        "word": "Sofas",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Storage",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "Bed",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Bedroom",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "Mattresses",
+        "label": "O"
+    },
+    {
+        "word": "Mattress",
+        "label": "O"
+    },
+    {
+        "word": "Foundation",
+        "label": "O"
+    },
+    {
+        "word": "Pillows",
+        "label": "O"
+    },
+    {
+        "word": "Bedding",
+        "label": "O"
+    },
+    {
+        "word": "Accents",
+        "label": "O"
+    },
+    {
+        "word": "Accent",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Chaises",
+        "label": "O"
+    },
+    {
+        "word": "Benches",
+        "label": "O"
+    },
+    {
+        "word": "Ottomans",
+        "label": "O"
+    },
+    {
+        "word": "Mirrors",
+        "label": "O"
+    },
+    {
+        "word": "Wall",
+        "label": "O"
+    },
+    {
+        "word": "Arts",
+        "label": "O"
+    },
+    {
+        "word": "Accent",
+        "label": "O"
+    },
+    {
+        "word": "Pillows",
+        "label": "O"
+    },
+    {
+        "word": "Rugs",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Dividers",
+        "label": "O"
+    },
+    {
+        "word": "Cabinets",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Youth",
+        "label": "O"
+    },
+    {
+        "word": "Youth",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "Bunk",
+        "label": "O"
+    },
+    {
+        "word": "Beds",
+        "label": "O"
+    },
+    {
+        "word": "Cribs",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Desks",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Bookcases",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Storage",
+        "label": "O"
+    },
+    {
+        "word": "Trending",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "Classic",
+        "label": "O"
+    },
+    {
+        "word": "Contemporary",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Traditional",
+        "label": "O"
+    },
+    {
+        "word": "RusticMid",
+        "label": "O"
+    },
+    {
+        "word": "Century",
+        "label": "O"
+    },
+    {
+        "word": "Transitional",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Seating",
+        "label": "O"
+    },
+    {
+        "word": "Lounge",
+        "label": "O"
+    },
+    {
+        "word": "Swings",
+        "label": "O"
+    },
+    {
+        "word": "Occasional",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Accents",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "décor",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Clearance",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Interior",
+        "label": "O"
+    },
+    {
+        "word": "Consultation",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "Synchrony",
+        "label": "O"
+    },
+    {
+        "word": "Finance",
+        "label": "O"
+    },
+    {
+        "word": "Snap",
+        "label": "O"
+    },
+    {
+        "word": "Finance",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "B"
+    },
+    {
+        "word": "Barstool",
+        "label": "I"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "1,049.00",
+        "label": "O"
+    },
+    {
+        "word": "SKU",
+        "label": "O"
+    },
+    {
+        "word": "13-4042B-H",
+        "label": "O"
+    },
+    {
+        "word": "Options",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "1,049.00",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "1,099.00",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "1,199.00",
+        "label": "O"
+    },
+    {
+        "word": "Grade",
+        "label": "O"
+    },
+    {
+        "word": "4",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "1,299.00",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "handsome",
+        "label": "O"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "stool",
+        "label": "O"
+    },
+    {
+        "word": "collection",
+        "label": "O"
+    },
+    {
+        "word": "features",
+        "label": "O"
+    },
+    {
+        "word": "substantial",
+        "label": "O"
+    },
+    {
+        "word": "wraparound",
+        "label": "O"
+    },
+    {
+        "word": "upholstered",
+        "label": "O"
+    },
+    {
+        "word": "backs,",
+        "label": "O"
+    },
+    {
+        "word": "clad",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "rich",
+        "label": "O"
+    },
+    {
+        "word": "walnut",
+        "label": "O"
+    },
+    {
+        "word": "veneer,",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "coordinate",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "popular",
+        "label": "O"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "dining",
+        "label": "O"
+    },
+    {
+        "word": "chair.",
+        "label": "O"
+    },
+    {
+        "word": "Choose",
+        "label": "O"
+    },
+    {
+        "word": "between",
+        "label": "O"
+    },
+    {
+        "word": "stationary",
+        "label": "O"
+    },
+    {
+        "word": "bar",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "counter",
+        "label": "O"
+    },
+    {
+        "word": "stools,",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "hydraulic",
+        "label": "O"
+    },
+    {
+        "word": "swivel",
+        "label": "O"
+    },
+    {
+        "word": "stool",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "superb",
+        "label": "O"
+    },
+    {
+        "word": "comfort",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "stylish,",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "look.",
+        "label": "O"
+    },
+    {
+        "word": "You",
+        "label": "O"
+    },
+    {
+        "word": "can",
+        "label": "O"
+    },
+    {
+        "word": "select",
+        "label": "O"
+    },
+    {
+        "word": "any",
+        "label": "O"
+    },
+    {
+        "word": "Elite",
+        "label": "O"
+    },
+    {
+        "word": "powder-coat",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "wood",
+        "label": "O"
+    },
+    {
+        "word": "finish",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "customize",
+        "label": "O"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "exactly",
+        "label": "O"
+    },
+    {
+        "word": "fit",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "design",
+        "label": "O"
+    },
+    {
+        "word": "scheme.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "stools",
+        "label": "O"
+    },
+    {
+        "word": "feature",
+        "label": "O"
+    },
+    {
+        "word": "polished...",
+        "label": "O"
+    },
+    {
+        "word": "Quantity",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Type",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "Vendor",
+        "label": "O"
+    },
+    {
+        "word": "Elite",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "Product",
+        "label": "O"
+    },
+    {
+        "word": "Description",
+        "label": "O"
+    },
+    {
+        "word": "Customer",
+        "label": "O"
+    },
+    {
+        "word": "Review",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "handsome",
+        "label": "O"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "stool",
+        "label": "O"
+    },
+    {
+        "word": "collection",
+        "label": "O"
+    },
+    {
+        "word": "features",
+        "label": "O"
+    },
+    {
+        "word": "substantial",
+        "label": "O"
+    },
+    {
+        "word": "wraparound",
+        "label": "O"
+    },
+    {
+        "word": "upholstered",
+        "label": "O"
+    },
+    {
+        "word": "backs,",
+        "label": "O"
+    },
+    {
+        "word": "clad",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "rich",
+        "label": "O"
+    },
+    {
+        "word": "walnut",
+        "label": "O"
+    },
+    {
+        "word": "veneer,",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "coordinate",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "popular",
+        "label": "O"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "dining",
+        "label": "O"
+    },
+    {
+        "word": "chair.",
+        "label": "O"
+    },
+    {
+        "word": "Choose",
+        "label": "O"
+    },
+    {
+        "word": "between",
+        "label": "O"
+    },
+    {
+        "word": "stationary",
+        "label": "O"
+    },
+    {
+        "word": "bar",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "counter",
+        "label": "O"
+    },
+    {
+        "word": "stools,",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "hydraulic",
+        "label": "O"
+    },
+    {
+        "word": "swivel",
+        "label": "O"
+    },
+    {
+        "word": "stool",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "superb",
+        "label": "O"
+    },
+    {
+        "word": "comfort",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "stylish,",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "look.",
+        "label": "O"
+    },
+    {
+        "word": "You",
+        "label": "O"
+    },
+    {
+        "word": "can",
+        "label": "O"
+    },
+    {
+        "word": "select",
+        "label": "O"
+    },
+    {
+        "word": "any",
+        "label": "O"
+    },
+    {
+        "word": "Elite",
+        "label": "O"
+    },
+    {
+        "word": "powder-coat",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "wood",
+        "label": "O"
+    },
+    {
+        "word": "finish",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "customize",
+        "label": "O"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "exactly",
+        "label": "O"
+    },
+    {
+        "word": "fit",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "design",
+        "label": "O"
+    },
+    {
+        "word": "scheme.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "stools",
+        "label": "O"
+    },
+    {
+        "word": "feature",
+        "label": "O"
+    },
+    {
+        "word": "polished",
+        "label": "O"
+    },
+    {
+        "word": "chrome",
+        "label": "O"
+    },
+    {
+        "word": "footrests",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "sparkle",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "durability,",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "hydraulic",
+        "label": "O"
+    },
+    {
+        "word": "stool",
+        "label": "O"
+    },
+    {
+        "word": "easily",
+        "label": "O"
+    },
+    {
+        "word": "adjusts",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "counter",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "bar",
+        "label": "O"
+    },
+    {
+        "word": "height.",
+        "label": "O"
+    },
+    {
+        "word": "Costa",
+        "label": "O"
+    },
+    {
+        "word": "stools",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "easily",
+        "label": "O"
+    },
+    {
+        "word": "coordinate",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "any",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "popular",
+        "label": "O"
+    },
+    {
+        "word": "bars",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "pub",
+        "label": "O"
+    },
+    {
+        "word": "tables",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "create",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "sleek,",
+        "label": "O"
+    },
+    {
+        "word": "contemporary",
+        "label": "O"
+    },
+    {
+        "word": "ensemble.",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Order",
+        "label": "O"
+    },
+    {
+        "word": "Only.",
+        "label": "O"
+    },
+    {
+        "word": "Dimensions",
+        "label": "O"
+    },
+    {
+        "word": "22d",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "21w",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "40h",
+        "label": "O"
+    },
+    {
+        "word": "Related",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Bruso",
+        "label": "O"
+    },
+    {
+        "word": "Upholstered",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "1,299.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Clay",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "1,149.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Dana",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "1,149.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Raymond",
+        "label": "O"
+    },
+    {
+        "word": "Antique",
+        "label": "O"
+    },
+    {
+        "word": "Dual",
+        "label": "O"
+    },
+    {
+        "word": "Tone",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "129.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Mya",
+        "label": "O"
+    },
+    {
+        "word": "Velvet",
+        "label": "O"
+    },
+    {
+        "word": "Swivel",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Colors",
+        "label": "O"
+    },
+    {
+        "word": "Options",
+        "label": "O"
+    },
+    {
+        "word": "529.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Oahu",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Backless",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "769.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Chip",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Backless",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "799.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Circa",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "1,099.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "White",
+        "label": "O"
+    },
+    {
+        "word": "Round",
+        "label": "O"
+    },
+    {
+        "word": "Backless",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Counter",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Height",
+        "label": "O"
+    },
+    {
+        "word": "199.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Grey",
+        "label": "O"
+    },
+    {
+        "word": "Mid",
+        "label": "O"
+    },
+    {
+        "word": "Century",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Counter",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Height",
+        "label": "O"
+    },
+    {
+        "word": "299.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Grey",
+        "label": "O"
+    },
+    {
+        "word": "Velvet",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Gold",
+        "label": "O"
+    },
+    {
+        "word": "Metal",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Counter",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Height",
+        "label": "O"
+    },
+    {
+        "word": "169.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Beige",
+        "label": "O"
+    },
+    {
+        "word": "Fabric",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Black",
+        "label": "O"
+    },
+    {
+        "word": "Metal",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Counter",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Height",
+        "label": "O"
+    },
+    {
+        "word": "499.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Walnut",
+        "label": "O"
+    },
+    {
+        "word": "Wave-Like",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "199.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Exposed",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Black",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Ecru",
+        "label": "O"
+    },
+    {
+        "word": "199.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Walnut",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Black",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Ecru",
+        "label": "O"
+    },
+    {
+        "word": "189.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Mid",
+        "label": "O"
+    },
+    {
+        "word": "Century",
+        "label": "O"
+    },
+    {
+        "word": "Modern",
+        "label": "O"
+    },
+    {
+        "word": "Adjustable",
+        "label": "O"
+    },
+    {
+        "word": "Barstool",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Black",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Ecru",
+        "label": "O"
+    },
+    {
+        "word": "199.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Xara",
+        "label": "O"
+    },
+    {
+        "word": "Velvet",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Chrome",
+        "label": "O"
+    },
+    {
+        "word": "Legs",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Color",
+        "label": "O"
+    },
+    {
+        "word": "Options",
+        "label": "O"
+    },
+    {
+        "word": "409.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Xara",
+        "label": "O"
+    },
+    {
+        "word": "Velvet",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Gold",
+        "label": "O"
+    },
+    {
+        "word": "Legs",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "6",
+        "label": "O"
+    },
+    {
+        "word": "Color",
+        "label": "O"
+    },
+    {
+        "word": "Options",
+        "label": "O"
+    },
+    {
+        "word": "449.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Betsy",
+        "label": "O"
+    },
+    {
+        "word": "Velvet",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Counter",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Height",
+        "label": "O"
+    },
+    {
+        "word": "359.00",
+        "label": "O"
+    },
+    {
+        "word": "Add",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Luxe",
+        "label": "O"
+    },
+    {
+        "word": "Stool",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "Counter",
+        "label": "O"
+    },
+    {
+        "word": "Height",
+        "label": "O"
+    },
+    {
+        "word": "879.00",
+        "label": "O"
+    },
+    {
+        "word": "Store",
+        "label": "O"
+    },
+    {
+        "word": "Hours",
+        "label": "O"
+    },
+    {
+        "word": "Store",
+        "label": "O"
+    },
+    {
+        "word": "Hours",
+        "label": "O"
+    },
+    {
+        "word": "Monday",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Saturday",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "AM",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "6",
+        "label": "O"
+    },
+    {
+        "word": "PM",
+        "label": "O"
+    },
+    {
+        "word": "Tuesday",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Sunday",
+        "label": "O"
+    },
+    {
+        "word": "Closed",
+        "label": "O"
+    },
+    {
+        "word": "Follow",
+        "label": "O"
+    },
+    {
+        "word": "Us",
+        "label": "O"
+    },
+    {
+        "word": "4851",
+        "label": "O"
+    },
+    {
+        "word": "N.",
+        "label": "O"
+    },
+    {
+        "word": "Western",
+        "label": "O"
+    },
+    {
+        "word": "Ave,",
+        "label": "O"
+    },
+    {
+        "word": "Chicago,",
+        "label": "O"
+    },
+    {
+        "word": "IL",
+        "label": "O"
+    },
+    {
+        "word": "60625,",
+        "label": "O"
+    },
+    {
+        "word": "United",
+        "label": "O"
+    },
+    {
+        "word": "States",
+        "label": "O"
+    },
+    {
+        "word": "1-773-561-8519",
+        "label": "O"
+    },
+    {
+        "word": "adminidecorium.com",
+        "label": "O"
+    },
+    {
+        "word": "2025",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "Rights",
+        "label": "O"
+    },
+    {
+        "word": "Reserved.",
+        "label": "O"
+    },
+    {
+        "word": "Design",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Digial",
+        "label": "O"
+    },
+    {
+        "word": "Media",
+        "label": "O"
+    },
+    {
+        "word": "Run",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "Powered",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Shopify",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "Good",
+        "label": "O"
+    },
+    {
+        "word": "Things...",
+        "label": "O"
+    },
+    {
+        "word": "Close",
+        "label": "O"
+    },
+    {
+        "word": "Window",
+        "label": "O"
+    },
+    {
+        "word": "Signup",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "exclusive",
+        "label": "O"
+    },
+    {
+        "word": "email",
+        "label": "O"
+    },
+    {
+        "word": "list",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "first",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "hear",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "special",
+        "label": "O"
+    },
+    {
+        "word": "promotions,",
+        "label": "O"
+    },
+    {
+        "word": "new",
+        "label": "O"
+    },
+    {
+        "word": "arrivals,",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "designer",
+        "label": "O"
+    },
+    {
+        "word": "news.",
+        "label": "O"
+    },
+    {
+        "word": "Product",
+        "label": "O"
+    },
+    {
+        "word": "Added",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "You",
+        "label": "O"
+    },
+    {
+        "word": "can",
+        "label": "O"
+    },
+    {
+        "word": "only",
+        "label": "O"
+    },
+    {
+        "word": "add",
+        "label": "O"
+    },
+    {
+        "word": "Product",
+        "label": "O"
+    },
+    {
+        "word": "Added",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Wishlist",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "full",
+        "label": "O"
+    },
+    {
+        "word": "product",
+        "label": "O"
+    },
+    {
+        "word": "details",
+        "label": "O"
+    },
+    {
+        "word": "Quantity",
+        "label": "O"
+    },
+    {
+        "word": "Unavailable",
+        "label": "O"
+    },
+    {
+        "word": "Sold",
+        "label": "O"
+    },
+    {
+        "word": "Out",
+        "label": "O"
+    }
+]

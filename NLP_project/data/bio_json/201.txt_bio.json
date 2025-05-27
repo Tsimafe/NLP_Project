@@ -1,0 +1,1402 @@
+[
+    {
+        "word": "Open",
+        "label": "O"
+    },
+    {
+        "word": "menu",
+        "label": "O"
+    },
+    {
+        "word": "Menu",
+        "label": "O"
+    },
+    {
+        "word": "Account",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "0",
+        "label": "O"
+    },
+    {
+        "word": "Checkout",
+        "label": "O"
+    },
+    {
+        "word": "New",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Kitchen",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Bed",
+        "label": "O"
+    },
+    {
+        "word": "Bath",
+        "label": "O"
+    },
+    {
+        "word": "Desk",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Decor",
+        "label": "O"
+    },
+    {
+        "word": "Textiles",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Garden",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Decorative",
+        "label": "O"
+    },
+    {
+        "word": "Organizational",
+        "label": "O"
+    },
+    {
+        "word": "Desks",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Seating",
+        "label": "O"
+    },
+    {
+        "word": "Dine",
+        "label": "O"
+    },
+    {
+        "word": "Drink",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Tea",
+        "label": "O"
+    },
+    {
+        "word": "Eat",
+        "label": "O"
+    },
+    {
+        "word": "Serve",
+        "label": "O"
+    },
+    {
+        "word": "Kitchen",
+        "label": "O"
+    },
+    {
+        "word": "Linens",
+        "label": "O"
+    },
+    {
+        "word": "Candy",
+        "label": "O"
+    },
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Kitchen",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Bed",
+        "label": "O"
+    },
+    {
+        "word": "Bath",
+        "label": "O"
+    },
+    {
+        "word": "Desk",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Decor",
+        "label": "O"
+    },
+    {
+        "word": "Textiles",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Garden",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Decorative",
+        "label": "O"
+    },
+    {
+        "word": "Organizational",
+        "label": "O"
+    },
+    {
+        "word": "Desks",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Seating",
+        "label": "O"
+    },
+    {
+        "word": "Dine",
+        "label": "O"
+    },
+    {
+        "word": "Drink",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Tea",
+        "label": "O"
+    },
+    {
+        "word": "Eat",
+        "label": "O"
+    },
+    {
+        "word": "Serve",
+        "label": "O"
+    },
+    {
+        "word": "Kitchen",
+        "label": "O"
+    },
+    {
+        "word": "Linens",
+        "label": "O"
+    },
+    {
+        "word": "Candy",
+        "label": "O"
+    },
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Womens",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Mens",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Kids",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Kids",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Kids",
+        "label": "O"
+    },
+    {
+        "word": "Baby",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Kids",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Decorative",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Prints",
+        "label": "O"
+    },
+    {
+        "word": "Posters",
+        "label": "O"
+    },
+    {
+        "word": "Learn",
+        "label": "O"
+    },
+    {
+        "word": "Play",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Stuffed",
+        "label": "O"
+    },
+    {
+        "word": "Friends",
+        "label": "O"
+    },
+    {
+        "word": "Toys",
+        "label": "O"
+    },
+    {
+        "word": "Games",
+        "label": "O"
+    },
+    {
+        "word": "Learning",
+        "label": "O"
+    },
+    {
+        "word": "Stationary",
+        "label": "O"
+    },
+    {
+        "word": "Coloring",
+        "label": "O"
+    },
+    {
+        "word": "Books",
+        "label": "O"
+    },
+    {
+        "word": "Kids",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Kids",
+        "label": "O"
+    },
+    {
+        "word": "Baby",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Kids",
+        "label": "O"
+    },
+    {
+        "word": "Room",
+        "label": "O"
+    },
+    {
+        "word": "Decorative",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Lighting",
+        "label": "O"
+    },
+    {
+        "word": "Prints",
+        "label": "O"
+    },
+    {
+        "word": "Posters",
+        "label": "O"
+    },
+    {
+        "word": "Learn",
+        "label": "O"
+    },
+    {
+        "word": "Play",
+        "label": "O"
+    },
+    {
+        "word": "Stuffed",
+        "label": "O"
+    },
+    {
+        "word": "Friends",
+        "label": "O"
+    },
+    {
+        "word": "Toys",
+        "label": "O"
+    },
+    {
+        "word": "Games",
+        "label": "O"
+    },
+    {
+        "word": "Learning",
+        "label": "O"
+    },
+    {
+        "word": "Stationary",
+        "label": "O"
+    },
+    {
+        "word": "Coloring",
+        "label": "O"
+    },
+    {
+        "word": "Books",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "previous",
+        "label": "O"
+    },
+    {
+        "word": "Womens",
+        "label": "O"
+    },
+    {
+        "word": "Kids",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Clearance",
+        "label": "O"
+    },
+    {
+        "word": "Account",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "0",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "25.00",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "25.00",
+        "label": "O"
+    },
+    {
+        "word": "50.00",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "50.00",
+        "label": "O"
+    },
+    {
+        "word": "100.00",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "100.00",
+        "label": "O"
+    },
+    {
+        "word": "250.00",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "250.00",
+        "label": "O"
+    },
+    {
+        "word": "500.00",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "500.00",
+        "label": "O"
+    },
+    {
+        "word": "Title",
+        "label": "O"
+    },
+    {
+        "word": "25.00",
+        "label": "O"
+    },
+    {
+        "word": "50.00",
+        "label": "O"
+    },
+    {
+        "word": "100.00",
+        "label": "O"
+    },
+    {
+        "word": "250.00",
+        "label": "O"
+    },
+    {
+        "word": "500.00",
+        "label": "O"
+    },
+    {
+        "word": "Quantity",
+        "label": "O"
+    },
+    {
+        "word": "Shopping",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "someone",
+        "label": "O"
+    },
+    {
+        "word": "else",
+        "label": "O"
+    },
+    {
+        "word": "but",
+        "label": "O"
+    },
+    {
+        "word": "not",
+        "label": "O"
+    },
+    {
+        "word": "sure",
+        "label": "O"
+    },
+    {
+        "word": "what",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "give",
+        "label": "O"
+    },
+    {
+        "word": "them",
+        "label": "O"
+    },
+    {
+        "word": "Give",
+        "label": "O"
+    },
+    {
+        "word": "them",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "gift",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "choice",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "Huset",
+        "label": "O"
+    },
+    {
+        "word": "gift",
+        "label": "O"
+    },
+    {
+        "word": "card.",
+        "label": "O"
+    },
+    {
+        "word": "Share",
+        "label": "O"
+    },
+    {
+        "word": "Details",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "cards",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "delivered",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "email",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "contain",
+        "label": "O"
+    },
+    {
+        "word": "instructions",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "redeem",
+        "label": "O"
+    },
+    {
+        "word": "them",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "checkout.",
+        "label": "O"
+    },
+    {
+        "word": "Our",
+        "label": "O"
+    },
+    {
+        "word": "gift",
+        "label": "O"
+    },
+    {
+        "word": "cards",
+        "label": "O"
+    },
+    {
+        "word": "have",
+        "label": "O"
+    },
+    {
+        "word": "no",
+        "label": "O"
+    },
+    {
+        "word": "additional",
+        "label": "O"
+    },
+    {
+        "word": "processing",
+        "label": "O"
+    },
+    {
+        "word": "fees.",
+        "label": "O"
+    },
+    {
+        "word": "Discover",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "Huset",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "Celebrate",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Card",
+        "label": "O"
+    },
+    {
+        "word": "Huset,",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "house",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Swedish,",
+        "label": "O"
+    },
+    {
+        "word": "Danish",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Norwegian,",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "one-stop",
+        "label": "O"
+    },
+    {
+        "word": "shop",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "best",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "Scandinavian",
+        "label": "O"
+    },
+    {
+        "word": "design.",
+        "label": "O"
+    },
+    {
+        "word": "Offering",
+        "label": "O"
+    },
+    {
+        "word": "up",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "finest",
+        "label": "O"
+    },
+    {
+        "word": "Scandinavian",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "accessory",
+        "label": "O"
+    },
+    {
+        "word": "brands",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "home",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "office,",
+        "label": "O"
+    },
+    {
+        "word": "fine",
+        "label": "O"
+    },
+    {
+        "word": "fashions",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "him",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "her,",
+        "label": "O"
+    },
+    {
+        "word": "as",
+        "label": "O"
+    },
+    {
+        "word": "well",
+        "label": "O"
+    },
+    {
+        "word": "as",
+        "label": "O"
+    },
+    {
+        "word": "clothing",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "toys",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "littlest",
+        "label": "O"
+    },
+    {
+        "word": "style",
+        "label": "O"
+    },
+    {
+        "word": "icons",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "House",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "everything",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "need",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "well-rounded",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "Scandinavian",
+        "label": "O"
+    },
+    {
+        "word": "lifestyle.",
+        "label": "O"
+    },
+    {
+        "word": "Need",
+        "label": "O"
+    },
+    {
+        "word": "Help",
+        "label": "O"
+    },
+    {
+        "word": "Email",
+        "label": "O"
+    },
+    {
+        "word": "hellohuset-shop.com",
+        "label": "O"
+    },
+    {
+        "word": "1316",
+        "label": "O"
+    },
+    {
+        "word": "½",
+        "label": "O"
+    },
+    {
+        "word": "Abbot",
+        "label": "O"
+    },
+    {
+        "word": "Kinney",
+        "label": "O"
+    },
+    {
+        "word": "Blvd.",
+        "label": "O"
+    },
+    {
+        "word": "Venice",
+        "label": "O"
+    },
+    {
+        "word": "CA",
+        "label": "O"
+    },
+    {
+        "word": "90291",
+        "label": "O"
+    },
+    {
+        "word": "424-268-4213",
+        "label": "O"
+    },
+    {
+        "word": "Customer",
+        "label": "O"
+    },
+    {
+        "word": "Care",
+        "label": "O"
+    },
+    {
+        "word": "My",
+        "label": "O"
+    },
+    {
+        "word": "Account",
+        "label": "O"
+    },
+    {
+        "word": "FAQ",
+        "label": "O"
+    },
+    {
+        "word": "Shipping",
+        "label": "O"
+    },
+    {
+        "word": "Info",
+        "label": "O"
+    },
+    {
+        "word": "Returns",
+        "label": "O"
+    },
+    {
+        "word": "Cancellation",
+        "label": "O"
+    },
+    {
+        "word": "Store",
+        "label": "O"
+    },
+    {
+        "word": "Policies",
+        "label": "O"
+    },
+    {
+        "word": "Our",
+        "label": "O"
+    },
+    {
+        "word": "Company",
+        "label": "O"
+    },
+    {
+        "word": "About",
+        "label": "O"
+    },
+    {
+        "word": "us",
+        "label": "O"
+    },
+    {
+        "word": "Designers",
+        "label": "O"
+    },
+    {
+        "word": "Gift",
+        "label": "O"
+    },
+    {
+        "word": "Cards",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    },
+    {
+        "word": "us",
+        "label": "O"
+    },
+    {
+        "word": "Join",
+        "label": "O"
+    },
+    {
+        "word": "Our",
+        "label": "O"
+    },
+    {
+        "word": "Team",
+        "label": "O"
+    },
+    {
+        "word": "Social",
+        "label": "O"
+    },
+    {
+        "word": "Media",
+        "label": "O"
+    },
+    {
+        "word": "Instagram",
+        "label": "O"
+    },
+    {
+        "word": "Pinterest",
+        "label": "O"
+    },
+    {
+        "word": "Facebook",
+        "label": "O"
+    },
+    {
+        "word": "Twitter",
+        "label": "O"
+    },
+    {
+        "word": "2025",
+        "label": "O"
+    },
+    {
+        "word": "Huset",
+        "label": "O"
+    },
+    {
+        "word": "Site",
+        "label": "O"
+    },
+    {
+        "word": "Powered",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "TMS",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "California",
+        "label": "O"
+    },
+    {
+        "word": "Back",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "top",
+        "label": "O"
+    }
+]

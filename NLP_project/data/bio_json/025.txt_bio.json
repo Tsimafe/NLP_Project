@@ -1,0 +1,3850 @@
+[
+    {
+        "word": "Sitemap",
+        "label": "O"
+    },
+    {
+        "word": "Showrooms",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Catalogues",
+        "label": "O"
+    },
+    {
+        "word": "OutdoorGarden",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Catalogue",
+        "label": "O"
+    },
+    {
+        "word": "Customers",
+        "label": "O"
+    },
+    {
+        "word": "About",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "By",
+        "label": "O"
+    },
+    {
+        "word": "Default",
+        "label": "O"
+    },
+    {
+        "word": "sorting",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "popularity",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "newness",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "low",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "high",
+        "label": "O"
+    },
+    {
+        "word": "Sort",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "price",
+        "label": "O"
+    },
+    {
+        "word": "high",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "low",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "24",
+        "label": "O"
+    },
+    {
+        "word": "48",
+        "label": "O"
+    },
+    {
+        "word": "72",
+        "label": "O"
+    },
+    {
+        "word": "96",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "-29",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Trapani",
+        "label": "B"
+    },
+    {
+        "word": "Dining",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "wRope",
+        "label": "I"
+    },
+    {
+        "word": "11PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "375.00",
+        "label": "O"
+    },
+    {
+        "word": "265.00",
+        "label": "O"
+    },
+    {
+        "word": "-40",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "B"
+    },
+    {
+        "word": "Nika",
+        "label": "I"
+    },
+    {
+        "word": "Dining",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "Alu",
+        "label": "I"
+    },
+    {
+        "word": "wRope",
+        "label": "I"
+    },
+    {
+        "word": "2PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "885.00",
+        "label": "O"
+    },
+    {
+        "word": "530.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Varese",
+        "label": "B"
+    },
+    {
+        "word": "Dining",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "Diamond",
+        "label": "I"
+    },
+    {
+        "word": "6PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "Hartman,",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "enjoy",
+        "label": "O"
+    },
+    {
+        "word": "longer",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "Varese",
+        "label": "O"
+    },
+    {
+        "word": "chair",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "manufactured",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "wicker",
+        "label": "O"
+    },
+    {
+        "word": "material",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "aluminum",
+        "label": "O"
+    },
+    {
+        "word": "frame.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "wicker",
+        "label": "O"
+    },
+    {
+        "word": "material",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "high",
+        "label": "O"
+    },
+    {
+        "word": "quality,",
+        "label": "O"
+    },
+    {
+        "word": "resistant",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "weather",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "fadeless.",
+        "label": "O"
+    },
+    {
+        "word": "485.00",
+        "label": "O"
+    },
+    {
+        "word": "340.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Tivoli",
+        "label": "B"
+    },
+    {
+        "word": "Dining",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "Sunny",
+        "label": "I"
+    },
+    {
+        "word": "Cream",
+        "label": "I"
+    },
+    {
+        "word": "Hartman,",
+        "label": "I"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "will",
+        "label": "O"
+    },
+    {
+        "word": "enjoy",
+        "label": "O"
+    },
+    {
+        "word": "longer",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "Tivoli",
+        "label": "O"
+    },
+    {
+        "word": "chair",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "manufactured",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "wicker",
+        "label": "O"
+    },
+    {
+        "word": "material",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "aluminum",
+        "label": "O"
+    },
+    {
+        "word": "frame.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "wicker",
+        "label": "O"
+    },
+    {
+        "word": "material",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "high",
+        "label": "O"
+    },
+    {
+        "word": "quality,",
+        "label": "O"
+    },
+    {
+        "word": "resistant",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "weather",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "fadeless.",
+        "label": "O"
+    },
+    {
+        "word": "415.00",
+        "label": "O"
+    },
+    {
+        "word": "290.00",
+        "label": "O"
+    },
+    {
+        "word": "-31",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Barolo",
+        "label": "B"
+    },
+    {
+        "word": "Dining",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "Anthracite",
+        "label": "I"
+    },
+    {
+        "word": "195.00",
+        "label": "O"
+    },
+    {
+        "word": "135.00",
+        "label": "O"
+    },
+    {
+        "word": "-31",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Barolo",
+        "label": "B"
+    },
+    {
+        "word": "Dining",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "195.00",
+        "label": "O"
+    },
+    {
+        "word": "135.00",
+        "label": "O"
+    },
+    {
+        "word": "-41",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "B"
+    },
+    {
+        "word": "Dining",
+        "label": "I"
+    },
+    {
+        "word": "Chair",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "wTeak",
+        "label": "I"
+    },
+    {
+        "word": "Armrest",
+        "label": "I"
+    },
+    {
+        "word": "2PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "frame",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Chair",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "aluminum,",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "seat",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "textilene.",
+        "label": "O"
+    },
+    {
+        "word": "Both",
+        "label": "O"
+    },
+    {
+        "word": "low",
+        "label": "O"
+    },
+    {
+        "word": "maintenance",
+        "label": "O"
+    },
+    {
+        "word": "materials.",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "allows",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "chair",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "remain",
+        "label": "O"
+    },
+    {
+        "word": "outside",
+        "label": "O"
+    },
+    {
+        "word": "all",
+        "label": "O"
+    },
+    {
+        "word": "year",
+        "label": "O"
+    },
+    {
+        "word": "round.",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "chair",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "beautiful",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "combination",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "table",
+        "label": "O"
+    },
+    {
+        "word": "because",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "design",
+        "label": "O"
+    },
+    {
+        "word": "matches.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "O"
+    },
+    {
+        "word": "line",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "timeless",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "sleek",
+        "label": "O"
+    },
+    {
+        "word": "appearance.",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "O"
+    },
+    {
+        "word": "chair",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "nice",
+        "label": "O"
+    },
+    {
+        "word": "combination",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "580.00",
+        "label": "O"
+    },
+    {
+        "word": "340.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Arezzo",
+        "label": "B"
+    },
+    {
+        "word": "Lounger",
+        "label": "I"
+    },
+    {
+        "word": "Black",
+        "label": "I"
+    },
+    {
+        "word": "Alu",
+        "label": "I"
+    },
+    {
+        "word": "wGREY",
+        "label": "I"
+    },
+    {
+        "word": "Rope",
+        "label": "I"
+    },
+    {
+        "word": "Beige",
+        "label": "I"
+    },
+    {
+        "word": "Cushions",
+        "label": "I"
+    },
+    {
+        "word": "4PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "1,765.00",
+        "label": "O"
+    },
+    {
+        "word": "1,235.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Arezzo",
+        "label": "B"
+    },
+    {
+        "word": "Lounger",
+        "label": "I"
+    },
+    {
+        "word": "Black",
+        "label": "I"
+    },
+    {
+        "word": "Alu",
+        "label": "I"
+    },
+    {
+        "word": "wGREY",
+        "label": "I"
+    },
+    {
+        "word": "Rope",
+        "label": "I"
+    },
+    {
+        "word": "Light",
+        "label": "I"
+    },
+    {
+        "word": "Grey",
+        "label": "I"
+    },
+    {
+        "word": "Cushions",
+        "label": "I"
+    },
+    {
+        "word": "2PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "1,765.00",
+        "label": "O"
+    },
+    {
+        "word": "1,235.00",
+        "label": "O"
+    },
+    {
+        "word": "-40",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Rosario",
+        "label": "B"
+    },
+    {
+        "word": "Lounger",
+        "label": "I"
+    },
+    {
+        "word": "Cast",
+        "label": "I"
+    },
+    {
+        "word": "Alu",
+        "label": "I"
+    },
+    {
+        "word": "Riven",
+        "label": "I"
+    },
+    {
+        "word": "Grey",
+        "label": "I"
+    },
+    {
+        "word": "wCushion",
+        "label": "I"
+    },
+    {
+        "word": "3PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "875.00",
+        "label": "O"
+    },
+    {
+        "word": "525.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Rosario",
+        "label": "O"
+    },
+    {
+        "word": "Bench",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Alu",
+        "label": "O"
+    },
+    {
+        "word": "Riven",
+        "label": "O"
+    },
+    {
+        "word": "Grey",
+        "label": "O"
+    },
+    {
+        "word": "3PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "650.00",
+        "label": "O"
+    },
+    {
+        "word": "455.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Carson",
+        "label": "B"
+    },
+    {
+        "word": "Coffee",
+        "label": "I"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "R.82cm",
+        "label": "I"
+    },
+    {
+        "word": "Black",
+        "label": "I"
+    },
+    {
+        "word": "wCeramic",
+        "label": "I"
+    },
+    {
+        "word": "Top",
+        "label": "I"
+    },
+    {
+        "word": "1PC",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "955.00",
+        "label": "O"
+    },
+    {
+        "word": "665.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Carson",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "R.82cm",
+        "label": "O"
+    },
+    {
+        "word": "White",
+        "label": "O"
+    },
+    {
+        "word": "wCeramic",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "1PC",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "955.00",
+        "label": "O"
+    },
+    {
+        "word": "665.00",
+        "label": "O"
+    },
+    {
+        "word": "-31",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Carson",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "R.62cm",
+        "label": "O"
+    },
+    {
+        "word": "Black",
+        "label": "O"
+    },
+    {
+        "word": "wCeramic",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "1PC",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "795.00",
+        "label": "O"
+    },
+    {
+        "word": "550.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Biarritz",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "Square",
+        "label": "O"
+    },
+    {
+        "word": "Set",
+        "label": "O"
+    },
+    {
+        "word": "White",
+        "label": "O"
+    },
+    {
+        "word": "wHPL",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "3PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "985.00",
+        "label": "O"
+    },
+    {
+        "word": "690.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Biarritz",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "Square",
+        "label": "O"
+    },
+    {
+        "word": "Set",
+        "label": "O"
+    },
+    {
+        "word": "Charcoal",
+        "label": "O"
+    },
+    {
+        "word": "wHPL",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "3PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "985.00",
+        "label": "O"
+    },
+    {
+        "word": "690.00",
+        "label": "O"
+    },
+    {
+        "word": "-40",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Torano",
+        "label": "O"
+    },
+    {
+        "word": "Daybed",
+        "label": "O"
+    },
+    {
+        "word": "Desert",
+        "label": "O"
+    },
+    {
+        "word": "Sand",
+        "label": "O"
+    },
+    {
+        "word": "3PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "2,350.00",
+        "label": "O"
+    },
+    {
+        "word": "1,410.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Tipperary",
+        "label": "O"
+    },
+    {
+        "word": "Ext.",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "160260x90cm",
+        "label": "O"
+    },
+    {
+        "word": "Xerix",
+        "label": "O"
+    },
+    {
+        "word": "wHPL",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "2,150.00",
+        "label": "O"
+    },
+    {
+        "word": "1,500.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "B"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "220x100cm",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "Alu",
+        "label": "I"
+    },
+    {
+        "word": "wTeak",
+        "label": "I"
+    },
+    {
+        "word": "Top",
+        "label": "I"
+    },
+    {
+        "word": "1PC",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "aluminium",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "finished",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "teak",
+        "label": "O"
+    },
+    {
+        "word": "tabletop.",
+        "label": "O"
+    },
+    {
+        "word": "Both",
+        "label": "O"
+    },
+    {
+        "word": "materials",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "low-maintenance.",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "allows",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "leave",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "set",
+        "label": "O"
+    },
+    {
+        "word": "outside",
+        "label": "O"
+    },
+    {
+        "word": "all",
+        "label": "O"
+    },
+    {
+        "word": "year",
+        "label": "O"
+    },
+    {
+        "word": "round",
+        "label": "O"
+    },
+    {
+        "word": "without",
+        "label": "O"
+    },
+    {
+        "word": "any",
+        "label": "O"
+    },
+    {
+        "word": "worries.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "table",
+        "label": "O"
+    },
+    {
+        "word": "coordinates",
+        "label": "O"
+    },
+    {
+        "word": "beautifully",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "chair.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "Breeze",
+        "label": "O"
+    },
+    {
+        "word": "collection",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "timeless",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "sleek",
+        "label": "O"
+    },
+    {
+        "word": "appearance.",
+        "label": "O"
+    },
+    {
+        "word": "2,250.00",
+        "label": "O"
+    },
+    {
+        "word": "1,575.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Salerno",
+        "label": "B"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "200x100cm",
+        "label": "I"
+    },
+    {
+        "word": "All",
+        "label": "I"
+    },
+    {
+        "word": "Aluminium",
+        "label": "I"
+    },
+    {
+        "word": "Anthracite",
+        "label": "I"
+    },
+    {
+        "word": "2PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "1,150.00",
+        "label": "O"
+    },
+    {
+        "word": "805.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Salerno",
+        "label": "B"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "200x100cm",
+        "label": "I"
+    },
+    {
+        "word": "All",
+        "label": "I"
+    },
+    {
+        "word": "Aluminium",
+        "label": "I"
+    },
+    {
+        "word": "White",
+        "label": "I"
+    },
+    {
+        "word": "3PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "1,150.00",
+        "label": "O"
+    },
+    {
+        "word": "805.00",
+        "label": "O"
+    },
+    {
+        "word": "-30",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Arezzo",
+        "label": "B"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "R.130cm",
+        "label": "I"
+    },
+    {
+        "word": "Black",
+        "label": "I"
+    },
+    {
+        "word": "wCeramic",
+        "label": "I"
+    },
+    {
+        "word": "Top",
+        "label": "I"
+    },
+    {
+        "word": "3PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "1,250.00",
+        "label": "O"
+    },
+    {
+        "word": "875.00",
+        "label": "O"
+    },
+    {
+        "word": "-40",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Susan",
+        "label": "B"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "Oval",
+        "label": "I"
+    },
+    {
+        "word": "240x140cm",
+        "label": "I"
+    },
+    {
+        "word": "Xerix",
+        "label": "I"
+    },
+    {
+        "word": "wCeramic",
+        "label": "I"
+    },
+    {
+        "word": "on",
+        "label": "I"
+    },
+    {
+        "word": "Glass",
+        "label": "I"
+    },
+    {
+        "word": "Top",
+        "label": "I"
+    },
+    {
+        "word": "1PC",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "2,250.00",
+        "label": "O"
+    },
+    {
+        "word": "1,350.00",
+        "label": "O"
+    },
+    {
+        "word": "-40",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Susan",
+        "label": "B"
+    },
+    {
+        "word": "Table",
+        "label": "I"
+    },
+    {
+        "word": "Oval",
+        "label": "I"
+    },
+    {
+        "word": "200x120cm",
+        "label": "I"
+    },
+    {
+        "word": "Xerix",
+        "label": "I"
+    },
+    {
+        "word": "wCeramic",
+        "label": "I"
+    },
+    {
+        "word": "on",
+        "label": "I"
+    },
+    {
+        "word": "Glass",
+        "label": "I"
+    },
+    {
+        "word": "Top",
+        "label": "I"
+    },
+    {
+        "word": "3PCS",
+        "label": "O"
+    },
+    {
+        "word": "ONLY",
+        "label": "O"
+    },
+    {
+        "word": "1,950.00",
+        "label": "O"
+    },
+    {
+        "word": "1,170.00",
+        "label": "O"
+    },
+    {
+        "word": "View",
+        "label": "O"
+    },
+    {
+        "word": "24",
+        "label": "O"
+    },
+    {
+        "word": "48",
+        "label": "O"
+    },
+    {
+        "word": "72",
+        "label": "O"
+    },
+    {
+        "word": "96",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Categories",
+        "label": "O"
+    },
+    {
+        "word": "GardenOutdoor",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Wicker",
+        "label": "O"
+    },
+    {
+        "word": "Rope",
+        "label": "O"
+    },
+    {
+        "word": "PlasticResin",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Ceramic",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Glass",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "HPL",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Extendable",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Lounge",
+        "label": "O"
+    },
+    {
+        "word": "Sofa",
+        "label": "O"
+    },
+    {
+        "word": "Sets",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Wicker",
+        "label": "O"
+    },
+    {
+        "word": "Rope",
+        "label": "O"
+    },
+    {
+        "word": "Day",
+        "label": "O"
+    },
+    {
+        "word": "Beds",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Sunbrella",
+        "label": "O"
+    },
+    {
+        "word": "Fabric",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Footstools",
+        "label": "O"
+    },
+    {
+        "word": "Dividers",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Ceramic",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Loungers",
+        "label": "O"
+    },
+    {
+        "word": "Side",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Textilene",
+        "label": "O"
+    },
+    {
+        "word": "Sunbrella",
+        "label": "O"
+    },
+    {
+        "word": "Fabric",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Rope",
+        "label": "O"
+    },
+    {
+        "word": "Beanbags",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Glass",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Umbrellas",
+        "label": "O"
+    },
+    {
+        "word": "Bases",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Bases",
+        "label": "O"
+    },
+    {
+        "word": "Day",
+        "label": "O"
+    },
+    {
+        "word": "Beds",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Storage",
+        "label": "O"
+    },
+    {
+        "word": "Boxes",
+        "label": "O"
+    },
+    {
+        "word": "Hammocks",
+        "label": "O"
+    },
+    {
+        "word": "Swings",
+        "label": "O"
+    },
+    {
+        "word": "AccessoriesCushions",
+        "label": "O"
+    },
+    {
+        "word": "Deco",
+        "label": "O"
+    },
+    {
+        "word": "Cushions",
+        "label": "O"
+    },
+    {
+        "word": "Hartman",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Covers",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "GrandHall",
+        "label": "O"
+    },
+    {
+        "word": "Gas",
+        "label": "O"
+    },
+    {
+        "word": "Grills",
+        "label": "O"
+    },
+    {
+        "word": "Gas",
+        "label": "O"
+    },
+    {
+        "word": "Grills",
+        "label": "O"
+    },
+    {
+        "word": "Grill",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Deco",
+        "label": "O"
+    },
+    {
+        "word": "Cushions",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Covers",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Price",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "Price",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Material",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "26",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wGlass",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wHPL",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wRope",
+        "label": "O"
+    },
+    {
+        "word": "7",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wTeak",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wTextilene",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Ceramic",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Glass",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Ceramic",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "5",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Wicker",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Wicker",
+        "label": "O"
+    },
+    {
+        "word": "wAluminum",
+        "label": "O"
+    },
+    {
+        "word": "Frame",
+        "label": "O"
+    },
+    {
+        "word": "8",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Type",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "Lounge",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Sofas-Armchairs-Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "etc..",
+        "label": "O"
+    },
+    {
+        "word": "27",
+        "label": "O"
+    },
+    {
+        "word": "Loungers",
+        "label": "O"
+    },
+    {
+        "word": "Side",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "8",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Manufacturer",
+        "label": "O"
+    },
+    {
+        "word": "Hartman",
+        "label": "O"
+    },
+    {
+        "word": "34",
+        "label": "O"
+    },
+    {
+        "word": "Mondial",
+        "label": "O"
+    },
+    {
+        "word": "19",
+        "label": "O"
+    },
+    {
+        "word": "Nicosia",
+        "label": "O"
+    },
+    {
+        "word": "Showroom",
+        "label": "O"
+    },
+    {
+        "word": "Address",
+        "label": "O"
+    },
+    {
+        "word": "121",
+        "label": "O"
+    },
+    {
+        "word": "Athalassas",
+        "label": "O"
+    },
+    {
+        "word": "ave.,",
+        "label": "O"
+    },
+    {
+        "word": "Strovolos",
+        "label": "O"
+    },
+    {
+        "word": "Phone",
+        "label": "O"
+    },
+    {
+        "word": "357",
+        "label": "O"
+    },
+    {
+        "word": "22765681",
+        "label": "O"
+    },
+    {
+        "word": "Email",
+        "label": "O"
+    },
+    {
+        "word": "infokomodromos.com.cy",
+        "label": "O"
+    },
+    {
+        "word": "Limassol",
+        "label": "O"
+    },
+    {
+        "word": "Showroom",
+        "label": "O"
+    },
+    {
+        "word": "Address",
+        "label": "O"
+    },
+    {
+        "word": "38,",
+        "label": "O"
+    },
+    {
+        "word": "Spyrou",
+        "label": "O"
+    },
+    {
+        "word": "Kyprianou",
+        "label": "O"
+    },
+    {
+        "word": "ave.,",
+        "label": "O"
+    },
+    {
+        "word": "Potamos",
+        "label": "O"
+    },
+    {
+        "word": "Germasogeias",
+        "label": "O"
+    },
+    {
+        "word": "Phone",
+        "label": "O"
+    },
+    {
+        "word": "357",
+        "label": "O"
+    },
+    {
+        "word": "25370095",
+        "label": "O"
+    },
+    {
+        "word": "Email",
+        "label": "O"
+    },
+    {
+        "word": "infokomodromos.com.cy",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Garden",
+        "label": "O"
+    },
+    {
+        "word": "Catalogue",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Catalogue",
+        "label": "O"
+    },
+    {
+        "word": "Hartman",
+        "label": "O"
+    },
+    {
+        "word": "2025",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "Search",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "Copyright",
+        "label": "O"
+    },
+    {
+        "word": "Komodromos",
+        "label": "O"
+    },
+    {
+        "word": "2025.",
+        "label": "O"
+    },
+    {
+        "word": "All",
+        "label": "O"
+    },
+    {
+        "word": "rights",
+        "label": "O"
+    },
+    {
+        "word": "reserved.",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Catalogues",
+        "label": "O"
+    },
+    {
+        "word": "OutdoorGarden",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Catalogue",
+        "label": "O"
+    },
+    {
+        "word": "Customers",
+        "label": "O"
+    },
+    {
+        "word": "About",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    },
+    {
+        "word": "Categories",
+        "label": "O"
+    },
+    {
+        "word": "GardenOutdoor",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Wicker",
+        "label": "O"
+    },
+    {
+        "word": "Rope",
+        "label": "O"
+    },
+    {
+        "word": "PlasticResin",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Ceramic",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Glass",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "HPL",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Extendable",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Lounge",
+        "label": "O"
+    },
+    {
+        "word": "Sofa",
+        "label": "O"
+    },
+    {
+        "word": "Sets",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Wicker",
+        "label": "O"
+    },
+    {
+        "word": "Rope",
+        "label": "O"
+    },
+    {
+        "word": "Day",
+        "label": "O"
+    },
+    {
+        "word": "Beds",
+        "label": "O"
+    },
+    {
+        "word": "Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Sunbrella",
+        "label": "O"
+    },
+    {
+        "word": "Fabric",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Footstools",
+        "label": "O"
+    },
+    {
+        "word": "Dividers",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Wood",
+        "label": "O"
+    },
+    {
+        "word": "Ceramic",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Loungers",
+        "label": "O"
+    },
+    {
+        "word": "Side",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Textilene",
+        "label": "O"
+    },
+    {
+        "word": "Sunbrella",
+        "label": "O"
+    },
+    {
+        "word": "Fabric",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Rope",
+        "label": "O"
+    },
+    {
+        "word": "Beanbags",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Glass",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "Umbrellas",
+        "label": "O"
+    },
+    {
+        "word": "Bases",
+        "label": "O"
+    },
+    {
+        "word": "Aluminium",
+        "label": "O"
+    },
+    {
+        "word": "Bases",
+        "label": "O"
+    },
+    {
+        "word": "Day",
+        "label": "O"
+    },
+    {
+        "word": "Beds",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Storage",
+        "label": "O"
+    },
+    {
+        "word": "Boxes",
+        "label": "O"
+    },
+    {
+        "word": "Hammocks",
+        "label": "O"
+    },
+    {
+        "word": "Swings",
+        "label": "O"
+    },
+    {
+        "word": "AccessoriesCushions",
+        "label": "O"
+    },
+    {
+        "word": "Deco",
+        "label": "O"
+    },
+    {
+        "word": "Cushions",
+        "label": "O"
+    },
+    {
+        "word": "Hartman",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Covers",
+        "label": "O"
+    },
+    {
+        "word": "Special",
+        "label": "O"
+    },
+    {
+        "word": "Offers",
+        "label": "O"
+    },
+    {
+        "word": "GrandHall",
+        "label": "O"
+    },
+    {
+        "word": "Gas",
+        "label": "O"
+    },
+    {
+        "word": "Grills",
+        "label": "O"
+    },
+    {
+        "word": "Gas",
+        "label": "O"
+    },
+    {
+        "word": "Grills",
+        "label": "O"
+    },
+    {
+        "word": "Grill",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "Deco",
+        "label": "O"
+    },
+    {
+        "word": "Cushions",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Covers",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Price",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "Price",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Material",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "26",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wGlass",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wHPL",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wRope",
+        "label": "O"
+    },
+    {
+        "word": "7",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wTeak",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "wTextilene",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Cast",
+        "label": "O"
+    },
+    {
+        "word": "Aluminum",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Ceramic",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Glass",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Ceramic",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "5",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Teak",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Wicker",
+        "label": "O"
+    },
+    {
+        "word": "1",
+        "label": "O"
+    },
+    {
+        "word": "Wicker",
+        "label": "O"
+    },
+    {
+        "word": "wAluminum",
+        "label": "O"
+    },
+    {
+        "word": "Frame",
+        "label": "O"
+    },
+    {
+        "word": "8",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Furniture",
+        "label": "O"
+    },
+    {
+        "word": "Type",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "2",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "Lounge",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Sofas-Armchairs-Coffee",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "etc..",
+        "label": "O"
+    },
+    {
+        "word": "27",
+        "label": "O"
+    },
+    {
+        "word": "Loungers",
+        "label": "O"
+    },
+    {
+        "word": "Side",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "8",
+        "label": "O"
+    },
+    {
+        "word": "Filter",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Manufacturer",
+        "label": "O"
+    },
+    {
+        "word": "Hartman",
+        "label": "O"
+    },
+    {
+        "word": "34",
+        "label": "O"
+    },
+    {
+        "word": "Mondial",
+        "label": "O"
+    },
+    {
+        "word": "19",
+        "label": "O"
+    }
+]

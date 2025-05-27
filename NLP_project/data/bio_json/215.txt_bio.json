@@ -1,0 +1,1134 @@
+[
+    {
+        "word": "Use",
+        "label": "O"
+    },
+    {
+        "word": "less",
+        "label": "O"
+    },
+    {
+        "word": "text",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "mobile",
+        "label": "O"
+    },
+    {
+        "word": "Handmade",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "timeless",
+        "label": "O"
+    },
+    {
+        "word": "quality",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "design.",
+        "label": "O"
+    },
+    {
+        "word": "Search",
+        "label": "O"
+    },
+    {
+        "word": "Login",
+        "label": "O"
+    },
+    {
+        "word": "Sign",
+        "label": "O"
+    },
+    {
+        "word": "up",
+        "label": "O"
+    },
+    {
+        "word": "0",
+        "label": "O"
+    },
+    {
+        "word": "Navigate",
+        "label": "O"
+    },
+    {
+        "word": "Cart",
+        "label": "O"
+    },
+    {
+        "word": "Search",
+        "label": "O"
+    },
+    {
+        "word": "Desks",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Bedroom",
+        "label": "O"
+    },
+    {
+        "word": "Consoles",
+        "label": "O"
+    },
+    {
+        "word": "Available",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "Desks",
+        "label": "O"
+    },
+    {
+        "word": "Tables",
+        "label": "O"
+    },
+    {
+        "word": "Bedroom",
+        "label": "O"
+    },
+    {
+        "word": "Consoles",
+        "label": "O"
+    },
+    {
+        "word": "Available",
+        "label": "O"
+    },
+    {
+        "word": "now",
+        "label": "O"
+    },
+    {
+        "word": "Mid",
+        "label": "B"
+    },
+    {
+        "word": "Century",
+        "label": "I"
+    },
+    {
+        "word": "Record",
+        "label": "I"
+    },
+    {
+        "word": "Storage",
+        "label": "I"
+    },
+    {
+        "word": "Console",
+        "label": "I"
+    },
+    {
+        "word": "Size",
+        "label": "O"
+    },
+    {
+        "word": "48",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "60",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "72",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "84",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "48",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "2,900.00",
+        "label": "O"
+    },
+    {
+        "word": "60",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "3,100.00",
+        "label": "O"
+    },
+    {
+        "word": "72",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "3,800.00",
+        "label": "O"
+    },
+    {
+        "word": "84",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "-",
+        "label": "O"
+    },
+    {
+        "word": "4,100.00",
+        "label": "O"
+    },
+    {
+        "word": "2,900.00",
+        "label": "O"
+    },
+    {
+        "word": "Qty",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "item",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "recurring",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "deferred",
+        "label": "O"
+    },
+    {
+        "word": "purchase.",
+        "label": "O"
+    },
+    {
+        "word": "By",
+        "label": "O"
+    },
+    {
+        "word": "continuing,",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "agree",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "cancellation",
+        "label": "O"
+    },
+    {
+        "word": "policy",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "authorize",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "charge",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "payment",
+        "label": "O"
+    },
+    {
+        "word": "method",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "prices,",
+        "label": "O"
+    },
+    {
+        "word": "frequency",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "dates",
+        "label": "O"
+    },
+    {
+        "word": "listed",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "page",
+        "label": "O"
+    },
+    {
+        "word": "until",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "order",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "fulfilled",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "cancel,",
+        "label": "O"
+    },
+    {
+        "word": "if",
+        "label": "O"
+    },
+    {
+        "word": "permitted.",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "console",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "perfect",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "avid",
+        "label": "O"
+    },
+    {
+        "word": "record",
+        "label": "O"
+    },
+    {
+        "word": "collector.",
+        "label": "O"
+    },
+    {
+        "word": "A",
+        "label": "O"
+    },
+    {
+        "word": "sleek",
+        "label": "O"
+    },
+    {
+        "word": "design",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "clean",
+        "label": "O"
+    },
+    {
+        "word": "lines.",
+        "label": "O"
+    },
+    {
+        "word": "Made",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "solid",
+        "label": "O"
+    },
+    {
+        "word": "Walnut.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "top",
+        "label": "O"
+    },
+    {
+        "word": "cubbies",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "7",
+        "label": "O"
+    },
+    {
+        "word": "high",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "bottom",
+        "label": "O"
+    },
+    {
+        "word": "cubbies",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "14",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "sliding",
+        "label": "O"
+    },
+    {
+        "word": "doors.",
+        "label": "O"
+    },
+    {
+        "word": "48",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "60",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "72",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "84",
+        "label": "O"
+    },
+    {
+        "word": "W",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "27.5",
+        "label": "O"
+    },
+    {
+        "word": "H",
+        "label": "O"
+    },
+    {
+        "word": "x",
+        "label": "O"
+    },
+    {
+        "word": "16",
+        "label": "O"
+    },
+    {
+        "word": "D",
+        "label": "O"
+    },
+    {
+        "word": "Sliding",
+        "label": "O"
+    },
+    {
+        "word": "Mixed",
+        "label": "O"
+    },
+    {
+        "word": "Panel",
+        "label": "O"
+    },
+    {
+        "word": "Doors",
+        "label": "O"
+    },
+    {
+        "word": "Materials",
+        "label": "O"
+    },
+    {
+        "word": "Solid",
+        "label": "O"
+    },
+    {
+        "word": "Walnut",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "be",
+        "label": "O"
+    },
+    {
+        "word": "sure",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "carefully",
+        "label": "O"
+    },
+    {
+        "word": "read",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "Policies",
+        "label": "O"
+    },
+    {
+        "word": "before",
+        "label": "O"
+    },
+    {
+        "word": "submitting",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "order.",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Products",
+        "label": "O"
+    },
+    {
+        "word": "Mid",
+        "label": "O"
+    },
+    {
+        "word": "Century",
+        "label": "O"
+    },
+    {
+        "word": "Record",
+        "label": "O"
+    },
+    {
+        "word": "Storage",
+        "label": "O"
+    },
+    {
+        "word": "Console",
+        "label": "O"
+    },
+    {
+        "word": "About",
+        "label": "O"
+    },
+    {
+        "word": "Contact",
+        "label": "O"
+    },
+    {
+        "word": "Us",
+        "label": "O"
+    },
+    {
+        "word": "Policies",
+        "label": "O"
+    },
+    {
+        "word": "Press",
+        "label": "O"
+    },
+    {
+        "word": "ELSEWHERE",
+        "label": "O"
+    },
+    {
+        "word": "American",
+        "label": "O"
+    },
+    {
+        "word": "Express",
+        "label": "O"
+    },
+    {
+        "word": "Apple",
+        "label": "O"
+    },
+    {
+        "word": "Pay",
+        "label": "O"
+    },
+    {
+        "word": "Mastercard",
+        "label": "O"
+    },
+    {
+        "word": "PayPal",
+        "label": "O"
+    },
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "Pay",
+        "label": "O"
+    },
+    {
+        "word": "Venmo",
+        "label": "O"
+    },
+    {
+        "word": "Visa",
+        "label": "O"
+    },
+    {
+        "word": "2025",
+        "label": "O"
+    },
+    {
+        "word": "JeremiahCollection",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    },
+    {
+        "word": "POS",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Ecommerce",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Shopify",
+        "label": "O"
+    },
+    {
+        "word": "Success",
+        "label": "O"
+    },
+    {
+        "word": "Feel",
+        "label": "O"
+    },
+    {
+        "word": "free",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "continue",
+        "label": "O"
+    },
+    {
+        "word": "shopping",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "head",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "cart",
+        "label": "O"
+    },
+    {
+        "word": ".",
+        "label": "O"
+    }
+]

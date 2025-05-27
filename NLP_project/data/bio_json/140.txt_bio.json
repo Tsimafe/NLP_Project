@@ -1,0 +1,2698 @@
+[
+    {
+        "word": "Prices",
+        "label": "O"
+    },
+    {
+        "word": "Are",
+        "label": "O"
+    },
+    {
+        "word": "Rising",
+        "label": "O"
+    },
+    {
+        "word": "Act",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Lock",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Todays",
+        "label": "O"
+    },
+    {
+        "word": "Savings",
+        "label": "O"
+    },
+    {
+        "word": "Prices",
+        "label": "O"
+    },
+    {
+        "word": "Are",
+        "label": "O"
+    },
+    {
+        "word": "Rising",
+        "label": "O"
+    },
+    {
+        "word": "Act",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "Lock",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "Todays",
+        "label": "O"
+    },
+    {
+        "word": "Savings",
+        "label": "O"
+    },
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "Now",
+        "label": "O"
+    },
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Category",
+        "label": "O"
+    },
+    {
+        "word": "Bedroom",
+        "label": "O"
+    },
+    {
+        "word": "157",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Dining",
+        "label": "O"
+    },
+    {
+        "word": "426",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "418",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "65",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Counter",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "97",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "WE",
+        "label": "O"
+    },
+    {
+        "word": "CAN",
+        "label": "O"
+    },
+    {
+        "word": "HELP",
+        "label": "O"
+    },
+    {
+        "word": "TO",
+        "label": "O"
+    },
+    {
+        "word": "bring",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "vision",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "life",
+        "label": "O"
+    },
+    {
+        "word": "CONTACT",
+        "label": "O"
+    },
+    {
+        "word": "US",
+        "label": "O"
+    },
+    {
+        "word": "Our",
+        "label": "O"
+    },
+    {
+        "word": "Partners",
+        "label": "O"
+    },
+    {
+        "word": "ABOUT",
+        "label": "O"
+    },
+    {
+        "word": "US",
+        "label": "O"
+    },
+    {
+        "word": "Euro",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "family-owned",
+        "label": "O"
+    },
+    {
+        "word": "business",
+        "label": "O"
+    },
+    {
+        "word": "dedicated",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "bringing",
+        "label": "O"
+    },
+    {
+        "word": "modern",
+        "label": "O"
+    },
+    {
+        "word": "elegance",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "high-quality",
+        "label": "O"
+    },
+    {
+        "word": "European",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "into",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "home.",
+        "label": "O"
+    },
+    {
+        "word": "With",
+        "label": "O"
+    },
+    {
+        "word": "handpicked",
+        "label": "O"
+    },
+    {
+        "word": "pieces",
+        "label": "O"
+    },
+    {
+        "word": "that",
+        "label": "O"
+    },
+    {
+        "word": "blend",
+        "label": "O"
+    },
+    {
+        "word": "sophistication,",
+        "label": "O"
+    },
+    {
+        "word": "comfort,",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "timeless",
+        "label": "O"
+    },
+    {
+        "word": "design,",
+        "label": "O"
+    },
+    {
+        "word": "we",
+        "label": "O"
+    },
+    {
+        "word": "prioritize",
+        "label": "O"
+    },
+    {
+        "word": "creating",
+        "label": "O"
+    },
+    {
+        "word": "an",
+        "label": "O"
+    },
+    {
+        "word": "exceptional",
+        "label": "O"
+    },
+    {
+        "word": "shopping",
+        "label": "O"
+    },
+    {
+        "word": "experience",
+        "label": "O"
+    },
+    {
+        "word": "complete",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "personalized",
+        "label": "O"
+    },
+    {
+        "word": "service.",
+        "label": "O"
+    },
+    {
+        "word": "Discover",
+        "label": "O"
+    },
+    {
+        "word": "how",
+        "label": "O"
+    },
+    {
+        "word": "Euro",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "can",
+        "label": "O"
+    },
+    {
+        "word": "transform",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "space",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "unparalleled",
+        "label": "O"
+    },
+    {
+        "word": "style",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "attention",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "detail.",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FREE",
+        "label": "O"
+    },
+    {
+        "word": "DESIGN",
+        "label": "O"
+    },
+    {
+        "word": "CONSULTATION",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "FAMILY",
+        "label": "O"
+    },
+    {
+        "word": "OWNED",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "PAY",
+        "label": "O"
+    },
+    {
+        "word": "OVER",
+        "label": "O"
+    },
+    {
+        "word": "TIME",
+        "label": "O"
+    },
+    {
+        "word": "FLEXIBLE",
+        "label": "O"
+    },
+    {
+        "word": "FINANCING",
+        "label": "O"
+    },
+    {
+        "word": "OPTIONS",
+        "label": "O"
+    },
+    {
+        "word": "AVAILABLE",
+        "label": "O"
+    },
+    {
+        "word": "APPLY",
+        "label": "O"
+    },
+    {
+        "word": "NOW",
+        "label": "O"
+    },
+    {
+        "word": "Shop",
+        "label": "O"
+    },
+    {
+        "word": "Collections",
+        "label": "O"
+    },
+    {
+        "word": "New",
+        "label": "O"
+    },
+    {
+        "word": "Arrivals",
+        "label": "O"
+    },
+    {
+        "word": "41",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Pendants",
+        "label": "O"
+    },
+    {
+        "word": "Chandeliers",
+        "label": "O"
+    },
+    {
+        "word": "105",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Sculptures",
+        "label": "O"
+    },
+    {
+        "word": "53",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Table",
+        "label": "O"
+    },
+    {
+        "word": "Lamps",
+        "label": "O"
+    },
+    {
+        "word": "29",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Bar",
+        "label": "O"
+    },
+    {
+        "word": "Counter",
+        "label": "O"
+    },
+    {
+        "word": "Stools",
+        "label": "O"
+    },
+    {
+        "word": "97",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Sale",
+        "label": "O"
+    },
+    {
+        "word": "41",
+        "label": "O"
+    },
+    {
+        "word": "Items",
+        "label": "O"
+    },
+    {
+        "word": "Secure",
+        "label": "O"
+    },
+    {
+        "word": "payment",
+        "label": "O"
+    },
+    {
+        "word": "Your",
+        "label": "O"
+    },
+    {
+        "word": "payment",
+        "label": "O"
+    },
+    {
+        "word": "information",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "processed",
+        "label": "O"
+    },
+    {
+        "word": "securely",
+        "label": "O"
+    },
+    {
+        "word": "Footericonbox",
+        "label": "O"
+    },
+    {
+        "word": "Copy",
+        "label": "O"
+    },
+    {
+        "word": "3",
+        "label": "O"
+    },
+    {
+        "word": "Created",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "Sketch.",
+        "label": "O"
+    },
+    {
+        "word": "Customer",
+        "label": "O"
+    },
+    {
+        "word": "service",
+        "label": "O"
+    },
+    {
+        "word": "855-387-6548",
+        "label": "O"
+    },
+    {
+        "word": "Free",
+        "label": "O"
+    },
+    {
+        "word": "shipping",
+        "label": "O"
+    },
+    {
+        "word": "Get",
+        "label": "O"
+    },
+    {
+        "word": "free",
+        "label": "O"
+    },
+    {
+        "word": "shipping",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "orders",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "500",
+        "label": "O"
+    },
+    {
+        "word": "or",
+        "label": "O"
+    },
+    {
+        "word": "more",
+        "label": "O"
+    },
+    {
+        "word": "Testimonials",
+        "label": "O"
+    },
+    {
+        "word": "Great",
+        "label": "O"
+    },
+    {
+        "word": "buying",
+        "label": "O"
+    },
+    {
+        "word": "experience",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "Euro",
+        "label": "O"
+    },
+    {
+        "word": "living.",
+        "label": "O"
+    },
+    {
+        "word": "Wide",
+        "label": "O"
+    },
+    {
+        "word": "selection",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "contemporary",
+        "label": "O"
+    },
+    {
+        "word": "furniture.",
+        "label": "O"
+    },
+    {
+        "word": "Staff",
+        "label": "O"
+    },
+    {
+        "word": "specifically",
+        "label": "O"
+    },
+    {
+        "word": "Claudia",
+        "label": "O"
+    },
+    {
+        "word": "has",
+        "label": "O"
+    },
+    {
+        "word": "been",
+        "label": "O"
+    },
+    {
+        "word": "great",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "answering",
+        "label": "O"
+    },
+    {
+        "word": "all",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "questions",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "going",
+        "label": "O"
+    },
+    {
+        "word": "through",
+        "label": "O"
+    },
+    {
+        "word": "all",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "concerns",
+        "label": "O"
+    },
+    {
+        "word": "patiently.",
+        "label": "O"
+    },
+    {
+        "word": "Would",
+        "label": "O"
+    },
+    {
+        "word": "definitely",
+        "label": "O"
+    },
+    {
+        "word": "recommend",
+        "label": "O"
+    },
+    {
+        "word": "buying",
+        "label": "O"
+    },
+    {
+        "word": "here.",
+        "label": "O"
+    },
+    {
+        "word": "Sree",
+        "label": "O"
+    },
+    {
+        "word": "V",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "recently",
+        "label": "O"
+    },
+    {
+        "word": "had",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "pleasure",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "shopping",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "Euro",
+        "label": "O"
+    },
+    {
+        "word": "Living,",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "must",
+        "label": "O"
+    },
+    {
+        "word": "say,",
+        "label": "O"
+    },
+    {
+        "word": "it",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "an",
+        "label": "O"
+    },
+    {
+        "word": "exceptional",
+        "label": "O"
+    },
+    {
+        "word": "experience",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "start",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "finish.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "moment",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "walked",
+        "label": "O"
+    },
+    {
+        "word": "in,",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "greeted",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "warm",
+        "label": "O"
+    },
+    {
+        "word": "smile",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "sense",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "tranquility",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "their",
+        "label": "O"
+    },
+    {
+        "word": "beautifully",
+        "label": "O"
+    },
+    {
+        "word": "designed",
+        "label": "O"
+    },
+    {
+        "word": "store.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "selection",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "home",
+        "label": "O"
+    },
+    {
+        "word": "decor",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "not",
+        "label": "O"
+    },
+    {
+        "word": "only",
+        "label": "O"
+    },
+    {
+        "word": "extensive",
+        "label": "O"
+    },
+    {
+        "word": "but",
+        "label": "O"
+    },
+    {
+        "word": "also",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "remarkable",
+        "label": "O"
+    },
+    {
+        "word": "quality.",
+        "label": "O"
+    },
+    {
+        "word": "What",
+        "label": "O"
+    },
+    {
+        "word": "truly",
+        "label": "O"
+    },
+    {
+        "word": "set",
+        "label": "O"
+    },
+    {
+        "word": "Euro",
+        "label": "O"
+    },
+    {
+        "word": "Living",
+        "label": "O"
+    },
+    {
+        "word": "apart",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "their",
+        "label": "O"
+    },
+    {
+        "word": "customer",
+        "label": "O"
+    },
+    {
+        "word": "service.",
+        "label": "O"
+    },
+    {
+        "word": "Edyd",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "incredibly",
+        "label": "O"
+    },
+    {
+        "word": "knowledgeable",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "went",
+        "label": "O"
+    },
+    {
+        "word": "above",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "beyond",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "help",
+        "label": "O"
+    },
+    {
+        "word": "me",
+        "label": "O"
+    },
+    {
+        "word": "find",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "perfect",
+        "label": "O"
+    },
+    {
+        "word": "pieces",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "complement",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "home.",
+        "label": "O"
+    },
+    {
+        "word": "Their",
+        "label": "O"
+    },
+    {
+        "word": "personalized",
+        "label": "O"
+    },
+    {
+        "word": "recommendations",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "process",
+        "label": "O"
+    },
+    {
+        "word": "so",
+        "label": "O"
+    },
+    {
+        "word": "much",
+        "label": "O"
+    },
+    {
+        "word": "easier.",
+        "label": "O"
+    },
+    {
+        "word": "Lisa",
+        "label": "O"
+    },
+    {
+        "word": "Martinez",
+        "label": "O"
+    },
+    {
+        "word": "Love",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "selection",
+        "label": "O"
+    },
+    {
+        "word": "they",
+        "label": "O"
+    },
+    {
+        "word": "have",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Scott",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "very",
+        "label": "O"
+    },
+    {
+        "word": "helpful",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "assisting",
+        "label": "O"
+    },
+    {
+        "word": "us.",
+        "label": "O"
+    },
+    {
+        "word": "He",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "great",
+        "label": "O"
+    },
+    {
+        "word": "at",
+        "label": "O"
+    },
+    {
+        "word": "responding",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "questions",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "keeping",
+        "label": "O"
+    },
+    {
+        "word": "me",
+        "label": "O"
+    },
+    {
+        "word": "updated",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "status",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "my",
+        "label": "O"
+    },
+    {
+        "word": "order.",
+        "label": "O"
+    },
+    {
+        "word": "Their",
+        "label": "O"
+    },
+    {
+        "word": "delivery",
+        "label": "O"
+    },
+    {
+        "word": "team",
+        "label": "O"
+    },
+    {
+        "word": "did",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "wonderful",
+        "label": "O"
+    },
+    {
+        "word": "job",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "were",
+        "label": "O"
+    },
+    {
+        "word": "so",
+        "label": "O"
+    },
+    {
+        "word": "helpful",
+        "label": "O"
+    },
+    {
+        "word": "while",
+        "label": "O"
+    },
+    {
+        "word": "setting",
+        "label": "O"
+    },
+    {
+        "word": "up",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "entire",
+        "label": "O"
+    },
+    {
+        "word": "room.",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "highly",
+        "label": "O"
+    },
+    {
+        "word": "recommend",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "store",
+        "label": "O"
+    },
+    {
+        "word": "if",
+        "label": "O"
+    },
+    {
+        "word": "youre",
+        "label": "O"
+    },
+    {
+        "word": "looking",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "quality",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "great",
+        "label": "O"
+    },
+    {
+        "word": "customer",
+        "label": "O"
+    },
+    {
+        "word": "service",
+        "label": "O"
+    },
+    {
+        "word": "Zeny",
+        "label": "O"
+    },
+    {
+        "word": "Patel",
+        "label": "O"
+    },
+    {
+        "word": "We",
+        "label": "O"
+    },
+    {
+        "word": "live",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "San",
+        "label": "O"
+    },
+    {
+        "word": "Antonio",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "found",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "perfect",
+        "label": "O"
+    },
+    {
+        "word": "rug",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "home.",
+        "label": "O"
+    },
+    {
+        "word": "The",
+        "label": "O"
+    },
+    {
+        "word": "staff",
+        "label": "O"
+    },
+    {
+        "word": "was",
+        "label": "O"
+    },
+    {
+        "word": "easy",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "work",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "helped",
+        "label": "O"
+    },
+    {
+        "word": "us",
+        "label": "O"
+    },
+    {
+        "word": "make",
+        "label": "O"
+    },
+    {
+        "word": "sure",
+        "label": "O"
+    },
+    {
+        "word": "we",
+        "label": "O"
+    },
+    {
+        "word": "found",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "correct",
+        "label": "O"
+    },
+    {
+        "word": "size.",
+        "label": "O"
+    },
+    {
+        "word": "Scott",
+        "label": "O"
+    },
+    {
+        "word": "Nguyen",
+        "label": "O"
+    },
+    {
+        "word": "made",
+        "label": "O"
+    },
+    {
+        "word": "everything",
+        "label": "O"
+    },
+    {
+        "word": "go",
+        "label": "O"
+    },
+    {
+        "word": "so",
+        "label": "O"
+    },
+    {
+        "word": "smoothly.",
+        "label": "O"
+    },
+    {
+        "word": "I",
+        "label": "O"
+    },
+    {
+        "word": "recommend",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "check",
+        "label": "O"
+    },
+    {
+        "word": "out",
+        "label": "O"
+    },
+    {
+        "word": "this",
+        "label": "O"
+    },
+    {
+        "word": "store",
+        "label": "O"
+    },
+    {
+        "word": "if",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "are",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "lover",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "contemporary",
+        "label": "O"
+    },
+    {
+        "word": "furnishings.",
+        "label": "O"
+    },
+    {
+        "word": "Susan",
+        "label": "O"
+    },
+    {
+        "word": "Wampler",
+        "label": "O"
+    },
+    {
+        "word": "This",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "perfect",
+        "label": "O"
+    },
+    {
+        "word": "store",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "get",
+        "label": "O"
+    },
+    {
+        "word": "everything",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "need",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "home.",
+        "label": "O"
+    },
+    {
+        "word": "Beautiful",
+        "label": "O"
+    },
+    {
+        "word": "high",
+        "label": "O"
+    },
+    {
+        "word": "quality",
+        "label": "O"
+    },
+    {
+        "word": "furnitures.",
+        "label": "O"
+    },
+    {
+        "word": "Edyd",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "professional,",
+        "label": "O"
+    },
+    {
+        "word": "passionate",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "sweet",
+        "label": "O"
+    },
+    {
+        "word": "so",
+        "label": "O"
+    },
+    {
+        "word": "ask",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "her",
+        "label": "O"
+    },
+    {
+        "word": "help.",
+        "label": "O"
+    },
+    {
+        "word": "Highly",
+        "label": "O"
+    },
+    {
+        "word": "recommended",
+        "label": "O"
+    },
+    {
+        "word": "Love",
+        "label": "O"
+    },
+    {
+        "word": "Sasson",
+        "label": "O"
+    },
+    {
+        "word": "Latest",
+        "label": "O"
+    },
+    {
+        "word": "Blogs",
+        "label": "O"
+    },
+    {
+        "word": "Subscribe",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "latest",
+        "label": "O"
+    },
+    {
+        "word": "news",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "blog",
+        "label": "O"
+    },
+    {
+        "word": "updates",
+        "label": "O"
+    },
+    {
+        "word": "from",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "editor.",
+        "label": "O"
+    },
+    {
+        "word": "eurolivingfurniture.comcdnshoparticlesLCCEOFCHBL_LS-750x750.webpcropcenterheight1024v1720072804width1024",
+        "label": "O"
+    },
+    {
+        "word": "Jul",
+        "label": "O"
+    },
+    {
+        "word": "04",
+        "label": "O"
+    },
+    {
+        "word": "2024",
+        "label": "O"
+    },
+    {
+        "word": "How",
+        "label": "O"
+    },
+    {
+        "word": "To",
+        "label": "O"
+    },
+    {
+        "word": "Clean",
+        "label": "O"
+    },
+    {
+        "word": "Office",
+        "label": "O"
+    },
+    {
+        "word": "Chairs",
+        "label": "O"
+    },
+    {
+        "word": "Tips",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "Tricks",
+        "label": "O"
+    },
+    {
+        "word": "Is",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "office",
+        "label": "O"
+    },
+    {
+        "word": "chair",
+        "label": "O"
+    },
+    {
+        "word": "looking",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "bit",
+        "label": "O"
+    },
+    {
+        "word": "worse",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "wear",
+        "label": "O"
+    },
+    {
+        "word": "Do",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "want",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "ensure...",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Details",
+        "label": "O"
+    },
+    {
+        "word": "eurolivingfurniture.comcdnshoparticlesCB-A102QWH_1_1.webpcropcenterheight1024v1720072239width1024",
+        "label": "O"
+    },
+    {
+        "word": "Jul",
+        "label": "O"
+    },
+    {
+        "word": "04",
+        "label": "O"
+    },
+    {
+        "word": "2024",
+        "label": "O"
+    },
+    {
+        "word": "Top",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "Bedroom",
+        "label": "O"
+    },
+    {
+        "word": "Sets",
+        "label": "O"
+    },
+    {
+        "word": "Collection",
+        "label": "O"
+    },
+    {
+        "word": "in",
+        "label": "O"
+    },
+    {
+        "word": "2024",
+        "label": "O"
+    },
+    {
+        "word": "Are",
+        "label": "O"
+    },
+    {
+        "word": "you",
+        "label": "O"
+    },
+    {
+        "word": "looking",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "revamp",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "bedroom",
+        "label": "O"
+    },
+    {
+        "word": "with",
+        "label": "O"
+    },
+    {
+        "word": "a",
+        "label": "O"
+    },
+    {
+        "word": "new",
+        "label": "O"
+    },
+    {
+        "word": "set",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "furniture",
+        "label": "O"
+    },
+    {
+        "word": "If",
+        "label": "O"
+    },
+    {
+        "word": "so,...",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Details",
+        "label": "O"
+    },
+    {
+        "word": "eurolivingfurniture.comcdnshoparticlesMatera-Home-office-pag-16-17l.webpcropcenterheight1024v1716460968width1024",
+        "label": "O"
+    },
+    {
+        "word": "May",
+        "label": "O"
+    },
+    {
+        "word": "23",
+        "label": "O"
+    },
+    {
+        "word": "2024",
+        "label": "O"
+    },
+    {
+        "word": "5",
+        "label": "O"
+    },
+    {
+        "word": "Easy",
+        "label": "O"
+    },
+    {
+        "word": "Ways",
+        "label": "O"
+    },
+    {
+        "word": "To",
+        "label": "O"
+    },
+    {
+        "word": "Decorate",
+        "label": "O"
+    },
+    {
+        "word": "Your",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Using",
+        "label": "O"
+    },
+    {
+        "word": "Accessories",
+        "label": "O"
+    },
+    {
+        "word": "As",
+        "label": "O"
+    },
+    {
+        "word": "we",
+        "label": "O"
+    },
+    {
+        "word": "all",
+        "label": "O"
+    },
+    {
+        "word": "know,",
+        "label": "O"
+    },
+    {
+        "word": "accessorizing",
+        "label": "O"
+    },
+    {
+        "word": "is",
+        "label": "O"
+    },
+    {
+        "word": "an",
+        "label": "O"
+    },
+    {
+        "word": "essential",
+        "label": "O"
+    },
+    {
+        "word": "part",
+        "label": "O"
+    },
+    {
+        "word": "of",
+        "label": "O"
+    },
+    {
+        "word": "decorating",
+        "label": "O"
+    },
+    {
+        "word": "our",
+        "label": "O"
+    },
+    {
+        "word": "homes.",
+        "label": "O"
+    },
+    {
+        "word": "Its",
+        "label": "O"
+    },
+    {
+        "word": "the...",
+        "label": "O"
+    },
+    {
+        "word": "More",
+        "label": "O"
+    },
+    {
+        "word": "Details",
+        "label": "O"
+    },
+    {
+        "word": "Follow",
+        "label": "O"
+    },
+    {
+        "word": "on",
+        "label": "O"
+    },
+    {
+        "word": "Instagram",
+        "label": "O"
+    },
+    {
+        "word": "Sign",
+        "label": "O"
+    },
+    {
+        "word": "up",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "new",
+        "label": "O"
+    },
+    {
+        "word": "stories",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "personal",
+        "label": "O"
+    },
+    {
+        "word": "offers.",
+        "label": "O"
+    },
+    {
+        "word": "Subscribe",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "get",
+        "label": "O"
+    },
+    {
+        "word": "notified",
+        "label": "O"
+    },
+    {
+        "word": "about",
+        "label": "O"
+    },
+    {
+        "word": "new",
+        "label": "O"
+    },
+    {
+        "word": "stories,",
+        "label": "O"
+    },
+    {
+        "word": "news",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "personal",
+        "label": "O"
+    },
+    {
+        "word": "offers.",
+        "label": "O"
+    },
+    {
+        "word": "Sign",
+        "label": "O"
+    },
+    {
+        "word": "up",
+        "label": "O"
+    },
+    {
+        "word": "to",
+        "label": "O"
+    },
+    {
+        "word": "receive",
+        "label": "O"
+    },
+    {
+        "word": "10",
+        "label": "O"
+    },
+    {
+        "word": "Off",
+        "label": "O"
+    },
+    {
+        "word": "Sign",
+        "label": "O"
+    },
+    {
+        "word": "up",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "latest",
+        "label": "O"
+    },
+    {
+        "word": "news,",
+        "label": "O"
+    },
+    {
+        "word": "offers",
+        "label": "O"
+    },
+    {
+        "word": "and",
+        "label": "O"
+    },
+    {
+        "word": "styles",
+        "label": "O"
+    },
+    {
+        "word": "Subscribe",
+        "label": "O"
+    }
+]

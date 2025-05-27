@@ -1,0 +1,3442 @@
+[
+    {
+        "word": "INTERNAL",
+        "label": "O"
+    },
+    {
+        "word": "FEEDBACK",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Maxwin",
+        "label": "O"
+    },
+    {
+        "word": "Download",
+        "label": "O"
+    },
+    {
+        "word": "Aplikasinya",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "Belanja",
+        "label": "O"
+    },
+    {
+        "word": "Sekarang",
+        "label": "O"
+    },
+    {
+        "word": "Daftar",
+        "label": "O"
+    },
+    {
+        "word": "Bo",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Resmi",
+        "label": "O"
+    },
+    {
+        "word": "HOKIBET",
+        "label": "O"
+    },
+    {
+        "word": "pasti",
+        "label": "O"
+    },
+    {
+        "word": "bayar",
+        "label": "O"
+    },
+    {
+        "word": "Banyak",
+        "label": "O"
+    },
+    {
+        "word": "Bonusnya",
+        "label": "O"
+    },
+    {
+        "word": "Produk",
+        "label": "O"
+    },
+    {
+        "word": "Eksklusif",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "App",
+        "label": "O"
+    },
+    {
+        "word": "Rekomendasi",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Bo",
+        "label": "O"
+    },
+    {
+        "word": "Togel",
+        "label": "O"
+    },
+    {
+        "word": "Resmi",
+        "label": "O"
+    },
+    {
+        "word": "Terbaik",
+        "label": "O"
+    },
+    {
+        "word": "HOKIBET",
+        "label": "O"
+    },
+    {
+        "word": "Bandar",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Slot88",
+        "label": "O"
+    },
+    {
+        "word": "resmi",
+        "label": "O"
+    },
+    {
+        "word": "Success",
+        "label": "O"
+    },
+    {
+        "word": "Please",
+        "label": "O"
+    },
+    {
+        "word": "check",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "phone",
+        "label": "O"
+    },
+    {
+        "word": "for",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "download",
+        "label": "O"
+    },
+    {
+        "word": "link",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Maxwin",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "Pusat",
+        "label": "O"
+    },
+    {
+        "word": "Bantuan",
+        "label": "O"
+    },
+    {
+        "word": "Order",
+        "label": "O"
+    },
+    {
+        "word": "Pembayaran",
+        "label": "O"
+    },
+    {
+        "word": "Pembatalan",
+        "label": "O"
+    },
+    {
+        "word": "Pesanan",
+        "label": "O"
+    },
+    {
+        "word": "Pengiriman",
+        "label": "O"
+    },
+    {
+        "word": "Pengembalian",
+        "label": "O"
+    },
+    {
+        "word": "Barang",
+        "label": "O"
+    },
+    {
+        "word": "Dana",
+        "label": "O"
+    },
+    {
+        "word": "Hubungi",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "Live",
+        "label": "O"
+    },
+    {
+        "word": "Chat",
+        "label": "O"
+    },
+    {
+        "word": "24",
+        "label": "O"
+    },
+    {
+        "word": "Jam",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "Maxwin",
+        "label": "O"
+    },
+    {
+        "word": "LACAK",
+        "label": "O"
+    },
+    {
+        "word": "PESANAN",
+        "label": "O"
+    },
+    {
+        "word": "Nomor",
+        "label": "O"
+    },
+    {
+        "word": "pesanan",
+        "label": "O"
+    },
+    {
+        "word": "Untuk",
+        "label": "O"
+    },
+    {
+        "word": "bantuan",
+        "label": "O"
+    },
+    {
+        "word": "silakan,",
+        "label": "O"
+    },
+    {
+        "word": "Klik",
+        "label": "O"
+    },
+    {
+        "word": "disini",
+        "label": "O"
+    },
+    {
+        "word": "LOGIN",
+        "label": "O"
+    },
+    {
+        "word": "DAFTAR",
+        "label": "O"
+    },
+    {
+        "word": "Panel",
+        "label": "O"
+    },
+    {
+        "word": "Akun",
+        "label": "O"
+    },
+    {
+        "word": "Pesanan",
+        "label": "O"
+    },
+    {
+        "word": "Saya",
+        "label": "O"
+    },
+    {
+        "word": "Wishlist",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "Toko",
+        "label": "O"
+    },
+    {
+        "word": "yang",
+        "label": "O"
+    },
+    {
+        "word": "Saya",
+        "label": "O"
+    },
+    {
+        "word": "Ikuti",
+        "label": "O"
+    },
+    {
+        "word": "Ulasan",
+        "label": "O"
+    },
+    {
+        "word": "Saya",
+        "label": "O"
+    },
+    {
+        "word": "Pengembalian",
+        "label": "O"
+    },
+    {
+        "word": "Pembatalan",
+        "label": "O"
+    },
+    {
+        "word": "Logout",
+        "label": "O"
+    },
+    {
+        "word": "HOKIBET",
+        "label": "O"
+    },
+    {
+        "word": "ialah",
+        "label": "O"
+    },
+    {
+        "word": "situs",
+        "label": "O"
+    },
+    {
+        "word": "slot",
+        "label": "O"
+    },
+    {
+        "word": "online",
+        "label": "O"
+    },
+    {
+        "word": "gacor",
+        "label": "O"
+    },
+    {
+        "word": "gampang",
+        "label": "O"
+    },
+    {
+        "word": "menang",
+        "label": "O"
+    },
+    {
+        "word": "penyedia",
+        "label": "O"
+    },
+    {
+        "word": "link",
+        "label": "O"
+    },
+    {
+        "word": "slot88",
+        "label": "O"
+    },
+    {
+        "word": "resmi",
+        "label": "O"
+    },
+    {
+        "word": "terpercaya",
+        "label": "O"
+    },
+    {
+        "word": "maxwin",
+        "label": "O"
+    },
+    {
+        "word": "JP",
+        "label": "O"
+    },
+    {
+        "word": "tertinggi",
+        "label": "O"
+    },
+    {
+        "word": "2025",
+        "label": "O"
+    },
+    {
+        "word": "surga",
+        "label": "O"
+    },
+    {
+        "word": "jackpot.",
+        "label": "O"
+    },
+    {
+        "word": "Kategori",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Kesehatan",
+        "label": "O"
+    },
+    {
+        "word": "Kecantikan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "TV",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Keperluan",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Gaya",
+        "label": "O"
+    },
+    {
+        "word": "Hidup",
+        "label": "O"
+    },
+    {
+        "word": "Kebutuhan",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Tangga",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Otomotif",
+        "label": "O"
+    },
+    {
+        "word": "Handphone",
+        "label": "O"
+    },
+    {
+        "word": "Laptop",
+        "label": "O"
+    },
+    {
+        "word": "Desktop",
+        "label": "O"
+    },
+    {
+        "word": "Kamera",
+        "label": "O"
+    },
+    {
+        "word": "Game",
+        "label": "O"
+    },
+    {
+        "word": "Console",
+        "label": "O"
+    },
+    {
+        "word": "Gadget",
+        "label": "O"
+    },
+    {
+        "word": "Tablet",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Handphone",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Komputer",
+        "label": "O"
+    },
+    {
+        "word": "Audio",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Berteknologi",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Kamera",
+        "label": "O"
+    },
+    {
+        "word": "Penyimpanan",
+        "label": "O"
+    },
+    {
+        "word": "Data",
+        "label": "O"
+    },
+    {
+        "word": "Printer",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Tablet",
+        "label": "O"
+    },
+    {
+        "word": "Komponen",
+        "label": "O"
+    },
+    {
+        "word": "Komputer",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Muslim",
+        "label": "O"
+    },
+    {
+        "word": "Lingerie,",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Tidur",
+        "label": "O"
+    },
+    {
+        "word": "Santai",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Tas",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Perhiasan",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Jam",
+        "label": "O"
+    },
+    {
+        "word": "Tangan",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Muslim",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Dalam",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Tas",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Perhiasan",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Jam",
+        "label": "O"
+    },
+    {
+        "word": "Tangan",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Laki-laki",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Perempuan",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Muslim",
+        "label": "O"
+    },
+    {
+        "word": "Laki-Laki",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Muslim",
+        "label": "O"
+    },
+    {
+        "word": "Perempuan",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Laki-laki",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Perempuan",
+        "label": "O"
+    },
+    {
+        "word": "Tas",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Perhiasan",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Jam",
+        "label": "O"
+    },
+    {
+        "word": "Tangan",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Kulit",
+        "label": "O"
+    },
+    {
+        "word": "Makeup",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Rambut",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Tubuh",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Diri",
+        "label": "O"
+    },
+    {
+        "word": "Parfum",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Kecantikan",
+        "label": "O"
+    },
+    {
+        "word": "Suplemen",
+        "label": "O"
+    },
+    {
+        "word": "Makanan",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Medis",
+        "label": "O"
+    },
+    {
+        "word": "Sexual",
+        "label": "O"
+    },
+    {
+        "word": "Wellness",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Popok",
+        "label": "O"
+    },
+    {
+        "word": "Dewasa",
+        "label": "O"
+    },
+    {
+        "word": "Ibu",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Popok",
+        "label": "O"
+    },
+    {
+        "word": "Sekali",
+        "label": "O"
+    },
+    {
+        "word": "Pakai",
+        "label": "O"
+    },
+    {
+        "word": "Makanan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Balita",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Menyusui",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Kamar",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "RC",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Luar",
+        "label": "O"
+    },
+    {
+        "word": "Ruangan",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Balita",
+        "label": "O"
+    },
+    {
+        "word": "TV",
+        "label": "O"
+    },
+    {
+        "word": "Perangkat",
+        "label": "O"
+    },
+    {
+        "word": "Video",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Dapur",
+        "label": "O"
+    },
+    {
+        "word": "Kecil",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Besar",
+        "label": "O"
+    },
+    {
+        "word": "Penyejuk",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "Pembersih",
+        "label": "O"
+    },
+    {
+        "word": "Udara",
+        "label": "O"
+    },
+    {
+        "word": "Penghisap",
+        "label": "O"
+    },
+    {
+        "word": "Debu",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Lantai",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Diri",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Suku",
+        "label": "O"
+    },
+    {
+        "word": "Cadang",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Televisi",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Entertainment",
+        "label": "O"
+    },
+    {
+        "word": "Dekorasi",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Furnitur",
+        "label": "O"
+    },
+    {
+        "word": "Kelengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Tempat",
+        "label": "O"
+    },
+    {
+        "word": "Tidur",
+        "label": "O"
+    },
+    {
+        "word": "Penerangan",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Mandi",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Dapur",
+        "label": "O"
+    },
+    {
+        "word": "Binatu",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Kebersihan",
+        "label": "O"
+    },
+    {
+        "word": "Perkakas",
+        "label": "O"
+    },
+    {
+        "word": "Perbaikan",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Kebun",
+        "label": "O"
+    },
+    {
+        "word": "Luar",
+        "label": "O"
+    },
+    {
+        "word": "Ruangan",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Tulis",
+        "label": "O"
+    },
+    {
+        "word": "Kerajinan",
+        "label": "O"
+    },
+    {
+        "word": "Media,",
+        "label": "O"
+    },
+    {
+        "word": "Musik",
+        "label": "O"
+    },
+    {
+        "word": "Buku",
+        "label": "O"
+    },
+    {
+        "word": "Minuman",
+        "label": "O"
+    },
+    {
+        "word": "Bahan",
+        "label": "O"
+    },
+    {
+        "word": "Bumbu",
+        "label": "O"
+    },
+    {
+        "word": "Masakan",
+        "label": "O"
+    },
+    {
+        "word": "Cokelat,",
+        "label": "O"
+    },
+    {
+        "word": "Camilan",
+        "label": "O"
+    },
+    {
+        "word": "Permen",
+        "label": "O"
+    },
+    {
+        "word": "Makanan",
+        "label": "O"
+    },
+    {
+        "word": "Sarapan,",
+        "label": "O"
+    },
+    {
+        "word": "Sereal",
+        "label": "O"
+    },
+    {
+        "word": "Selai",
+        "label": "O"
+    },
+    {
+        "word": "Buah",
+        "label": "O"
+    },
+    {
+        "word": "Sayur",
+        "label": "O"
+    },
+    {
+        "word": "Kebutuhan",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Tangga",
+        "label": "O"
+    },
+    {
+        "word": "Makanan",
+        "label": "O"
+    },
+    {
+        "word": "Hewan",
+        "label": "O"
+    },
+    {
+        "word": "Peliharaan",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Hewan",
+        "label": "O"
+    },
+    {
+        "word": "Peliharaan",
+        "label": "O"
+    },
+    {
+        "word": "Kesehatan",
+        "label": "O"
+    },
+    {
+        "word": "Hewan",
+        "label": "O"
+    },
+    {
+        "word": "Peliharaan",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Camping",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "Hiking",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Memancing",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Sepeda",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Air",
+        "label": "O"
+    },
+    {
+        "word": "Gym,",
+        "label": "O"
+    },
+    {
+        "word": "Yoga",
+        "label": "O"
+    },
+    {
+        "word": "Fitness",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Raket",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Sepak",
+        "label": "O"
+    },
+    {
+        "word": "Bola",
+        "label": "O"
+    },
+    {
+        "word": "Suku",
+        "label": "O"
+    },
+    {
+        "word": "Cadang",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Interior",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Exterior",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Kamera",
+        "label": "O"
+    },
+    {
+        "word": "Mobil,",
+        "label": "O"
+    },
+    {
+        "word": "Audio",
+        "label": "O"
+    },
+    {
+        "word": "Video",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Pengkilat",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Ban",
+        "label": "O"
+    },
+    {
+        "word": "Velg",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Oli",
+        "label": "O"
+    },
+    {
+        "word": "Cairan",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Berkendara",
+        "label": "O"
+    },
+    {
+        "word": "Helm",
+        "label": "O"
+    },
+    {
+        "word": "Suku",
+        "label": "O"
+    },
+    {
+        "word": "Cadang",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Motor",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Motor",
+        "label": "O"
+    },
+    {
+        "word": "Ban,",
+        "label": "O"
+    },
+    {
+        "word": "Velg,",
+        "label": "O"
+    },
+    {
+        "word": "Oli",
+        "label": "O"
+    },
+    {
+        "word": "Cairan",
+        "label": "O"
+    },
+    {
+        "word": "Motor",
+        "label": "O"
+    },
+    {
+        "word": "Kendaraan",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "Maxwin",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "10K",
+        "label": "O"
+    },
+    {
+        "word": "777",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Maxwin",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "Kategori",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Fashion",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Kesehatan",
+        "label": "O"
+    },
+    {
+        "word": "Kecantikan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "TV",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Keperluan",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Gaya",
+        "label": "O"
+    },
+    {
+        "word": "Hidup",
+        "label": "O"
+    },
+    {
+        "word": "Kebutuhan",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Tangga",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Outdoor",
+        "label": "O"
+    },
+    {
+        "word": "Otomotif",
+        "label": "O"
+    },
+    {
+        "word": "Handphone",
+        "label": "O"
+    },
+    {
+        "word": "Laptop",
+        "label": "O"
+    },
+    {
+        "word": "Desktop",
+        "label": "O"
+    },
+    {
+        "word": "Kamera",
+        "label": "O"
+    },
+    {
+        "word": "Game",
+        "label": "O"
+    },
+    {
+        "word": "Console",
+        "label": "O"
+    },
+    {
+        "word": "Gadget",
+        "label": "O"
+    },
+    {
+        "word": "Tablet",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Handphone",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Komputer",
+        "label": "O"
+    },
+    {
+        "word": "Audio",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Berteknologi",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Kamera",
+        "label": "O"
+    },
+    {
+        "word": "Penyimpanan",
+        "label": "O"
+    },
+    {
+        "word": "Data",
+        "label": "O"
+    },
+    {
+        "word": "Printer",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Tablet",
+        "label": "O"
+    },
+    {
+        "word": "Komponen",
+        "label": "O"
+    },
+    {
+        "word": "Komputer",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Muslim",
+        "label": "O"
+    },
+    {
+        "word": "Lingerie,",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Tidur",
+        "label": "O"
+    },
+    {
+        "word": "Santai",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Tas",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Perhiasan",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Jam",
+        "label": "O"
+    },
+    {
+        "word": "Tangan",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Muslim",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Dalam",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Tas",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Perhiasan",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Jam",
+        "label": "O"
+    },
+    {
+        "word": "Tangan",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Laki-laki",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Perempuan",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Muslim",
+        "label": "O"
+    },
+    {
+        "word": "Laki-Laki",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Muslim",
+        "label": "O"
+    },
+    {
+        "word": "Perempuan",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Laki-laki",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Perempuan",
+        "label": "O"
+    },
+    {
+        "word": "Tas",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Perhiasan",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Jam",
+        "label": "O"
+    },
+    {
+        "word": "Tangan",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Kulit",
+        "label": "O"
+    },
+    {
+        "word": "Makeup",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Rambut",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Tubuh",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Diri",
+        "label": "O"
+    },
+    {
+        "word": "Parfum",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Kecantikan",
+        "label": "O"
+    },
+    {
+        "word": "Suplemen",
+        "label": "O"
+    },
+    {
+        "word": "Makanan",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Medis",
+        "label": "O"
+    },
+    {
+        "word": "Sexual",
+        "label": "O"
+    },
+    {
+        "word": "Wellness",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Popok",
+        "label": "O"
+    },
+    {
+        "word": "Dewasa",
+        "label": "O"
+    },
+    {
+        "word": "Ibu",
+        "label": "O"
+    },
+    {
+        "word": "Anak",
+        "label": "O"
+    },
+    {
+        "word": "Popok",
+        "label": "O"
+    },
+    {
+        "word": "Sekali",
+        "label": "O"
+    },
+    {
+        "word": "Pakai",
+        "label": "O"
+    },
+    {
+        "word": "Makanan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Balita",
+        "label": "O"
+    },
+    {
+        "word": "Pakaian",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Menyusui",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Kamar",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "RC",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Luar",
+        "label": "O"
+    },
+    {
+        "word": "Ruangan",
+        "label": "O"
+    },
+    {
+        "word": "Mainan",
+        "label": "O"
+    },
+    {
+        "word": "Bayi",
+        "label": "O"
+    },
+    {
+        "word": "Balita",
+        "label": "O"
+    },
+    {
+        "word": "TV",
+        "label": "O"
+    },
+    {
+        "word": "Perangkat",
+        "label": "O"
+    },
+    {
+        "word": "Video",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Dapur",
+        "label": "O"
+    },
+    {
+        "word": "Kecil",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Besar",
+        "label": "O"
+    },
+    {
+        "word": "Penyejuk",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "Pembersih",
+        "label": "O"
+    },
+    {
+        "word": "Udara",
+        "label": "O"
+    },
+    {
+        "word": "Penghisap",
+        "label": "O"
+    },
+    {
+        "word": "Debu",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Lantai",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Diri",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Suku",
+        "label": "O"
+    },
+    {
+        "word": "Cadang",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Televisi",
+        "label": "O"
+    },
+    {
+        "word": "Home",
+        "label": "O"
+    },
+    {
+        "word": "Entertainment",
+        "label": "O"
+    },
+    {
+        "word": "Dekorasi",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Furnitur",
+        "label": "O"
+    },
+    {
+        "word": "Kelengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Tempat",
+        "label": "O"
+    },
+    {
+        "word": "Tidur",
+        "label": "O"
+    },
+    {
+        "word": "Penerangan",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Mandi",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Dapur",
+        "label": "O"
+    },
+    {
+        "word": "Binatu",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Kebersihan",
+        "label": "O"
+    },
+    {
+        "word": "Perkakas",
+        "label": "O"
+    },
+    {
+        "word": "Perbaikan",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Kebun",
+        "label": "O"
+    },
+    {
+        "word": "Luar",
+        "label": "O"
+    },
+    {
+        "word": "Ruangan",
+        "label": "O"
+    },
+    {
+        "word": "Alat",
+        "label": "O"
+    },
+    {
+        "word": "Tulis",
+        "label": "O"
+    },
+    {
+        "word": "Kerajinan",
+        "label": "O"
+    },
+    {
+        "word": "Media,",
+        "label": "O"
+    },
+    {
+        "word": "Musik",
+        "label": "O"
+    },
+    {
+        "word": "Buku",
+        "label": "O"
+    },
+    {
+        "word": "Minuman",
+        "label": "O"
+    },
+    {
+        "word": "Bahan",
+        "label": "O"
+    },
+    {
+        "word": "Bumbu",
+        "label": "O"
+    },
+    {
+        "word": "Masakan",
+        "label": "O"
+    },
+    {
+        "word": "Cokelat,",
+        "label": "O"
+    },
+    {
+        "word": "Camilan",
+        "label": "O"
+    },
+    {
+        "word": "Permen",
+        "label": "O"
+    },
+    {
+        "word": "Makanan",
+        "label": "O"
+    },
+    {
+        "word": "Sarapan,",
+        "label": "O"
+    },
+    {
+        "word": "Sereal",
+        "label": "O"
+    },
+    {
+        "word": "Selai",
+        "label": "O"
+    },
+    {
+        "word": "Buah",
+        "label": "O"
+    },
+    {
+        "word": "Sayur",
+        "label": "O"
+    },
+    {
+        "word": "Kebutuhan",
+        "label": "O"
+    },
+    {
+        "word": "Rumah",
+        "label": "O"
+    },
+    {
+        "word": "Tangga",
+        "label": "O"
+    },
+    {
+        "word": "Makanan",
+        "label": "O"
+    },
+    {
+        "word": "Hewan",
+        "label": "O"
+    },
+    {
+        "word": "Peliharaan",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Hewan",
+        "label": "O"
+    },
+    {
+        "word": "Peliharaan",
+        "label": "O"
+    },
+    {
+        "word": "Kesehatan",
+        "label": "O"
+    },
+    {
+        "word": "Hewan",
+        "label": "O"
+    },
+    {
+        "word": "Peliharaan",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Baju",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Pria",
+        "label": "O"
+    },
+    {
+        "word": "Sepatu",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Wanita",
+        "label": "O"
+    },
+    {
+        "word": "Camping",
+        "label": "O"
+    },
+    {
+        "word": "dan",
+        "label": "O"
+    },
+    {
+        "word": "Hiking",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Memancing",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Sepeda",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Air",
+        "label": "O"
+    },
+    {
+        "word": "Gym,",
+        "label": "O"
+    },
+    {
+        "word": "Yoga",
+        "label": "O"
+    },
+    {
+        "word": "Fitness",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Raket",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Olahraga",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Sepak",
+        "label": "O"
+    },
+    {
+        "word": "Bola",
+        "label": "O"
+    },
+    {
+        "word": "Suku",
+        "label": "O"
+    },
+    {
+        "word": "Cadang",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Interior",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Exterior",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Kamera",
+        "label": "O"
+    },
+    {
+        "word": "Mobil,",
+        "label": "O"
+    },
+    {
+        "word": "Audio",
+        "label": "O"
+    },
+    {
+        "word": "Video",
+        "label": "O"
+    },
+    {
+        "word": "Perawatan",
+        "label": "O"
+    },
+    {
+        "word": "Pengkilat",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Ban",
+        "label": "O"
+    },
+    {
+        "word": "Velg",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Oli",
+        "label": "O"
+    },
+    {
+        "word": "Cairan",
+        "label": "O"
+    },
+    {
+        "word": "Mobil",
+        "label": "O"
+    },
+    {
+        "word": "Perlengkapan",
+        "label": "O"
+    },
+    {
+        "word": "Berkendara",
+        "label": "O"
+    },
+    {
+        "word": "Helm",
+        "label": "O"
+    },
+    {
+        "word": "Suku",
+        "label": "O"
+    },
+    {
+        "word": "Cadang",
+        "label": "O"
+    },
+    {
+        "word": "Peralatan",
+        "label": "O"
+    },
+    {
+        "word": "Motor",
+        "label": "O"
+    },
+    {
+        "word": "Aksesoris",
+        "label": "O"
+    },
+    {
+        "word": "Elektronik",
+        "label": "O"
+    },
+    {
+        "word": "Motor",
+        "label": "O"
+    },
+    {
+        "word": "Ban,",
+        "label": "O"
+    },
+    {
+        "word": "Velg,",
+        "label": "O"
+    },
+    {
+        "word": "Oli",
+        "label": "O"
+    },
+    {
+        "word": "Cairan",
+        "label": "O"
+    },
+    {
+        "word": "Motor",
+        "label": "O"
+    },
+    {
+        "word": "Kendaraan",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "Hari",
+        "label": "O"
+    },
+    {
+        "word": "Ini",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "10K",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Gampang",
+        "label": "O"
+    },
+    {
+        "word": "Menang",
+        "label": "O"
+    },
+    {
+        "word": "Link",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "HOKIBET",
+        "label": "O"
+    },
+    {
+        "word": "Situs",
+        "label": "O"
+    },
+    {
+        "word": "Slot",
+        "label": "O"
+    },
+    {
+        "word": "Online",
+        "label": "O"
+    },
+    {
+        "word": "Gacor",
+        "label": "O"
+    },
+    {
+        "word": "Terbaru",
+        "label": "O"
+    },
+    {
+        "word": "Link",
+        "label": "O"
+    },
+    {
+        "word": "Slot88",
+        "label": "O"
+    },
+    {
+        "word": "Resmi",
+        "label": "O"
+    },
+    {
+        "word": "Maxwin",
+        "label": "O"
+    },
+    {
+        "word": "88.888.888",
+        "label": "O"
+    },
+    {
+        "word": "Penilaian",
+        "label": "O"
+    },
+    {
+        "word": "Merek",
+        "label": "O"
+    },
+    {
+        "word": "SLOT88",
+        "label": "O"
+    },
+    {
+        "word": "Rp",
+        "label": "O"
+    },
+    {
+        "word": "10.000",
+        "label": "O"
+    },
+    {
+        "word": "Rp",
+        "label": "O"
+    },
+    {
+        "word": "100.000",
+        "label": "O"
+    },
+    {
+        "word": "-90",
+        "label": "O"
+    },
+    {
+        "word": "Kuantitas",
+        "label": "O"
+    },
+    {
+        "word": "HOKIBET",
+        "label": "O"
+    },
+    {
+        "word": "By",
+        "label": "O"
+    },
+    {
+        "word": "divinewordintl.org",
+        "label": "O"
+    },
+    {
+        "word": "Layanan",
+        "label": "O"
+    },
+    {
+        "word": "Pelanggan",
+        "label": "O"
+    },
+    {
+        "word": "Pusat",
+        "label": "O"
+    },
+    {
+        "word": "Bantuan",
+        "label": "O"
+    },
+    {
+        "word": "Cara",
+        "label": "O"
+    },
+    {
+        "word": "Pembelian",
+        "label": "O"
+    },
+    {
+        "word": "Pengiriman",
+        "label": "O"
+    },
+    {
+        "word": "Kebijakan",
+        "label": "O"
+    },
+    {
+        "word": "Produk",
+        "label": "O"
+    },
+    {
+        "word": "Internasional",
+        "label": "O"
+    },
+    {
+        "word": "Cara",
+        "label": "O"
+    },
+    {
+        "word": "Pengembalian",
+        "label": "O"
+    },
+    {
+        "word": "Ada",
+        "label": "O"
+    },
+    {
+        "word": "pertanyaan",
+        "label": "O"
+    },
+    {
+        "word": "Hubungi",
+        "label": "O"
+    },
+    {
+        "word": "kami",
+        "label": "O"
+    },
+    {
+        "word": "di",
+        "label": "O"
+    },
+    {
+        "word": "live",
+        "label": "O"
+    },
+    {
+        "word": "chat",
+        "label": "O"
+    },
+    {
+        "word": "24",
+        "label": "O"
+    },
+    {
+        "word": "Jam",
+        "label": "O"
+    },
+    {
+        "word": "Jelajahi",
+        "label": "O"
+    },
+    {
+        "word": "Lazada",
+        "label": "O"
+    },
+    {
+        "word": "Tentang",
+        "label": "O"
+    },
+    {
+        "word": "Lazada",
+        "label": "O"
+    },
+    {
+        "word": "Afïliate",
+        "label": "O"
+    },
+    {
+        "word": "Program",
+        "label": "O"
+    },
+    {
+        "word": "Karir",
+        "label": "O"
+    },
+    {
+        "word": "Syarat",
+        "label": "O"
+    },
+    {
+        "word": "Ketentuan",
+        "label": "O"
+    },
+    {
+        "word": "Kebijakan",
+        "label": "O"
+    },
+    {
+        "word": "Privasi",
+        "label": "O"
+    },
+    {
+        "word": "Press",
+        "label": "O"
+    },
+    {
+        "word": "Media",
+        "label": "O"
+    },
+    {
+        "word": "Jual",
+        "label": "O"
+    },
+    {
+        "word": "Di",
+        "label": "O"
+    },
+    {
+        "word": "Lazada",
+        "label": "O"
+    },
+    {
+        "word": "Lazada",
+        "label": "O"
+    },
+    {
+        "word": "Security",
+        "label": "O"
+    },
+    {
+        "word": "Intellectual",
+        "label": "O"
+    },
+    {
+        "word": "Property",
+        "label": "O"
+    },
+    {
+        "word": "Protection",
+        "label": "O"
+    },
+    {
+        "word": "Go",
+        "label": "O"
+    },
+    {
+        "word": "where",
+        "label": "O"
+    },
+    {
+        "word": "your",
+        "label": "O"
+    },
+    {
+        "word": "heart",
+        "label": "O"
+    },
+    {
+        "word": "beats",
+        "label": "O"
+    },
+    {
+        "word": "Download",
+        "label": "O"
+    },
+    {
+        "word": "the",
+        "label": "O"
+    },
+    {
+        "word": "App",
+        "label": "O"
+    },
+    {
+        "word": "Metode",
+        "label": "O"
+    },
+    {
+        "word": "Pembayaran",
+        "label": "O"
+    },
+    {
+        "word": "Jasa",
+        "label": "O"
+    },
+    {
+        "word": "Pengiriman",
+        "label": "O"
+    },
+    {
+        "word": "Verified",
+        "label": "O"
+    },
+    {
+        "word": "by",
+        "label": "O"
+    },
+    {
+        "word": "Lazada",
+        "label": "O"
+    },
+    {
+        "word": "Southeast",
+        "label": "O"
+    },
+    {
+        "word": "Asia",
+        "label": "O"
+    },
+    {
+        "word": "Follow",
+        "label": "O"
+    },
+    {
+        "word": "Us",
+        "label": "O"
+    },
+    {
+        "word": "Â",
+        "label": "O"
+    },
+    {
+        "word": "Lazada",
+        "label": "O"
+    },
+    {
+        "word": "2024",
+        "label": "O"
+    },
+    {
+        "word": "LOGIN",
+        "label": "O"
+    },
+    {
+        "word": "ALTERNATIF",
+        "label": "O"
+    },
+    {
+        "word": "DAFTAR",
+        "label": "O"
+    },
+    {
+        "word": "PROMOSI",
+        "label": "O"
+    },
+    {
+        "word": "LIVE",
+        "label": "O"
+    },
+    {
+        "word": "CHAT",
+        "label": "O"
+    }
+]
